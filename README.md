@@ -1,6 +1,6 @@
 # 介绍
 
-本项目是我的知乎账号（[@GGapa](https://www.zhihu.com/people/GGapa) 的文章和回答的存档。
+本项目是我的知乎账号（[@GGapa](https://www.zhihu.com/people/GGapa)）的文章和回答的存档。
 
 # 致谢
 
