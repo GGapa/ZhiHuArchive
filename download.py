@@ -100,6 +100,13 @@ def download_content() -> None:
     paths = [p for p in paths if p not in not_found_paths]
     paths = [p for p in paths if p.split("/")[-1] not in processed_ids]
 
+    censorship_path = Path("censorship.json")
+    if censorship_path.exists():
+        with open(censorship_path, "r", encoding="utf-8") as f:
+            censorship = json.load(f)
+    else:
+        censorship = {}
+
     for path in tqdm(paths):
         is_article = "/p/" in path
         content_type = "article" if is_article else "answer"
@@ -118,6 +125,10 @@ def download_content() -> None:
 
         with open(f"{content_type}/{content_id}.json", "w", encoding="utf-8") as file:
             json.dump(data, file, ensure_ascii=False, indent=2)
+
+        censorship[path] = False
+        with open(censorship_path, "w", encoding="utf-8") as f:
+            json.dump(censorship, f, ensure_ascii=False, indent=4)
 
         sleep_time = random.random() * 4 + 1
         time.sleep(sleep_time)

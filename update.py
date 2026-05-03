@@ -11,6 +11,7 @@ def main() -> None:
     run("get_list.py")
     run("csv2path.py")
     run("download.py")
+    run("radar.py")
 
 if __name__ == "__main__":
     main()
