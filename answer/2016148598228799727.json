@@ -1,0 +1,61 @@
+{
+  "allow_segment_interaction": 1,
+  "answer_type": "normal",
+  "author": {
+    "avatar_url": "https://pic1.zhimg.com/v2-b3a4dcfac9d6fd77cf585196c612d5c8_l.jpg?source=2c26e567",
+    "avatar_url_template": "https://pica.zhimg.com/v2-b3a4dcfac9d6fd77cf585196c612d5c8.jpg?source=2c26e567",
+    "badge": [],
+    "badge_v2": {
+      "detail_badges": [],
+      "icon": "",
+      "merged_badges": [],
+      "night_icon": "",
+      "title": "ヾ(≧▽≦*)o"
+    },
+    "gender": 0,
+    "headline": "ヾ(≧▽≦*)o",
+    "id": "bd3c16f69cb9175e344a40454ebd171f",
+    "is_advertiser": false,
+    "is_org": false,
+    "is_privacy": false,
+    "name": "GGapa",
+    "type": "people",
+    "url": "https://www.zhihu.com/api/v4/people/bd3c16f69cb9175e344a40454ebd171f",
+    "url_token": "ggapa",
+    "user_type": "people"
+  },
+  "biz_ext": {
+    "share_guide": {
+      "has_positive_bubble": false,
+      "has_time_bubble": false,
+      "hit_share_guide_cluster": false
+    }
+  },
+  "comment_count": 0,
+  "content": "<p data-pid=\"N8SwJxfQ\">也不去看看现在的青少年究竟是喜欢玩游戏还是喜欢看短视频。限制了你玩游戏又不限制你看短视频，不就等于上帝给你关了一扇窗，但又给你开了一扇门吗？</p><p data-pid=\"6gxwSIvP\">防沉迷本身就意义不明。</p><p data-pid=\"V49Y_UZs\">我网络游戏玩不了了我不能够玩单机游戏吗？</p><p data-pid=\"f0B1XVmr\">什么，你要说单机游戏玩起来没意思？你难道不会下载 steam？难道不会去国外的游戏来玩？</p><p data-pid=\"M_V-4XFW\">你难道不会偷长辈的身份证？你难道不会用自己的辨论才华说服爷爷奶奶外公外婆爸爸妈妈让他们来给你扫脸？</p><p data-pid=\"_TwHJ2WP\">如果你上面的方法一个都想不到，下载一个抖音天天抱着看和天天玩游戏那简直是没有任何区别。</p><p data-pid=\"o66fOdbI\">根据我在学校接触同学的经验，越是优秀的同学就越喜欢<b>钻研</b>游戏，在男生中这一点呈现显著的正相关性（别骂我别骂我，我没有了解过女生的情况）；而越平庸的同学越喜欢看短视频。</p><p data-pid=\"NVV7OsbG\">此时你怎么不建议给抖音也加上一个年龄限制？制定规矩的人究竟有没有对不同成绩不同学校的学生进行考察？如果没有，建议认真学习总书记的尊尊教诲。</p><a href=\"https://link.zhihu.com/?target=https%3A//www.12371.cn/xxsx/dyls/\" data-draft-node=\"block\" data-draft-type=\"link-card\" data-draft-title=\"习近平总书记关于调查研究的重要论述_共产党员网\" data-draft-cover=\"\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">习近平总书记关于调查研究的重要论述_共产党员网</a><p></p>",
+  "content_need_truncated": false,
+  "created_time": 1773467284,
+  "extras": "",
+  "force_login_when_click_read_more": false,
+  "id": "2016148598228799727",
+  "is_collapsed": false,
+  "is_copyable": true,
+  "is_jump_native": false,
+  "question": {
+    "created": 1773224370,
+    "id": "2015129744446878568",
+    "question_type": "normal",
+    "relationship": {},
+    "title": "政协委员建议将网络游戏防沉迷管控从 18 岁延长至 22 岁，这一建议可行吗？能否防范大学生游戏成瘾？",
+    "type": "question",
+    "updated_time": 1773224370,
+    "url": "https://www.zhihu.com/api/v4/questions/2015129744446878568"
+  },
+  "relationship": {
+    "upvoted_followees": []
+  },
+  "type": "answer",
+  "updated_time": 1773467632,
+  "url": "https://www.zhihu.com/api/v4/answers/2016148598228799727",
+  "voteup_count": 0
+}

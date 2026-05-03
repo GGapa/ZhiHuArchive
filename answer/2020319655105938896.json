@@ -1,0 +1,68 @@
+{
+  "allow_segment_interaction": 1,
+  "answer_type": "normal",
+  "author": {
+    "avatar_url": "https://picx.zhimg.com/v2-b3a4dcfac9d6fd77cf585196c612d5c8_l.jpg?source=2c26e567",
+    "avatar_url_template": "https://pic1.zhimg.com/v2-b3a4dcfac9d6fd77cf585196c612d5c8.jpg?source=2c26e567",
+    "badge": [],
+    "badge_v2": {
+      "detail_badges": [],
+      "icon": "",
+      "merged_badges": [],
+      "night_icon": "",
+      "title": "ヾ(≧▽≦*)o"
+    },
+    "gender": 0,
+    "headline": "ヾ(≧▽≦*)o",
+    "id": "bd3c16f69cb9175e344a40454ebd171f",
+    "is_advertiser": false,
+    "is_org": false,
+    "is_privacy": false,
+    "name": "GGapa",
+    "type": "people",
+    "url": "https://www.zhihu.com/api/v4/people/bd3c16f69cb9175e344a40454ebd171f",
+    "url_token": "ggapa",
+    "user_type": "people"
+  },
+  "biz_ext": {
+    "share_guide": {
+      "has_positive_bubble": false,
+      "has_time_bubble": false,
+      "hit_share_guide_cluster": false
+    }
+  },
+  "comment_count": 0,
+  "content": "<p data-pid=\"DEnmhaby\">大晚上的睡不着觉，浅浅来评价一下这首歌。这首歌被收录于游戏《Limbus Company》中，可若单独来看，也绝对称得上是好的作品。</p><p data-pid=\"F6UNH3eD\">在这首歌中，贯穿全曲的钢琴均是实录，仔细听可以听到触键以及换踏板的声音，使得声音带着一种粗糙，而这种粗糙是现实生活中特有的，所以营造出了一种较为温馨的氛围，与回忆滤镜较为接近，使人想起已经过去的某些经历，进而一种淡淡的失意便产生了。</p><p data-pid=\"jkw6ElyK\">此时，若我们查看歌词，可以发现与“理想”有关。理想这个东西是非常的神奇，它往往承载着人类共有的向往，或者是另一种无法达成的痛苦，本歌曲选取了后者来当作感情的基调。我们在成长的时候，也是一个反复打碎旧理想，重建新理想的过程。但在这个过程中怎能少得了失意和痛苦呢？</p><p data-pid=\"_ZB2JVI6\">所以在 1:10 时，曲风由原有的轻柔急转为愤怒，这正好对应了理想无法实现的痛苦。在面对痛苦的过程中，我们都会想放弃过，但是最终我们都能与自己达成和解。不把手伸向那些难以企及的理想上，同时又保留着对未来美好的憧憬。</p><p data-pid=\"t4Bn7p0C\">在完成了心理建设以后，歌曲也迎来了高潮。在 2:10，主线和复线的“Goodbye”相互穿插，富有层次感。而伴奏也不再只有钢琴，一切都欣欣向荣，使人充满着希望，再痛也总是需要向前的。</p><p data-pid=\"qAtPtYUq\">说完了所有的愿望之后，使用渐缓减弱的钢琴结尾，余韵徐歇。这首曲子推荐使用音响大声外放听，不然听不出来钢琴的喘息（踏板）声，而踏板的一松一合就如同一个人的呼吸一样。特别是结尾的踏板松开，这就是完成了一天的劳累之后的喘息声。长叹一口气，把一天疲惫都放下，留下一片安静的余温，就好似漫漫长夜里的篝火</p><hr/><p data-pid=\"zG4kuZ_1\">像这样一首情感丰富变化，情绪一张一弛的歌曲是非常少见的，有一种古典美。为此，我愿意为此给出高度评价，大部分歌曲难以达到的高度。</p><p></p>",
+  "content_need_truncated": false,
+  "created_time": 1774461741,
+  "extras": "",
+  "force_login_when_click_read_more": false,
+  "id": "2020319655105938896",
+  "is_collapsed": false,
+  "is_copyable": true,
+  "is_jump_native": false,
+  "podcast_audio_enter": {
+    "action_url": "zhihu://podcast/audio_player/0?contentId=2020319655105938896&contentType=answer&subType=&entrance=detail_page",
+    "sub_type": "",
+    "text": "听内容",
+    "text_color": "MapBrand",
+    "text_size": 13
+  },
+  "question": {
+    "created": 1687919585,
+    "id": "609134317",
+    "question_type": "normal",
+    "relationship": {},
+    "title": "如何评价Mili的歌曲《Fly, My Wings》？",
+    "type": "question",
+    "updated_time": 1687919585,
+    "url": "https://www.zhihu.com/api/v4/questions/609134317"
+  },
+  "relationship": {
+    "upvoted_followees": []
+  },
+  "type": "answer",
+  "updated_time": 1774461741,
+  "url": "https://www.zhihu.com/api/v4/answers/2020319655105938896",
+  "voteup_count": 1
+}

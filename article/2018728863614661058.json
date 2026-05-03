@@ -1,0 +1,425 @@
+{
+  "trackUrl": [
+    "https://sugar.zhihu.com/plutus_adreaper/content_monitor_log?si=__SESSIONID__&ti=__ATOKEN__&at=view&pf=__OS__&ed=BiBUKF0xBSkqGGNXBmN0AVJ1CH2xkCtVpil58A==&idfa=__IDFA__&imei=__IMEI__&androidid=__ANDROIDID__&oaid=__OAID__&ci=__CREATIVEID__&zid=__ZONEID__"
+  ],
+  "entityWords": [
+    {
+      "name": "Anki",
+      "mention": "Anki",
+      "matchorder": 1,
+      "begin": 106,
+      "end": 110,
+      "entityid": 9119003893278666000,
+      "isBookMark": false,
+      "link": {
+        "linkType": 10,
+        "linkUrl": "https://zhida.zhihu.com/search?content_id=271810905&content_type=Article&match_order=1&q=Anki&zhida_source=entity",
+        "docType": "",
+        "topicToken": ""
+      },
+      "entityClass": "Unknown",
+      "score": 0.0035155705961500416,
+      "attachedInfoBytes": "sgJVCgRBbmtpEgdVbmtub3duGGogbigBNX1lZjs6B2FydGljbGVAitmdop+3zcZ+SApSJDk3ZDI2YTJhLWMwZGYtNGJmMC04YzJhLTNiODc5MGJiOTlhNfICwAEKJDk3ZDI2YTJhLWMwZGYtNGJmMC04YzJhLTNiODc5MGJiOTlhNRoHYXJ0aWNsZSIJMjcxODEwOTA1OgRBbmtpQIrZnaKft83GfkgAUhZhaV9lbnRpdHlfbGxtX3JlY2FsbGVyXX1lZjtiVQoEQW5raRIHVW5rbm93bhhqIG4oATV9ZWY7OgdhcnRpY2xlQIrZnaKft83GfkgKUiQ5N2QyNmEyYS1jMGRmLTRiZjAtOGMyYS0zYjg3OTBiYjk5YTU=",
+      "isOnAB": false,
+      "isNatural": 1,
+      "isDelete": false,
+      "contentType": "",
+      "contentId": "",
+      "contentToken": ""
+    },
+    {
+      "name": "工作记忆容量",
+      "mention": "工作记忆容量",
+      "matchorder": 1,
+      "begin": 2230,
+      "end": 2236,
+      "entityid": -8938472500883298000,
+      "isBookMark": false,
+      "link": {
+        "linkType": 10,
+        "linkUrl": "https://zhida.zhihu.com/search?content_id=271810905&content_type=Article&match_order=1&q=%E5%B7%A5%E4%BD%9C%E8%AE%B0%E5%BF%86%E5%AE%B9%E9%87%8F&zhida_source=entity",
+        "docType": "",
+        "topicToken": ""
+      },
+      "entityClass": "Unknown",
+      "score": 0.0030403626114008375,
+      "attachedInfoBytes": "sgJmChLlt6XkvZzorrDlv4blrrnph48SB1Vua25vd24YthEgvBEoATXSQEc7OgdhcnRpY2xlQLzOg7Ll04r6gwFIClIkOTdkMjZhMmEtYzBkZi00YmYwLThjMmEtM2I4NzkwYmI5OWE18gLgAQokOTdkMjZhMmEtYzBkZi00YmYwLThjMmEtM2I4NzkwYmI5OWE1GgdhcnRpY2xlIgkyNzE4MTA5MDU6EuW3peS9nOiusOW/huWuuemHj0C8zoOy5dOK+oMBSAFSFmFpX2VudGl0eV9sbG1fcmVjYWxsZXJd0kBHO2JmChLlt6XkvZzorrDlv4blrrnph48SB1Vua25vd24YthEgvBEoATXSQEc7OgdhcnRpY2xlQLzOg7Ll04r6gwFIClIkOTdkMjZhMmEtYzBkZi00YmYwLThjMmEtM2I4NzkwYmI5OWE1",
+      "isOnAB": false,
+      "isNatural": 1,
+      "isDelete": false,
+      "contentType": "",
+      "contentId": "",
+      "contentToken": ""
+    },
+    {
+      "name": "电磁题",
+      "mention": "电磁题",
+      "matchorder": 1,
+      "begin": 1699,
+      "end": 1702,
+      "entityid": 8113819665372687000,
+      "isBookMark": false,
+      "link": {
+        "linkType": 10,
+        "linkUrl": "https://zhida.zhihu.com/search?content_id=271810905&content_type=Article&match_order=1&q=%E7%94%B5%E7%A3%81%E9%A2%98&zhida_source=entity",
+        "docType": "",
+        "topicToken": ""
+      },
+      "entityClass": "Unknown",
+      "score": 0.0019524857012687136,
+      "attachedInfoBytes": "sgJcCgnnlLXno4HpopgSB1Vua25vd24Yow0gpg0oATWM6v86OgdhcnRpY2xlQJXX+PDy/4TNcEgKUiQ5N2QyNmEyYS1jMGRmLTRiZjAtOGMyYS0zYjg3OTBiYjk5YTXyAswBCiQ5N2QyNmEyYS1jMGRmLTRiZjAtOGMyYS0zYjg3OTBiYjk5YTUaB2FydGljbGUiCTI3MTgxMDkwNToJ55S156OB6aKYQJXX+PDy/4TNcEgCUhZhaV9lbnRpdHlfbGxtX3JlY2FsbGVyXYzq/zpiXAoJ55S156OB6aKYEgdVbmtub3duGKMNIKYNKAE1jOr/OjoHYXJ0aWNsZUCV1/jw8v+EzXBIClIkOTdkMjZhMmEtYzBkZi00YmYwLThjMmEtM2I4NzkwYmI5OWE1",
+      "isOnAB": false,
+      "isNatural": 1,
+      "isDelete": false,
+      "contentType": "",
+      "contentId": "",
+      "contentToken": ""
+    },
+    {
+      "name": "信息竞赛",
+      "mention": "信息竞赛",
+      "matchorder": 1,
+      "begin": 83,
+      "end": 87,
+      "entityid": 2260656786078825500,
+      "isBookMark": false,
+      "link": {
+        "linkType": 10,
+        "linkUrl": "https://zhida.zhihu.com/search?content_id=271810905&content_type=Article&match_order=1&q=%E4%BF%A1%E6%81%AF%E7%AB%9E%E8%B5%9B&zhida_source=entity",
+        "docType": "",
+        "topicToken": ""
+      },
+      "entityClass": "Unknown",
+      "score": 0.0013051618566368717,
+      "attachedInfoBytes": "sgJdCgzkv6Hmga/nq57otZsSB1Vua25vd24YUyBXKAE19xGrOjoHYXJ0aWNsZUD/97eq6evdrx9IClIkOTdkMjZhMmEtYzBkZi00YmYwLThjMmEtM2I4NzkwYmI5OWE18gLQAQokOTdkMjZhMmEtYzBkZi00YmYwLThjMmEtM2I4NzkwYmI5OWE1GgdhcnRpY2xlIgkyNzE4MTA5MDU6DOS/oeaBr+ernui1m0D/97eq6evdrx9IA1IWYWlfZW50aXR5X2xsbV9yZWNhbGxlcl33Eas6Yl0KDOS/oeaBr+ernui1mxIHVW5rbm93bhhTIFcoATX3Eas6OgdhcnRpY2xlQP/3t6rp692vH0gKUiQ5N2QyNmEyYS1jMGRmLTRiZjAtOGMyYS0zYjg3OTBiYjk5YTU=",
+      "isOnAB": false,
+      "isNatural": 1,
+      "isDelete": false,
+      "contentType": "",
+      "contentId": "",
+      "contentToken": ""
+    }
+  ],
+  "id": "2018728863614661058",
+  "title": "1 前言",
+  "type": "article",
+  "articleType": "normal",
+  "excerptTitle": "",
+  "url": "https://zhuanlan.zhihu.com/p/2018728863614661058",
+  "imageUrl": "",
+  "titleImage": "",
+  "excerpt": "<b>1.1 我是谁？</b>我是 GGapa，目前读于四川某普通学校，目前高三。我在高二曾停课学习过信息竞赛，可惜并未取得可观结果。当前正在使用 Anki 来辅助自己学习文化课。 我的记忆力很差，对于复杂琐碎的语文课文，和我的同学相比，我需要花费极大的代价才能将其背…",
+  "created": 1774082493,
+  "updated": 1774082494,
+  "author": {
+    "isFollowed": false,
+    "avatarUrlTemplate": "https://picx.zhimg.com/v2-b3a4dcfac9d6fd77cf585196c612d5c8.jpg?source=172ae18b",
+    "uid": "1572195336499671040",
+    "userType": "people",
+    "isFollowing": false,
+    "urlToken": "ggapa",
+    "id": "bd3c16f69cb9175e344a40454ebd171f",
+    "description": "ggapa.net",
+    "name": "GGapa",
+    "isAdvertiser": false,
+    "headline": "ヾ(≧▽≦*)o",
+    "gender": 0,
+    "url": "https://www.zhihu.com/people/bd3c16f69cb9175e344a40454ebd171f",
+    "avatarUrl": "https://pic1.zhimg.com/v2-b3a4dcfac9d6fd77cf585196c612d5c8_l.jpg?source=172ae18b",
+    "isOrg": false,
+    "type": "people",
+    "badge": [],
+    "badgeV2": {
+      "title": "ヾ(≧▽≦*)o",
+      "mergedBadges": [],
+      "detailBadges": [],
+      "icon": "",
+      "nightIcon": ""
+    },
+    "exposedMedal": {
+      "medalId": "0",
+      "medalName": "",
+      "avatarUrl": "",
+      "miniAvatarUrl": "",
+      "description": "",
+      "medalAvatarFrame": null
+    },
+    "avatar_url": "https://pic1.zhimg.com/v2-b3a4dcfac9d6fd77cf585196c612d5c8_l.jpg?source=172ae18b"
+  },
+  "commentPermission": "all",
+  "copyrightPermission": "need_review",
+  "state": "published",
+  "ipInfo": "四川",
+  "imageWidth": 0,
+  "imageHeight": 0,
+  "content": "<h3><b>1.1 我是谁？</b></h3><p data-pid=\"Odx6K3dk\">我是 GGapa，目前读于四川某普通学校，目前高三。我在高二曾停课学习过信息竞赛，可惜并未取得可观结果。当前正在使用 Anki 来辅助自己学习文化课。</p><p data-pid=\"EjtzZEzG\">我的记忆力很差，对于复杂琐碎的语文课文，和我的同学相比，我需要花费极大的代价才能将其背诵下来，并且还需要极大的代价来解决错别字的问题，并且解决效果不理想。</p><p data-pid=\"otIvmjqB\">这也会对我的理科产生影响，尤其是数学和物理。在阅读一道数学和物理题时，我容易忘记题目内容，但我能够在没有发现这一问题的情况下继续解题，导致出错。常见的错误有：</p><ul><li data-pid=\"y58eki6X\">将题目中给定的数据替换为我臆想出来的数据。</li><li data-pid=\"_ePPSf2L\">遗漏关键条件导致无法解题。</li><li data-pid=\"8ClwTGH4\">忘记了原本最初要求的东西是什么，虚空解题，得到了题目中不要求的内容。</li></ul><p data-pid=\"XOQD6xUN\">在进行计算时，我也经常会由于忘记一些我正在进行的操作，而导致出错。举例来说，假如我在解不等式时，打算在移项的同时约分。此时的我有可能会忘记移项时需要变号，也有可能在移项时忘记约分导致出错。除了这些，还有一些计算错误是难以使用记忆力差来解释的，我也搞不懂究竟是怎么了。</p><h3><b>1.2 无法被“仔细”解决的困境</b></h3><p data-pid=\"Zf_Km65g\">我不能够理解为什么我是这样子的，我从小学开始便因为记忆力差背不住语文而苦恼。上了初中以后，我基本上不能够跟着班上同学的进度，伴随着课文篇幅的额增加，每次背诵都需要依靠人际关系或者死皮烂脸应付过去，对我造成了极大的苦恼。</p><p data-pid=\"RE_474DK\">让我更加不理解的是，我周围的同学都没有出现类似于我这样的问题，他们的计算都很少出错，我无法从其他人身上汲取到任何经验了。我也去咨询了老师，但是老师们只会让我更加仔细一点，提不出其他任何建议。</p><p data-pid=\"n0yFfImq\">于是我转而去在互联网上寻求答案。我便开始分析经计算出错的原因，除了加减乘除以外，出错的一个大头原因就是跳步，就像我刚刚所说的同时约分和移项一样。</p><p data-pid=\"ZmqmdsZK\">但是在考试和平时练习的时候是很难做到不跳步的，不跳步意味着你需要把每一步都写下来，这极其浪费时间和草稿纸。在跳步的情况下，一次数学考试我都要使用 3 张以上的草稿纸；不跳步的话，换草稿纸的次数只会更多，换草稿纸和计算的过程中很容易忘记做题的思路，以至于出现“我刚刚想到哪里了？”之类的问题，得不偿失。</p><p data-pid=\"Kud68P0-\">更加让人恼火的是，这个问题还不能像知乎上某些人说的那样够通过对点训练来解决。在单独做题的时候，出错率往往并没有那么高，但是一实践的时候就会爆炸。</p><p data-pid=\"_ZmLqG-j\">我自己尝试分析了一下原因，我觉得可能是因为在实践的过程中，大脑需要处理题目，它就没有那么多的功夫来处理计算上可能出现的问题，导致出错。</p><h3><b>1.3 努力的边界</b></h3><p data-pid=\"MID_eajE\">我使出了浑身解数，但是问题一直存在着，未能解决，我无法再想到新的路径来让我背诵背的更快，我也不知道怎么做才能够避免我犯“粗心大意”的错误。老师们总说粗心只是借口，错误暴露出来的只是更加深处的原因等待着我们发现；曾经的我也是这样认为的。</p><p data-pid=\"jgyZjMbt\">因为想不出来办法，我每天晚上都睡不着觉、茶饭不思，整天都在想着该如何挽救我的计算。在数学和物理考试时，我非常害怕自己算错看错题，每个题我都要反复计算和查看。记得当时物理考试，是电磁题的第二问，我担心算错一直反复算，但是每一次算出来的结果都不一样，直到考试结束也没能算对。数学考试的第一道题也是这样，我多次查看可能的坑出现在哪里，可依然没有发现，痛失 5 分。</p><p data-pid=\"H0PALwKw\">这次考试我考的很炸。我似乎明白了，真正困扰我的东西已不是上面说的问题本身了，而是没有成功解决这个问题所产生的心理压力。所以我索性释怀了，既然我无法解决这个问题，那与其让他一直困扰着我，我不如将之抛掷脑后，等到某天时机来领，我再把这个问题拿出来开刀。可是，这一天真的会到来吗？</p><p data-pid=\"WGbRO_6g\">是的，没错，我就是放弃了。你可以尽情的嘲笑我的无能，我并不在意，因为我知道，我大概就是受到天赋的限制了，我没有必要为了一个我无法改变的事实而天天垂头丧气。你当然也可以说我在假怒力，你也可以说我就是方法没有用对，你也可以认为天赋是不存在的。不过那是你的想法，并不是我的，我也希望我能够重拾“努力改变一切”的观点，只可惜我被现实打败了，我再也无法相信了。</p><h3><b>1.4 生存之道</b></h3><p data-pid=\"DBlc-z9b\">根据我在互联晚上了解到的知识，我觉得可以使用“工作记忆容量极小”来形容我现在的状况，只不过让我感到遗憾的是，硕大的中文互联网上居然没有人分享在这种情况下的应试之道，甚至针对普通学生系统性学习的方法论也没有。</p><p data-pid=\"_8h_vejg\">如今流行的学习方法，有太多都是出自天赋异禀之人的手中了。他们或是精力无限，一天只需睡四个小时。又或是记忆力和整合力超好，只通过看书就能够将书上琐碎的知识直接套用到做题当中了……</p><p data-pid=\"qhM5BwnN\">我身边有太多太多的同学，他们都十分努力，但使用了错误的方法，让他们的努力付之东流，陷入了自我怀疑。可是老师们却反复强调着这些方法都是对的，是不容置疑的。那些人越是努力，对自己的怀疑就又添了几许。你忍心把所有的问题都怪罪到他的头上吗？</p><p data-pid=\"KidwpL5F\">我写到这里的时候，离高考还有 80 余天。我身边的一个又一个同学，开始打算放弃身边的所有娱乐，压缩自己的睡眠时间，使用着根本不适合他们的学习方法。我真的感到非常的心痛。</p><p data-pid=\"xoT2_zLc\">对于普通的学生都是如此，对于那些记忆力差，计算能力差的学生，又怎能通过不适合他们的方法收获真正的进步呢？</p><h3><b>1.5 这篇文章适合谁看？</b></h3><p data-pid=\"LO9ChaVf\">你可能会好奇，我在前面说了这么多，意义究竟是什么？坦白来讲，我不希望我在读者眼前是一个十分高大上的形象，我和许许多多的人一样，都有着自己的情感，和自己的难处。但是我并未放弃，我通过分析复盘和实践，构建出来了一套在我身上有些许效果的学习方法。而这些我摸索出来的学习方法，或多或少都有点偏离于常规。</p><p data-pid=\"gV4eciEJ\">虽然我起的标题是针对像我一样记忆力较差的人所写的。但我相信，虽然方法可能不能通用，但是其中所蕴含的某些思想或许能够帮助到大家。现在，我回答我在三级标题处提出的问题：它适用于所有人。即使你天资凡凡，你也有属于自己的路可以走。</p>",
+  "contentNeedTruncated": false,
+  "forceLoginWhenClickReadMore": false,
+  "adminClosedComment": false,
+  "topics": [],
+  "voteupCount": 2,
+  "voting": 0,
+  "heavyUpStatus": "allow_heavy_up",
+  "column": {
+    "description": "",
+    "canManage": true,
+    "intro": "",
+    "isFollowing": false,
+    "urlToken": "c_2018728776637395553",
+    "id": "c_2018728776637395553",
+    "articlesCount": 2,
+    "acceptSubmission": false,
+    "title": "记忆力差也能把文化课学好",
+    "url": "https://zhuanlan.zhihu.com/c_2018728776637395553",
+    "commentPermission": "all",
+    "created": 1774082446,
+    "updated": 1774082446,
+    "imageUrl": "https://picx.zhimg.com/v2-c5be1695771c4f9b442b5bde56e5e8e0_720w.jpg?source=172ae18b",
+    "author": {
+      "isFollowed": false,
+      "avatarUrlTemplate": "https://pica.zhimg.com/v2-b3a4dcfac9d6fd77cf585196c612d5c8.jpg?source=172ae18b",
+      "uid": "1572195336499671040",
+      "userType": "people",
+      "isFollowing": false,
+      "urlToken": "ggapa",
+      "id": "bd3c16f69cb9175e344a40454ebd171f",
+      "description": "ggapa.net",
+      "name": "GGapa",
+      "isAdvertiser": false,
+      "headline": "ヾ(≧▽≦*)o",
+      "gender": 0,
+      "url": "/people/bd3c16f69cb9175e344a40454ebd171f",
+      "avatarUrl": "https://picx.zhimg.com/v2-b3a4dcfac9d6fd77cf585196c612d5c8_l.jpg?source=172ae18b",
+      "isOrg": false,
+      "type": "people",
+      "badgeV2": {
+        "title": "",
+        "mergedBadges": [],
+        "detailBadges": [],
+        "icon": "",
+        "nightIcon": ""
+      }
+    },
+    "followers": 0,
+    "type": "column",
+    "columnType": "normal"
+  },
+  "commentCount": 0,
+  "contributions": [
+    {
+      "id": 53684866,
+      "state": "accepted",
+      "type": "first_publish",
+      "column": {
+        "description": "",
+        "canManage": true,
+        "intro": "",
+        "isFollowing": false,
+        "urlToken": "c_2018728776637395553",
+        "id": "c_2018728776637395553",
+        "articlesCount": 2,
+        "acceptSubmission": false,
+        "title": "记忆力差也能把文化课学好",
+        "url": "https://zhuanlan.zhihu.com/c_2018728776637395553",
+        "commentPermission": "all",
+        "created": 1774082446,
+        "updated": 1774082446,
+        "imageUrl": "https://picx.zhimg.com/v2-c5be1695771c4f9b442b5bde56e5e8e0_720w.jpg?source=172ae18b",
+        "author": {
+          "isFollowed": false,
+          "avatarUrlTemplate": "https://pica.zhimg.com/v2-b3a4dcfac9d6fd77cf585196c612d5c8.jpg?source=172ae18b",
+          "uid": "1572195336499671040",
+          "userType": "people",
+          "isFollowing": false,
+          "urlToken": "ggapa",
+          "id": "bd3c16f69cb9175e344a40454ebd171f",
+          "description": "ggapa.net",
+          "name": "GGapa",
+          "isAdvertiser": false,
+          "headline": "ヾ(≧▽≦*)o",
+          "gender": 0,
+          "url": "/people/bd3c16f69cb9175e344a40454ebd171f",
+          "avatarUrl": "https://picx.zhimg.com/v2-b3a4dcfac9d6fd77cf585196c612d5c8_l.jpg?source=172ae18b",
+          "isOrg": false,
+          "type": "people",
+          "badgeV2": {
+            "title": "",
+            "mergedBadges": [],
+            "detailBadges": [],
+            "icon": "",
+            "nightIcon": ""
+          }
+        },
+        "followers": 0,
+        "type": "column",
+        "columnType": "normal"
+      }
+    }
+  ],
+  "isTitleImageFullScreen": false,
+  "upvotedFollowees": [],
+  "commercialInfo": {
+    "isCommercial": false,
+    "plugin": {}
+  },
+  "suggestEdit": {
+    "status": false,
+    "reason": "",
+    "tip": "",
+    "url": "",
+    "title": ""
+  },
+  "reason": "",
+  "annotationAction": [],
+  "canTip": false,
+  "canOpenTipjar": true,
+  "tipjarorsCount": 0,
+  "isLabeled": true,
+  "hasPublishingDraft": false,
+  "isFavorited": false,
+  "favlistsCount": 0,
+  "isNormal": true,
+  "status": 0,
+  "activityToppingInfo": {
+    "state": "untopped"
+  },
+  "shareText": "1 前言 - 来自知乎专栏「记忆力差也能把文化课学好」，作者: GGapa https://zhuanlan.zhihu.com/p/2018728863614661058 （想看更多？下载 @知乎 App：http://weibo.com/p/100404711598 ）",
+  "canComment": {
+    "status": true,
+    "reason": ""
+  },
+  "mcnFpShow": -1,
+  "isVisible": true,
+  "isLiked": false,
+  "likedCount": 0,
+  "hasColumn": true,
+  "republishers": [],
+  "isNewLinkCard": true,
+  "emojiReaction": {
+    "likeCount": 0,
+    "likeHasSet": false
+  },
+  "abParam": {
+    "qaHiddenVoteup": "",
+    "rsInterest1": "",
+    "zpZhiStyle": ""
+  },
+  "attachedInfo": "kgIuCgkyNzE4MTA5MDUSEzIwMTg3Mjg4NjM2MTQ2NjEwNTgYByIKSU1BR0VfVEVYVA==",
+  "shareGuide": {
+    "hasPositiveBubble": false,
+    "hasTimeBubble": false,
+    "hitShareGuideCluster": false
+  },
+  "settings": {
+    "tableOfContents": {
+      "enabled": false
+    }
+  },
+  "canReference": false,
+  "reactionInstruction": {},
+  "reaction": {
+    "statistics": {
+      "upVoteCount": 2,
+      "downVoteCount": 0,
+      "likeCount": 0,
+      "commentCount": 0,
+      "shareCount": 0,
+      "playCount": 0,
+      "interestPlayCount": 0,
+      "favorites": 0,
+      "pvCount": 0,
+      "bulletCount": 0,
+      "applaudCount": 0,
+      "questionFollowerCount": 0,
+      "questionAnswerCount": 0,
+      "plaincontentVoteUpCount": 0,
+      "plaincontentLikeCount": 0,
+      "subscribeCount": 0,
+      "republishers": []
+    },
+    "relation": {
+      "isAuthor": true,
+      "vote": "Neutral",
+      "liked": false,
+      "faved": false,
+      "following": false,
+      "subcribed": false,
+      "isNavigatorVote": false,
+      "currentUserIsNavigator": false,
+      "voteNextStep": ""
+    },
+    "imageReactions": {}
+  },
+  "interactionBarPlugins": [
+    {
+      "type": "comment",
+      "comment": {
+        "enable": true,
+        "placeholder": "发条带图评论"
+      }
+    }
+  ],
+  "barPluginsFlipTime": 3000,
+  "podcastAudioEnter": {
+    "text": "听内容",
+    "textColor": "MapBrand",
+    "textSize": 13,
+    "actionUrl": "zhihu://podcast/audio_player/0?contentId=2018728863614661058&contentType=article"
+  },
+  "endorsements": [
+    {
+      "elements": [
+        {
+          "type": "IMAGE",
+          "imageKey": "zhicon_icon_24_column_fill",
+          "imageColor": {
+            "alpha": 1,
+            "group": "GBL01A"
+          },
+          "width": 16,
+          "height": 16
+        },
+        {
+          "type": "TEXT",
+          "content": "收录于 · 记忆力差也能把文化课学好",
+          "fontSize": 13,
+          "fontColor": {
+            "alpha": 1,
+            "group": "GBL01A"
+          },
+          "isBold": false,
+          "maxLine": 1
+        },
+        {
+          "type": "IMAGE",
+          "imageKey": "zhicon_icon_16_arrow_right",
+          "imageColor": {
+            "alpha": 1,
+            "group": "GBL01A"
+          },
+          "width": 12,
+          "height": 12
+        }
+      ],
+      "subElements": [],
+      "subElementsType": "DESCRIPTION",
+      "backgroundColor": {
+        "alpha": 0.08,
+        "group": "GBL01A"
+      },
+      "actionUrl": "https://www.zhihu.com/column/c_2018728776637395553",
+      "za": {
+        "blockText": "Column",
+        "type": "text",
+        "text": "收录于 · 记忆力差也能把文化课学好"
+      }
+    }
+  ],
+  "allowSegmentInteraction": 1,
+  "isNavigator": false,
+  "navigatorVote": false,
+  "voteNextStep": "vote",
+  "image_url": "",
+  "voteup_count": 2,
+  "comment_count": 0
+}

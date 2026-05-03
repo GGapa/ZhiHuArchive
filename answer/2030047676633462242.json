@@ -1,0 +1,68 @@
+{
+  "allow_segment_interaction": 1,
+  "answer_type": "normal",
+  "author": {
+    "avatar_url": "https://picx.zhimg.com/v2-b3a4dcfac9d6fd77cf585196c612d5c8_l.jpg?source=2c26e567",
+    "avatar_url_template": "https://picx.zhimg.com/v2-b3a4dcfac9d6fd77cf585196c612d5c8.jpg?source=2c26e567",
+    "badge": [],
+    "badge_v2": {
+      "detail_badges": [],
+      "icon": "",
+      "merged_badges": [],
+      "night_icon": "",
+      "title": "ヾ(≧▽≦*)o"
+    },
+    "gender": 0,
+    "headline": "ヾ(≧▽≦*)o",
+    "id": "bd3c16f69cb9175e344a40454ebd171f",
+    "is_advertiser": false,
+    "is_org": false,
+    "is_privacy": false,
+    "name": "GGapa",
+    "type": "people",
+    "url": "https://www.zhihu.com/api/v4/people/bd3c16f69cb9175e344a40454ebd171f",
+    "url_token": "ggapa",
+    "user_type": "people"
+  },
+  "biz_ext": {
+    "share_guide": {
+      "has_positive_bubble": false,
+      "has_time_bubble": false,
+      "hit_share_guide_cluster": false
+    }
+  },
+  "comment_count": 0,
+  "content": "<p data-pid=\"UHqPhWje\">此合集（非我整理）收录了 Animenz 曾在 Sheet.host 公开的所有钢琴谱（现已删除），并整合了其他网友二次扒谱的作品。下载链接如下：</p><a href=\"https://link.zhihu.com/?target=https%3A//github.com/user-attachments/files/17853797/All.Sheets.of.Animenz.zip\" data-draft-node=\"block\" data-draft-type=\"link-card\" data-draft-title=\"All Sheets of Animenz.zip\" data-draft-cover=\"\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">All Sheets of Animenz.zip</a><p data-pid=\"e6bQmsuz\">其中，鸟之诗钢琴谱在“Key 社组曲”中，文件名为 <code>Key anime piano suite v2.pdf</code>。打开文件，迎面而来的便是鸟之诗。</p><figure data-size=\"normal\"><noscript><img src=\"https://pica.zhimg.com/50/v2-15c17fedcb8f7e18a30446a7d095c633_720w.jpg?source=2c26e567\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"1162\" data-rawheight=\"795\" data-original-token=\"v2-8334ca1b8ac1dc5352a9f9cbdcfd5c3b\" class=\"origin_image zh-lightbox-thumb\" width=\"1162\" data-original=\"https://pic1.zhimg.com/v2-15c17fedcb8f7e18a30446a7d095c633_r.jpg?source=2c26e567\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;1162&#39; height=&#39;795&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"1162\" data-rawheight=\"795\" data-original-token=\"v2-8334ca1b8ac1dc5352a9f9cbdcfd5c3b\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"1162\" data-original=\"https://pic1.zhimg.com/v2-15c17fedcb8f7e18a30446a7d095c633_r.jpg?source=2c26e567\" data-actualsrc=\"https://pica.zhimg.com/50/v2-15c17fedcb8f7e18a30446a7d095c633_720w.jpg?source=2c26e567\"/></figure><p></p>",
+  "content_need_truncated": false,
+  "created_time": 1776781082,
+  "extras": "",
+  "force_login_when_click_read_more": false,
+  "id": "2030047676633462242",
+  "is_collapsed": false,
+  "is_copyable": true,
+  "is_jump_native": false,
+  "podcast_audio_enter": {
+    "action_url": "zhihu://podcast/audio_player/0?contentId=2030047676633462242&contentType=answer&subType=&entrance=detail_page",
+    "sub_type": "",
+    "text": "听内容",
+    "text_color": "MapBrand",
+    "text_size": 13
+  },
+  "question": {
+    "created": 1685333612,
+    "id": "603608874",
+    "question_type": "normal",
+    "relationship": {},
+    "title": "a叔的鸟之诗钢琴谱谁有！！！?",
+    "type": "question",
+    "updated_time": 1685333612,
+    "url": "https://www.zhihu.com/api/v4/questions/603608874"
+  },
+  "relationship": {
+    "upvoted_followees": []
+  },
+  "type": "answer",
+  "updated_time": 1776781082,
+  "url": "https://www.zhihu.com/api/v4/answers/2030047676633462242",
+  "voteup_count": 0
+}

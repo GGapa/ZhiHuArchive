@@ -1,0 +1,68 @@
+{
+  "allow_segment_interaction": 1,
+  "answer_type": "normal",
+  "author": {
+    "avatar_url": "https://pic1.zhimg.com/v2-b3a4dcfac9d6fd77cf585196c612d5c8_l.jpg?source=2c26e567",
+    "avatar_url_template": "https://picx.zhimg.com/v2-b3a4dcfac9d6fd77cf585196c612d5c8.jpg?source=2c26e567",
+    "badge": [],
+    "badge_v2": {
+      "detail_badges": [],
+      "icon": "",
+      "merged_badges": [],
+      "night_icon": "",
+      "title": "ヾ(≧▽≦*)o"
+    },
+    "gender": 0,
+    "headline": "ヾ(≧▽≦*)o",
+    "id": "bd3c16f69cb9175e344a40454ebd171f",
+    "is_advertiser": false,
+    "is_org": false,
+    "is_privacy": false,
+    "name": "GGapa",
+    "type": "people",
+    "url": "https://www.zhihu.com/api/v4/people/bd3c16f69cb9175e344a40454ebd171f",
+    "url_token": "ggapa",
+    "user_type": "people"
+  },
+  "biz_ext": {
+    "share_guide": {
+      "has_positive_bubble": false,
+      "has_time_bubble": false,
+      "hit_share_guide_cluster": false
+    }
+  },
+  "comment_count": 0,
+  "content": "<p data-pid=\"QXsO1WA_\">如果你觉得整理了有用就整理，没有用就不整理。</p><ol><li data-pid=\"635ms_ls\">很难归因的低级错误：像加减乘除这种，整理了之后可能还会再犯的错误就不用整理。这种错误很可能是习惯问题，也有可能是工作记忆容量较低的问题，总之是很难解决的，并且拥有着更深层次的原因需要分析，如果只是简单的整理往往涉及不到内在原因（比如说做题的时候老是走神，草稿不规范，睡眠时长不足等），难以通过整理解决。</li></ol><p data-pid=\"tcf7s_jx\">2. 能够归因的低级错误：像忘记了 <img eeimg=\"1\" src=\"https://www.zhihu.com/equation?tex=%5Cln%28x%29+\" alt=\"\\ln(x) \"/> 的定义域为 <img eeimg=\"1\" src=\"https://www.zhihu.com/equation?tex=x%3E0\" alt=\"x&gt;0\"/> 这种，就把它记下来，之后就不容易再犯。没啥好说的，记住就好了。</p><p></p><p></p><p></p>",
+  "content_need_truncated": false,
+  "created_time": 1771265824,
+  "extras": "",
+  "force_login_when_click_read_more": false,
+  "id": "2006915006202156297",
+  "is_collapsed": false,
+  "is_copyable": true,
+  "is_jump_native": false,
+  "podcast_audio_enter": {
+    "action_url": "zhihu://podcast/audio_player/0?contentId=2006915006202156297&contentType=answer&subType=&entrance=detail_page",
+    "sub_type": "",
+    "text": "听内容",
+    "text_color": "MapBrand",
+    "text_size": 13
+  },
+  "question": {
+    "created": 1759758254,
+    "id": "1958648761405380402",
+    "question_type": "normal",
+    "relationship": {},
+    "title": "高中生理科低级错误要整理错题吗?",
+    "type": "question",
+    "updated_time": 1759758254,
+    "url": "https://www.zhihu.com/api/v4/questions/1958648761405380402"
+  },
+  "relationship": {
+    "upvoted_followees": []
+  },
+  "type": "answer",
+  "updated_time": 1771265824,
+  "url": "https://www.zhihu.com/api/v4/answers/2006915006202156297",
+  "voteup_count": 2
+}

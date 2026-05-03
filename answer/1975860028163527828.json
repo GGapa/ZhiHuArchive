@@ -1,0 +1,68 @@
+{
+  "allow_segment_interaction": 1,
+  "answer_type": "normal",
+  "author": {
+    "avatar_url": "https://picx.zhimg.com/v2-b3a4dcfac9d6fd77cf585196c612d5c8_l.jpg?source=2c26e567",
+    "avatar_url_template": "https://pic1.zhimg.com/v2-b3a4dcfac9d6fd77cf585196c612d5c8.jpg?source=2c26e567",
+    "badge": [],
+    "badge_v2": {
+      "detail_badges": [],
+      "icon": "",
+      "merged_badges": [],
+      "night_icon": "",
+      "title": "ヾ(≧▽≦*)o"
+    },
+    "gender": 0,
+    "headline": "ヾ(≧▽≦*)o",
+    "id": "bd3c16f69cb9175e344a40454ebd171f",
+    "is_advertiser": false,
+    "is_org": false,
+    "is_privacy": false,
+    "name": "GGapa",
+    "type": "people",
+    "url": "https://www.zhihu.com/api/v4/people/bd3c16f69cb9175e344a40454ebd171f",
+    "url_token": "ggapa",
+    "user_type": "people"
+  },
+  "biz_ext": {
+    "share_guide": {
+      "has_positive_bubble": false,
+      "has_time_bubble": false,
+      "hit_share_guide_cluster": false
+    }
+  },
+  "comment_count": 0,
+  "content": "<p data-pid=\"cOS-bRMe\">圆锥曲线算错真的是个很头疼的问题啊。</p><p data-pid=\"k29Af6Ox\">如果从后往前，辛辛苦苦检查了半天，最终发现第一步就错了 QAQ。如果从前往后，同样也可能是最后一步就出错。</p><p data-pid=\"RwvwwVHK\">我觉得吧，从前面检查，能够保证思路的连贯性，这样能够减少在紧急情况下想不起来这一步是在干什么的风险，而且从前往后检查与从后往前检查不同，他是一个循序渐进的过程，换句话说每一步只需要再算一遍，不需要像从后往前检查出来了一个错，最后一步需要算两遍的情况，这种情况对我来说会造成一定的心理影响。</p><p data-pid=\"sV82So8d\">早发现早治疗嘛，如果前面的步骤错了检查出来了，还有过程可以拿嘛。考试的时候肯定是以稳妥为主啊qwq</p>",
+  "content_need_truncated": false,
+  "created_time": 1763861740,
+  "extras": "",
+  "force_login_when_click_read_more": false,
+  "id": "1975860028163527828",
+  "is_collapsed": false,
+  "is_copyable": true,
+  "is_jump_native": false,
+  "podcast_audio_enter": {
+    "action_url": "zhihu://podcast/audio_player/0?contentId=1975860028163527828&contentType=answer&subType=&entrance=detail_page",
+    "sub_type": "",
+    "text": "听内容",
+    "text_color": "MapBrand",
+    "text_size": 13
+  },
+  "question": {
+    "created": 1754393225,
+    "id": "1936146198235977708",
+    "question_type": "normal",
+    "relationship": {},
+    "title": "圆锥曲线算错之后，应该从前往后检查还是从后往前检查?",
+    "type": "question",
+    "updated_time": 1754393225,
+    "url": "https://www.zhihu.com/api/v4/questions/1936146198235977708"
+  },
+  "relationship": {
+    "upvoted_followees": []
+  },
+  "type": "answer",
+  "updated_time": 1763861740,
+  "url": "https://www.zhihu.com/api/v4/answers/1975860028163527828",
+  "voteup_count": 2
+}

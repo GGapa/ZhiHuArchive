@@ -1,0 +1,68 @@
+{
+  "allow_segment_interaction": 1,
+  "answer_type": "normal",
+  "author": {
+    "avatar_url": "https://picx.zhimg.com/v2-b3a4dcfac9d6fd77cf585196c612d5c8_l.jpg?source=2c26e567",
+    "avatar_url_template": "https://pic1.zhimg.com/v2-b3a4dcfac9d6fd77cf585196c612d5c8.jpg?source=2c26e567",
+    "badge": [],
+    "badge_v2": {
+      "detail_badges": [],
+      "icon": "",
+      "merged_badges": [],
+      "night_icon": "",
+      "title": "ヾ(≧▽≦*)o"
+    },
+    "gender": 0,
+    "headline": "ヾ(≧▽≦*)o",
+    "id": "bd3c16f69cb9175e344a40454ebd171f",
+    "is_advertiser": false,
+    "is_org": false,
+    "is_privacy": false,
+    "name": "GGapa",
+    "type": "people",
+    "url": "https://www.zhihu.com/api/v4/people/bd3c16f69cb9175e344a40454ebd171f",
+    "url_token": "ggapa",
+    "user_type": "people"
+  },
+  "biz_ext": {
+    "share_guide": {
+      "has_positive_bubble": false,
+      "has_time_bubble": false,
+      "hit_share_guide_cluster": false
+    }
+  },
+  "comment_count": 0,
+  "content": "<p data-pid=\"4nd1iAb4\">有没有可能是因为上课的时候空气流动性差，质量下降导致的。</p><p data-pid=\"uStDJU9f\">尤其是冬天和夏天。冬天大家都说冷，不敢开窗。夏天怕热，也不敢开窗。40 多个人处在同一个教室里面，门窗紧闭，怎么样空气都好不了。</p><p data-pid=\"XU9gKgm0\">不知道大家中学时进教室，有没有感到一股奇怪的气味传来，不是汗臭不是脚臭，就是一股闷闷的感觉，在这样糟糕的空气中学习，再怎么睡觉得多都会觉得发困。</p><p data-pid=\"sY3qRy1r\">下课不困是因为下课往往门会打开，并且人员流动性增强，空气更新也要同上课时相比迅速的多，所以下课不容易感到困。</p><p data-pid=\"HNdOlU6t\">当然肯定还有其他因素的影响，可我觉得这个问题不可忽视，但是却又经常被忽略，还难以解决的。</p><p></p>",
+  "content_need_truncated": false,
+  "created_time": 1775827292,
+  "extras": "",
+  "force_login_when_click_read_more": false,
+  "id": "2026047192931016824",
+  "is_collapsed": false,
+  "is_copyable": false,
+  "is_jump_native": false,
+  "podcast_audio_enter": {
+    "action_url": "zhihu://podcast/audio_player/0?contentId=2026047192931016824&contentType=answer&subType=&entrance=detail_page",
+    "sub_type": "",
+    "text": "听内容",
+    "text_color": "MapBrand",
+    "text_size": 13
+  },
+  "question": {
+    "created": 1558062331,
+    "id": "324761012",
+    "question_type": "normal",
+    "relationship": {},
+    "title": "为什么上课的时候特别困，但是一下课就不困了呢，在线等，急？",
+    "type": "question",
+    "updated_time": 1558062331,
+    "url": "https://www.zhihu.com/api/v4/questions/324761012"
+  },
+  "relationship": {
+    "upvoted_followees": []
+  },
+  "type": "answer",
+  "updated_time": 1775827292,
+  "url": "https://www.zhihu.com/api/v4/answers/2026047192931016824",
+  "voteup_count": 0
+}

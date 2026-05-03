@@ -1,0 +1,68 @@
+{
+  "allow_segment_interaction": 1,
+  "answer_type": "normal",
+  "author": {
+    "avatar_url": "https://pic1.zhimg.com/v2-b3a4dcfac9d6fd77cf585196c612d5c8_l.jpg?source=2c26e567",
+    "avatar_url_template": "https://picx.zhimg.com/v2-b3a4dcfac9d6fd77cf585196c612d5c8.jpg?source=2c26e567",
+    "badge": [],
+    "badge_v2": {
+      "detail_badges": [],
+      "icon": "",
+      "merged_badges": [],
+      "night_icon": "",
+      "title": "ヾ(≧▽≦*)o"
+    },
+    "gender": 0,
+    "headline": "ヾ(≧▽≦*)o",
+    "id": "bd3c16f69cb9175e344a40454ebd171f",
+    "is_advertiser": false,
+    "is_org": false,
+    "is_privacy": false,
+    "name": "GGapa",
+    "type": "people",
+    "url": "https://www.zhihu.com/api/v4/people/bd3c16f69cb9175e344a40454ebd171f",
+    "url_token": "ggapa",
+    "user_type": "people"
+  },
+  "biz_ext": {
+    "share_guide": {
+      "has_positive_bubble": false,
+      "has_time_bubble": false,
+      "hit_share_guide_cluster": false
+    }
+  },
+  "comment_count": 0,
+  "content": "<p data-pid=\"Jgs7t3SN\"><b>问题描述： </b>在 Windows 11 中，窗口化应用会遮挡任务栏。如下图所示：</p><figure data-size=\"normal\"><noscript><img src=\"https://pic1.zhimg.com/50/v2-b06a291bee910d4b973d290aa7ac4f3e_720w.jpg?source=2c26e567\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"1440\" data-rawheight=\"351\" data-original-token=\"v2-0075864151f55ce310616c983276f37f\" class=\"origin_image zh-lightbox-thumb\" width=\"1440\" data-original=\"https://pica.zhimg.com/v2-b06a291bee910d4b973d290aa7ac4f3e_r.jpg?source=2c26e567\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;1440&#39; height=&#39;351&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"1440\" data-rawheight=\"351\" data-original-token=\"v2-0075864151f55ce310616c983276f37f\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"1440\" data-original=\"https://pica.zhimg.com/v2-b06a291bee910d4b973d290aa7ac4f3e_r.jpg?source=2c26e567\" data-actualsrc=\"https://pic1.zhimg.com/50/v2-b06a291bee910d4b973d290aa7ac4f3e_720w.jpg?source=2c26e567\"/></figure><p data-pid=\"TX-Cnl2H\"><b>解决方法：</b>如果你使用的是 NVIDIA 显卡，这可能是 NVIDIA App/GeForce Experience 的游戏内覆盖（Overlay）功能冲突导致的。可以尝试以下操作：</p><p data-pid=\"rrzrRXLL\">打开 NVIDIA App（或 GeForce Experience）。</p><p data-pid=\"f7dRYJ-0\">进入设置界面。</p><p data-pid=\"ETtZv8sR\">找到 “英伟达游戏内覆盖” (NVIDIA Overlay) 选项。如下图所示：</p><figure data-size=\"normal\"><noscript><img src=\"https://picx.zhimg.com/50/v2-1b9c7f778675770d4cf207fe668257d8_720w.jpg?source=2c26e567\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"1440\" data-rawheight=\"1039\" data-original-token=\"v2-f7aa5a695d5a58725eb91325adb5bf34\" class=\"origin_image zh-lightbox-thumb\" width=\"1440\" data-original=\"https://pica.zhimg.com/v2-1b9c7f778675770d4cf207fe668257d8_r.jpg?source=2c26e567\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;1440&#39; height=&#39;1039&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"1440\" data-rawheight=\"1039\" data-original-token=\"v2-f7aa5a695d5a58725eb91325adb5bf34\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"1440\" data-original=\"https://pica.zhimg.com/v2-1b9c7f778675770d4cf207fe668257d8_r.jpg?source=2c26e567\" data-actualsrc=\"https://picx.zhimg.com/50/v2-1b9c7f778675770d4cf207fe668257d8_720w.jpg?source=2c26e567\"/></figure><p data-pid=\"q7XRjM63\">将其关闭即可。关闭后，窗口遮挡任务栏的问题通常会立即消失。</p><p></p>",
+  "content_need_truncated": false,
+  "created_time": 1771586598,
+  "extras": "",
+  "force_login_when_click_read_more": false,
+  "id": "2008260430540325379",
+  "is_collapsed": true,
+  "is_copyable": true,
+  "is_jump_native": false,
+  "podcast_audio_enter": {
+    "action_url": "zhihu://podcast/audio_player/0?contentId=2008260430540325379&contentType=answer&subType=&entrance=detail_page",
+    "sub_type": "",
+    "text": "听内容",
+    "text_color": "MapBrand",
+    "text_size": 13
+  },
+  "question": {
+    "created": 1747992790,
+    "id": "1909300827702686074",
+    "question_type": "normal",
+    "relationship": {},
+    "title": "Windows 11任务栏被其它窗口遮挡，怎么解决？",
+    "type": "question",
+    "updated_time": 1747992790,
+    "url": "https://www.zhihu.com/api/v4/questions/1909300827702686074"
+  },
+  "relationship": {
+    "upvoted_followees": []
+  },
+  "type": "answer",
+  "updated_time": 1771586598,
+  "url": "https://www.zhihu.com/api/v4/answers/2008260430540325379",
+  "voteup_count": 0
+}

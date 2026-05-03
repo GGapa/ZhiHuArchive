@@ -1,0 +1,68 @@
+{
+  "allow_segment_interaction": 1,
+  "answer_type": "normal",
+  "author": {
+    "avatar_url": "https://picx.zhimg.com/v2-b3a4dcfac9d6fd77cf585196c612d5c8_l.jpg?source=2c26e567",
+    "avatar_url_template": "https://picx.zhimg.com/v2-b3a4dcfac9d6fd77cf585196c612d5c8.jpg?source=2c26e567",
+    "badge": [],
+    "badge_v2": {
+      "detail_badges": [],
+      "icon": "",
+      "merged_badges": [],
+      "night_icon": "",
+      "title": "ヾ(≧▽≦*)o"
+    },
+    "gender": 0,
+    "headline": "ヾ(≧▽≦*)o",
+    "id": "bd3c16f69cb9175e344a40454ebd171f",
+    "is_advertiser": false,
+    "is_org": false,
+    "is_privacy": false,
+    "name": "GGapa",
+    "type": "people",
+    "url": "https://www.zhihu.com/api/v4/people/bd3c16f69cb9175e344a40454ebd171f",
+    "url_token": "ggapa",
+    "user_type": "people"
+  },
+  "biz_ext": {
+    "share_guide": {
+      "has_positive_bubble": false,
+      "has_time_bubble": false,
+      "hit_share_guide_cluster": false
+    }
+  },
+  "comment_count": 0,
+  "content": "<p data-pid=\"OQylA4Wb\">学霸有天赋是肯定的，但是往往他们也不会亲自打造一种十分悠闲的人设。往往只有年龄比较小，没怎么见过世面的批话哥才会喜欢到处强调自己很轻松，可是却在暗地里付出巨大的努力，这样的行为伴随着年龄的增长往往会得到改善。</p><p data-pid=\"_wh_1VIr\">在我曾经还是个菜鸟和一个学霸交流的时候，我问他周末在干什么，他回答说他周末全在放松。可是仔细一问，就是早上八点钟起床，去图书馆学到下午五点回家，回家之后没有继续学习，刷了会短视频看了会小说罢了。但就因为回家之后的时间被他们认为是没有产出的，所以他们往往会真心觉得自己周末很颓废了。</p><p data-pid=\"e8hReZdT\">一般来说天赋哥是没有那么常见的，绝大部分学霸都还是付出了大量的努力的，为了能够保持努力，这势必会使得他们对懈怠感到非常敏感，稍有懈怠他们内心中的某根神经就会触发，吸引到他们的注意力，从而掩盖过那些有产出的时间，让学霸自己也相信自己“从不努力”。</p><p data-pid=\"vqRDuL47\">受到主观意识的影响，学霸身边的许多人在评价学霸时，往往做不到客观。一个认定“唯天赋论”的人，听到了学霸对自己状态的描述之后，更容易注意到他“轻松”的那一面。同理，一个“唯努力论”的人，往往会选择性的忽略掉天赋对于一个学霸的影响，从而得到“学霸总是很努力”的这一结论。</p><p data-pid=\"9aJyEjKN\">因为学霸自我认知的影响再加上刻板印象，得出“从不努力”的结论也并不意外了。</p><p></p>",
+  "content_need_truncated": false,
+  "created_time": 1775662762,
+  "extras": "",
+  "force_login_when_click_read_more": false,
+  "id": "2025357100507735871",
+  "is_collapsed": false,
+  "is_copyable": false,
+  "is_jump_native": false,
+  "podcast_audio_enter": {
+    "action_url": "zhihu://podcast/audio_player/0?contentId=2025357100507735871&contentType=answer&subType=&entrance=detail_page",
+    "sub_type": "",
+    "text": "听内容",
+    "text_color": "MapBrand",
+    "text_size": 13
+  },
+  "question": {
+    "created": 1754294776,
+    "id": "1935733273969037719",
+    "question_type": "normal",
+    "relationship": {},
+    "title": "为什么很多学霸宣称“从不努力”，真相是天赋还是人设？",
+    "type": "question",
+    "updated_time": 1754294776,
+    "url": "https://www.zhihu.com/api/v4/questions/1935733273969037719"
+  },
+  "relationship": {
+    "upvoted_followees": []
+  },
+  "type": "answer",
+  "updated_time": 1775662827,
+  "url": "https://www.zhihu.com/api/v4/answers/2025357100507735871",
+  "voteup_count": 1
+}

@@ -1,0 +1,10 @@
+*.csv
+*.ipynb
+*.html
+*.xml
+*.epub
+.env
+.DS_Store
+/html
+/downloads
+uv.lock

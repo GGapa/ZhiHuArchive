@@ -1,0 +1,68 @@
+{
+  "allow_segment_interaction": 1,
+  "answer_type": "normal",
+  "author": {
+    "avatar_url": "https://picx.zhimg.com/v2-b3a4dcfac9d6fd77cf585196c612d5c8_l.jpg?source=2c26e567",
+    "avatar_url_template": "https://pica.zhimg.com/v2-b3a4dcfac9d6fd77cf585196c612d5c8.jpg?source=2c26e567",
+    "badge": [],
+    "badge_v2": {
+      "detail_badges": [],
+      "icon": "",
+      "merged_badges": [],
+      "night_icon": "",
+      "title": "ヾ(≧▽≦*)o"
+    },
+    "gender": 0,
+    "headline": "ヾ(≧▽≦*)o",
+    "id": "bd3c16f69cb9175e344a40454ebd171f",
+    "is_advertiser": false,
+    "is_org": false,
+    "is_privacy": false,
+    "name": "GGapa",
+    "type": "people",
+    "url": "https://www.zhihu.com/api/v4/people/bd3c16f69cb9175e344a40454ebd171f",
+    "url_token": "ggapa",
+    "user_type": "people"
+  },
+  "biz_ext": {
+    "share_guide": {
+      "has_positive_bubble": false,
+      "has_time_bubble": false,
+      "hit_share_guide_cluster": false
+    }
+  },
+  "comment_count": 0,
+  "content": "<p data-pid=\"rf2qGFM1\">这个问题，大抵很难解决吧。</p><p data-pid=\"ruVJWSuJ\">我们总是向善的，在我们的内心中，总是有着一个更好的自己。所以我们才会去为了某些事情奋斗，努力。但是如果心中的理想形象和现实条件脱节的话，痛苦便产生了。</p><p data-pid=\"Ooqet4Zh\">而比较，更会加剧我们的痛苦。</p><p data-pid=\"WOCB7tIz\">当你看到一个比你小，但是比自己更加优秀的人，他们的前途是那么的有光明。他们完完全全的拥有着你曾拥有但是没有抓住的机会，他们有着能够达成你心中目标的前提条件。这时，你就会无意识的把他们往自己的身上映射，会想起过去的种种不堪，感叹到自己的无能，进而为此感到痛苦也不见得意外了。</p><p data-pid=\"v2G6o7rt\">所以，我觉得，我们完全没有必要去和别人比较啊，面对已经走过的路，已经错过的风景，为什么还要暗自悲伤，为已经无法改变的选项而感到后悔呢？</p><p data-pid=\"HEVFsal3\">悟已往之不见，知来者之可追。</p><p data-pid=\"7XlkvB-z\">请你好好的接受现在的自己吧，好好的爱自己吧，找一个地方静下来，那里没有因为比较而产生的痛苦。遇见比自己更加优秀的人，就发自内心的鼓励他们，为他们的成果感到惊叹，并期盼到他们在未来一定会过的更好，遇见比自己差的多的人，也不要因此而嫌弃他们，而是给予足够充分的帮助。</p><p data-pid=\"RBHHkNsd\">正是过去的一个个错误的选择，一次又一次的巧合，才构成了现在一个活生生的你啊。</p><p data-pid=\"5YEbIo2X\">所以，擦掉脸上的泪水，内心依然充满着对明天的期待，继续去做着自己应该做的事情。不要因为别人的意气，别人的高傲，那些心胸狭窄的人，伤了自己的心。不然他们就真的得逞了，对吗？</p><p data-pid=\"_Nj88koM\">今天的你敢于直面自己的不足，这是很有勇气的。虽然我们确实不是最优秀的，在这偌大的世界上还有很多很多的高手，但是你就是你，你已经做的足够了，而现在好好的让自己休息一下吧!</p>",
+  "content_need_truncated": false,
+  "created_time": 1763309360,
+  "extras": "",
+  "force_login_when_click_read_more": false,
+  "id": "1973543180529054975",
+  "is_collapsed": false,
+  "is_copyable": true,
+  "is_jump_native": false,
+  "podcast_audio_enter": {
+    "action_url": "zhihu://podcast/audio_player/0?contentId=1973543180529054975&contentType=answer&subType=&entrance=detail_page",
+    "sub_type": "",
+    "text": "听内容",
+    "text_color": "MapBrand",
+    "text_size": 13
+  },
+  "question": {
+    "created": 1612328508,
+    "id": "442644943",
+    "question_type": "normal",
+    "relationship": {},
+    "title": "看见比自己年龄小的却比自己优秀，特别难受 ，怎么办？",
+    "type": "question",
+    "updated_time": 1612328508,
+    "url": "https://www.zhihu.com/api/v4/questions/442644943"
+  },
+  "relationship": {
+    "upvoted_followees": []
+  },
+  "type": "answer",
+  "updated_time": 1763309428,
+  "url": "https://www.zhihu.com/api/v4/answers/1973543180529054975",
+  "voteup_count": 1
+}

@@ -1,0 +1,68 @@
+{
+  "allow_segment_interaction": 1,
+  "answer_type": "normal",
+  "author": {
+    "avatar_url": "https://picx.zhimg.com/v2-b3a4dcfac9d6fd77cf585196c612d5c8_l.jpg?source=2c26e567",
+    "avatar_url_template": "https://picx.zhimg.com/v2-b3a4dcfac9d6fd77cf585196c612d5c8.jpg?source=2c26e567",
+    "badge": [],
+    "badge_v2": {
+      "detail_badges": [],
+      "icon": "",
+      "merged_badges": [],
+      "night_icon": "",
+      "title": "ヾ(≧▽≦*)o"
+    },
+    "gender": 0,
+    "headline": "ヾ(≧▽≦*)o",
+    "id": "bd3c16f69cb9175e344a40454ebd171f",
+    "is_advertiser": false,
+    "is_org": false,
+    "is_privacy": false,
+    "name": "GGapa",
+    "type": "people",
+    "url": "https://www.zhihu.com/api/v4/people/bd3c16f69cb9175e344a40454ebd171f",
+    "url_token": "ggapa",
+    "user_type": "people"
+  },
+  "biz_ext": {
+    "share_guide": {
+      "has_positive_bubble": false,
+      "has_time_bubble": false,
+      "hit_share_guide_cluster": false
+    }
+  },
+  "comment_count": 0,
+  "content": "<p data-pid=\"aJ3_oCDx\">不喜欢很正常吧，就和有些人不喜欢古典是一个道理，不喜欢就没有必要强迫自己去听。</p><p data-pid=\"YTt0nqkF\">但是感觉很多不喜欢歌姬的人，听的路子是歪的，没有吃过细糠。</p><p data-pid=\"bJ9Iinv-\">歌姬作为一种乐器，就和钢琴类似，有自己的特色。就和想听钢琴的特色就去听肖邦，而不是听贝多芬莫扎特一样；听歌姬就要去找发挥了歌姬特色的作品。</p><p data-pid=\"Sa97NL97\">如何判断一个作品是否有特色？很简单，看看真人翻唱是否胜于原作就行了。</p><p data-pid=\"M1X4emmA\">现在歌姬的声音越来越与人声相似，可始终没有胜过人声（不使用 AI 驱动）。如果一个没有发挥歌姬特色的作品由真人来歌唱的话，自然比不过。</p><p data-pid=\"N8RqBFk7\">换句话说，这些作品就是按照真人的唱法来编曲的，没有利用到歌姬独特的机械感，以及平稳感。我听这些那我不如去听更好听的人声，如果是因为这个感到厌烦也很正常。</p><p data-pid=\"u17cL_a_\">先举个正面例子：</p><a data-draft-node=\"block\" data-draft-type=\"link-card\" href=\"https://link.zhihu.com/?target=https%3A//163cn.tv/6de2A1L\" data-draft-title=\"\" data-draft-cover=\"\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">Goodbye To A World</a><p data-pid=\"eOuWmWyK\">歌姬是 AVANNA。机械的声音结合标题，能够构建出一个机器人在末日中的景象，并且声音本身也与配乐的电音配合的很好。此时若混进一个不带电的，反而会显得诡异。</p><p data-pid=\"oQ7OhwDc\">像类似的歌曲，若是真人演唱，在处理的时候往往也会机械化或不真化处理，我的评价是不如用歌姬。</p><p data-pid=\"y_CU472x\">来看看反面例子：DAYBREAK FRONTLINE (拂晓前线）</p><p data-pid=\"WmwhWp62\">网易云音乐上，原作都不知道冷到哪里去了。。。</p><p data-pid=\"g_ZW1Dsj\">当然橙星还是有好作品的，比如说：雨き声残響 (雨声残响)</p><p></p><p></p><p></p>",
+  "content_need_truncated": false,
+  "created_time": 1777610843,
+  "extras": "",
+  "force_login_when_click_read_more": false,
+  "id": "2033527946372179563",
+  "is_collapsed": false,
+  "is_copyable": true,
+  "is_jump_native": false,
+  "podcast_audio_enter": {
+    "action_url": "zhihu://podcast/audio_player/0?contentId=2033527946372179563&contentType=answer&subType=&entrance=detail_page",
+    "sub_type": "",
+    "text": "听内容",
+    "text_color": "MapBrand",
+    "text_size": 13
+  },
+  "question": {
+    "created": 1671537203,
+    "id": "573372824",
+    "question_type": "normal",
+    "relationship": {},
+    "title": "为什么我不喜欢虚拟歌姬的声音？喜欢听虚拟歌姬的人是什么心态？",
+    "type": "question",
+    "updated_time": 1675071593,
+    "url": "https://www.zhihu.com/api/v4/questions/573372824"
+  },
+  "relationship": {
+    "upvoted_followees": []
+  },
+  "type": "answer",
+  "updated_time": 1777610843,
+  "url": "https://www.zhihu.com/api/v4/answers/2033527946372179563",
+  "voteup_count": 7
+}

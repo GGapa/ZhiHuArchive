@@ -1,0 +1,68 @@
+{
+  "allow_segment_interaction": 1,
+  "answer_type": "normal",
+  "author": {
+    "avatar_url": "https://pic1.zhimg.com/v2-b3a4dcfac9d6fd77cf585196c612d5c8_l.jpg?source=2c26e567",
+    "avatar_url_template": "https://pic1.zhimg.com/v2-b3a4dcfac9d6fd77cf585196c612d5c8.jpg?source=2c26e567",
+    "badge": [],
+    "badge_v2": {
+      "detail_badges": [],
+      "icon": "",
+      "merged_badges": [],
+      "night_icon": "",
+      "title": "ヾ(≧▽≦*)o"
+    },
+    "gender": 0,
+    "headline": "ヾ(≧▽≦*)o",
+    "id": "bd3c16f69cb9175e344a40454ebd171f",
+    "is_advertiser": false,
+    "is_org": false,
+    "is_privacy": false,
+    "name": "GGapa",
+    "type": "people",
+    "url": "https://www.zhihu.com/api/v4/people/bd3c16f69cb9175e344a40454ebd171f",
+    "url_token": "ggapa",
+    "user_type": "people"
+  },
+  "biz_ext": {
+    "share_guide": {
+      "has_positive_bubble": false,
+      "has_time_bubble": false,
+      "hit_share_guide_cluster": false
+    }
+  },
+  "comment_count": 0,
+  "content": "<p data-pid=\"SUuMpBdO\">自卑这个东西是一大恶习，需要尽可能克服。但是在当前社会环境下，产生这一恶习并不是一个意外的结果。</p><p data-pid=\"afX3wx6i\">现在有很多人，尤其是老一辈人，他们判断一个学生是否成功的唯一标准就是——一个学生能否考上清华北大。而且这一类人往往还对阶级跃迁有着令人难以理解的热忱。</p><p data-pid=\"iLykl-xr\">在这一评判体系下，每年应届毕业生，有 99.9% 以上的人，都是失败的。而哪怕这些失败者已经超越了 98% 甚至是 99% 的同龄人，但就是因为没有考上清华北大，他们 18 年的努力放在某些人的眼里，就是不值一提。</p><p data-pid=\"yFeeyi41\">在这样苛刻的条件下，绝大部分学校的学生，从他们踏进学校校门的那一刻起，就注定是一个失败者。但是这还不够。在一个失败者扎堆的环境中，有的人都还要争取相对没有那么失败的地位——第一名。</p><p data-pid=\"wjalFjS2\">一所学校能产生几个第一？年级第一、班级第一、甚至是小组第一。那么那些一个第一都拿不到的人呢？那不就成为了失败者中的失败者中的失败者失败者了吗？然后老师们还要想尽一切办法，美化这一群失败者中的成功者，夸耀他们的一切，贬低你的一言一行一举一动。长期在这样的一个环境下能够不自卑就有鬼了。</p><p data-pid=\"WdP26NKT\">很讽刺的是，那些考取第一的人，往往都不觉得考取第一是一件很值得夸耀的事情，他们只是在追寻乐趣，享受学习带来的快感罢了。那些没有刻意去追求成功的人，往往成为了真正成功的人。而那些天天想要成功的学生，却往往因为内心的痛苦和压抑而被迫停下了脚步。</p><p class=\"ztext-empty-paragraph\"><br/></p><hr/><p class=\"ztext-empty-paragraph\"><br/></p><p data-pid=\"ztTATSs9\">一个综合素质高的人成绩一般不会差，但是一个成绩优秀的人综合素质却不一定高。如果一个人声称自己是因为另一个人的“分数”足够高就喜欢上了他，那么往往这个人喜欢的并不是高分本身，而是其背后强大的人格魅力——有可能是专注的状态或者自信的眼神罢了。如果是这样的话，那么恭喜你，你是一个正常人。对于一个各方面都优秀的人，即使是同性都愿意互相呆在一起，更何况是异性了。况且你还被他喜欢上了，这就是变相得到了学霸的认可，说明你也是一个很优秀的人，更加没有什么自卑的必要了。</p><p data-pid=\"MxysuNyD\">如果你就真的是因为他的分数高喜欢上的他，那我觉得你还是尽快改变观念比较好，人外有人，你永远遇不到那个最强的人。</p>",
+  "content_need_truncated": false,
+  "created_time": 1776401325,
+  "extras": "",
+  "force_login_when_click_read_more": false,
+  "id": "2028454859628619427",
+  "is_collapsed": false,
+  "is_copyable": true,
+  "is_jump_native": false,
+  "podcast_audio_enter": {
+    "action_url": "zhihu://podcast/audio_player/0?contentId=2028454859628619427&contentType=answer&subType=&entrance=detail_page",
+    "sub_type": "",
+    "text": "听内容",
+    "text_color": "MapBrand",
+    "text_size": 13
+  },
+  "question": {
+    "created": 1761917311,
+    "id": "1967704502606991498",
+    "question_type": "normal",
+    "relationship": {},
+    "title": "自己成绩一般般被学霸喜欢上了，感觉很自卑但是又是优绩主义也不自觉被对方吸引怎么办（高中生）?",
+    "type": "question",
+    "updated_time": 1761917311,
+    "url": "https://www.zhihu.com/api/v4/questions/1967704502606991498"
+  },
+  "relationship": {
+    "upvoted_followees": []
+  },
+  "type": "answer",
+  "updated_time": 1776401325,
+  "url": "https://www.zhihu.com/api/v4/answers/2028454859628619427",
+  "voteup_count": 2
+}

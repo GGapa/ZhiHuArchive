@@ -1,0 +1,68 @@
+{
+  "allow_segment_interaction": 1,
+  "answer_type": "normal",
+  "author": {
+    "avatar_url": "https://pica.zhimg.com/v2-b3a4dcfac9d6fd77cf585196c612d5c8_l.jpg?source=2c26e567",
+    "avatar_url_template": "https://pic1.zhimg.com/v2-b3a4dcfac9d6fd77cf585196c612d5c8.jpg?source=2c26e567",
+    "badge": [],
+    "badge_v2": {
+      "detail_badges": [],
+      "icon": "",
+      "merged_badges": [],
+      "night_icon": "",
+      "title": "ヾ(≧▽≦*)o"
+    },
+    "gender": 0,
+    "headline": "ヾ(≧▽≦*)o",
+    "id": "bd3c16f69cb9175e344a40454ebd171f",
+    "is_advertiser": false,
+    "is_org": false,
+    "is_privacy": false,
+    "name": "GGapa",
+    "type": "people",
+    "url": "https://www.zhihu.com/api/v4/people/bd3c16f69cb9175e344a40454ebd171f",
+    "url_token": "ggapa",
+    "user_type": "people"
+  },
+  "biz_ext": {
+    "share_guide": {
+      "has_positive_bubble": false,
+      "has_time_bubble": false,
+      "hit_share_guide_cluster": false
+    }
+  },
+  "comment_count": 0,
+  "content": "<p data-pid=\"Hs2B4Oka\">成功了还好。</p><p data-pid=\"e0ayzlBi\">失败了可都是泪啊……</p><figure data-size=\"normal\"><noscript><img src=\"https://picx.zhimg.com/50/v2-b9a57d2a04bc46e2dd76b3b73d789680_720w.jpg?source=2c26e567\" data-size=\"normal\" data-rawwidth=\"704\" data-rawheight=\"314\" data-original-token=\"v2-5bba5d91286face49874f412638f00ad\" class=\"origin_image zh-lightbox-thumb\" width=\"704\" data-original=\"https://pic1.zhimg.com/v2-b9a57d2a04bc46e2dd76b3b73d789680_r.jpg?source=2c26e567\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;704&#39; height=&#39;314&#39;&gt;&lt;/svg&gt;\" data-size=\"normal\" data-rawwidth=\"704\" data-rawheight=\"314\" data-original-token=\"v2-5bba5d91286face49874f412638f00ad\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"704\" data-original=\"https://pic1.zhimg.com/v2-b9a57d2a04bc46e2dd76b3b73d789680_r.jpg?source=2c26e567\" data-actualsrc=\"https://picx.zhimg.com/50/v2-b9a57d2a04bc46e2dd76b3b73d789680_720w.jpg?source=2c26e567\"/><figcaption>初二开始学竞赛，高中纯停课，未能得到 NOIP 1=。</figcaption></figure><p></p>",
+  "content_need_truncated": false,
+  "created_time": 1772648097,
+  "extras": "",
+  "force_login_when_click_read_more": false,
+  "id": "2012712680562111266",
+  "is_collapsed": false,
+  "is_copyable": true,
+  "is_jump_native": false,
+  "podcast_audio_enter": {
+    "action_url": "zhihu://podcast/audio_player/0?contentId=2012712680562111266&contentType=answer&subType=&entrance=detail_page",
+    "sub_type": "",
+    "text": "听内容",
+    "text_color": "MapBrand",
+    "text_size": 13
+  },
+  "question": {
+    "created": 1748605033,
+    "id": "1911868760811344497",
+    "question_type": "normal",
+    "relationship": {},
+    "title": "现在高中学科竞赛已经没有性价比了吗？",
+    "type": "question",
+    "updated_time": 1748605033,
+    "url": "https://www.zhihu.com/api/v4/questions/1911868760811344497"
+  },
+  "relationship": {
+    "upvoted_followees": []
+  },
+  "type": "answer",
+  "updated_time": 1772648097,
+  "url": "https://www.zhihu.com/api/v4/answers/2012712680562111266",
+  "voteup_count": 0
+}

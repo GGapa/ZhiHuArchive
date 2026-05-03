@@ -1,0 +1,68 @@
+{
+  "allow_segment_interaction": 1,
+  "answer_type": "normal",
+  "author": {
+    "avatar_url": "https://picx.zhimg.com/v2-b3a4dcfac9d6fd77cf585196c612d5c8_l.jpg?source=2c26e567",
+    "avatar_url_template": "https://pic1.zhimg.com/v2-b3a4dcfac9d6fd77cf585196c612d5c8.jpg?source=2c26e567",
+    "badge": [],
+    "badge_v2": {
+      "detail_badges": [],
+      "icon": "",
+      "merged_badges": [],
+      "night_icon": "",
+      "title": "ヾ(≧▽≦*)o"
+    },
+    "gender": 0,
+    "headline": "ヾ(≧▽≦*)o",
+    "id": "bd3c16f69cb9175e344a40454ebd171f",
+    "is_advertiser": false,
+    "is_org": false,
+    "is_privacy": false,
+    "name": "GGapa",
+    "type": "people",
+    "url": "https://www.zhihu.com/api/v4/people/bd3c16f69cb9175e344a40454ebd171f",
+    "url_token": "ggapa",
+    "user_type": "people"
+  },
+  "biz_ext": {
+    "share_guide": {
+      "has_positive_bubble": false,
+      "has_time_bubble": false,
+      "hit_share_guide_cluster": false
+    }
+  },
+  "comment_count": 0,
+  "content": "<p data-pid=\"U5yoI7lD\">少年从小就生活在盆地里，不知从何时起，少年爱上了爬山。</p><p data-pid=\"aWlcUfhu\">他苦练自己的技术，在经历了一次又一次的失败之后，他成功登上了盆地里最高的山峰。</p><p data-pid=\"T014JhO_\">他也因此名扬四方。认为全天下没有什么山峰能够阻拦他了，他是最强大的。</p><p data-pid=\"SMRyPghi\">可是他并不知道他生活在一个无比广阔、一眼望不到头的盆地之中。盆地里的高山又如何与高原上的高山相比呢？</p><p data-pid=\"MYTcFCfj\">直到有一天，一个吟游诗人来到了少年所在的小镇，带来了远方的故事，少年也因此知道了世界上还有许多更高更高的山峰。</p><p data-pid=\"3p_qpd9J\">这激起了他的好胜心，他继续踏上了攀登的征途，可这次无数次的失败却并没有换来成功，他甚至都没有登上高原上最矮的山峰。但总有人可以，因为他们是来自另一个世界的攀登者，他们有氧气瓶。</p><p data-pid=\"1-8NPdlR\">但是少年依然不知道这一点，尽管他已经达到了自己的和这个世界的极限。</p><p data-pid=\"OyYHhKq7\">在回家的旅程中，少年回头眺望，看见浮于云层之上的山巅反射着夕阳的金光，此刻他仿佛能够看到山顶上几个奇装异服的人正在欢呼喝彩，他突然觉得自己就如同一个屎一样。</p><p data-pid=\"fTDHQRd2\">但是这又何妨呢？这一切，对他来说这难道还不够吗？</p><hr/><p data-pid=\"NNnkgt9R\">我的博客：<a href=\"https://link.zhihu.com/?target=http%3A//ggapa.net\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">GGapa&#39;s website</a> 有人想来光顾一下咩 (^///^)</p><p></p>",
+  "content_need_truncated": false,
+  "created_time": 1754120648,
+  "extras": "",
+  "force_login_when_click_read_more": false,
+  "id": "1935002926042023462",
+  "is_collapsed": false,
+  "is_copyable": true,
+  "is_jump_native": false,
+  "podcast_audio_enter": {
+    "action_url": "zhihu://podcast/audio_player/0?contentId=1935002926042023462&contentType=answer&subType=&entrance=detail_page",
+    "sub_type": "",
+    "text": "听内容",
+    "text_color": "MapBrand",
+    "text_size": 13
+  },
+  "question": {
+    "created": 1744648269,
+    "id": "1895272890712174625",
+    "question_type": "normal",
+    "relationship": {},
+    "title": "感觉自己是坨屎的时候你会怎么办?",
+    "type": "question",
+    "updated_time": 1748736987,
+    "url": "https://www.zhihu.com/api/v4/questions/1895272890712174625"
+  },
+  "relationship": {
+    "upvoted_followees": []
+  },
+  "type": "answer",
+  "updated_time": 1754120648,
+  "url": "https://www.zhihu.com/api/v4/answers/1935002926042023462",
+  "voteup_count": 1
+}

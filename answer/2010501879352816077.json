@@ -1,0 +1,68 @@
+{
+  "allow_segment_interaction": 1,
+  "answer_type": "normal",
+  "author": {
+    "avatar_url": "https://pica.zhimg.com/v2-b3a4dcfac9d6fd77cf585196c612d5c8_l.jpg?source=2c26e567",
+    "avatar_url_template": "https://pic1.zhimg.com/v2-b3a4dcfac9d6fd77cf585196c612d5c8.jpg?source=2c26e567",
+    "badge": [],
+    "badge_v2": {
+      "detail_badges": [],
+      "icon": "",
+      "merged_badges": [],
+      "night_icon": "",
+      "title": "ヾ(≧▽≦*)o"
+    },
+    "gender": 0,
+    "headline": "ヾ(≧▽≦*)o",
+    "id": "bd3c16f69cb9175e344a40454ebd171f",
+    "is_advertiser": false,
+    "is_org": false,
+    "is_privacy": false,
+    "name": "GGapa",
+    "type": "people",
+    "url": "https://www.zhihu.com/api/v4/people/bd3c16f69cb9175e344a40454ebd171f",
+    "url_token": "ggapa",
+    "user_type": "people"
+  },
+  "biz_ext": {
+    "share_guide": {
+      "has_positive_bubble": false,
+      "has_time_bubble": false,
+      "hit_share_guide_cluster": false
+    }
+  },
+  "comment_count": 2,
+  "content": "<p data-pid=\"4iChH6_o\">因为我根本就配不上早恋。</p><p data-pid=\"zobJhyk3\">我身边的那些谈了恋爱的男的，要么特高，要么特帅，要么就是声音特好听并且特会说话。我在学校里见过的一堆鸳鸯之中，就只有一对的男方似乎没有什么出众的地方，纯粹就是因为两个人十分合拍就在一起了。</p><p data-pid=\"L_wcutY9\">反观我呢，我身高平均，长相平均，声音平均。而我们学校里的女生，又是很看重外在而不怎么考察内在的，我在我们学校一堆又高又帅零花钱又多的孩子里面一点竞争力都没有。况且我还很厌恶信息量很低的闲聊，只有为了完成某种目的的聊天，或者是双方观点的奇妙碰撞，才是我所感兴趣的。在和一个妹子交谈的时候，我还喜欢揣测对方的意图，思考对方的言外之意，这直接让我成为了一个呆子，说话磕磕巴巴。</p><p data-pid=\"SkCg_1DX\">种种因素的加成，在学校的一天中，我能够和一个同龄女性说上一句话，都可以说是极其罕见的大事了。</p><p data-pid=\"cnehfBlc\">曾经我以为，没有妹子喜欢我纯粹就是因为不够努力，我的成绩不够优秀。因此我拼命的努力，提升自己，妄图能够博得一个妹子的欢心。而如今的我，就算成绩已经位于班级第一，年级前列，，但是依然没有一个妹子愿意看我一眼。哦，我明白了，原来成绩优异、博学善辩，但是没有幽默感，如果没有找到同频内容，聊天就像审问犯人一样的我，根本不可能找到妹子，更不可能在高中体会到如同青梅竹马一般，两个人互相帮助，互相见证着对方成长，为了同一个目标而奋斗，互相磨合，日久生情，白头偕老的爱情故事了。</p><p data-pid=\"DEuMBdfy\">当然，我可以改变自己说话的方式，我可以从零开始，重新学习社交，重新学习如何同一个人正常的聊天，让自己回归主流。</p><p data-pid=\"sZ6dfenm\">可是，解决问题需要精力的投入，我不是精力怪物，我就喜欢躺在自己的舒适圈里，避免改变。但是，学校里的孤独和对爱情的渴望，让我时刻痛苦着。</p><p data-pid=\"X3yRYYnS\">如今，我终于明白了，不切实际的幻想只会阻碍我的步伐，让我一事无成，我需要将过去那个天真烂漫，对异性充满着渴望的少年亲手杀死。只有这样我才能够释放出精力和心力，将重心放置在长远的规划以及个人的发展上，而不是一天天沉浸在不可能实现的幻想中，痛苦并快乐着了。</p><p data-pid=\"45uuGTfM\">所以我没有了早恋的想法。</p><hr/><p data-pid=\"fqhE9rgm\">“欸，你说，那些吞剑自刎的人，不会感到痛吗？”</p><p data-pid=\"rFmyJn_W\">“痛，肯定痛啊！喉咙撕裂、胸腔灼烧、血往上涌……但活着的痛更深、更长、更无处可逃。所以他们才能仰天长啸，伴着一声呜呼，最终归于沉寂了。”</p>",
+  "content_need_truncated": false,
+  "created_time": 1772121001,
+  "extras": "",
+  "force_login_when_click_read_more": false,
+  "id": "2010501879352816077",
+  "is_collapsed": false,
+  "is_copyable": true,
+  "is_jump_native": false,
+  "podcast_audio_enter": {
+    "action_url": "zhihu://podcast/audio_player/0?contentId=2010501879352816077&contentType=answer&subType=&entrance=detail_page",
+    "sub_type": "",
+    "text": "听内容",
+    "text_color": "MapBrand",
+    "text_size": 13
+  },
+  "question": {
+    "created": 1712212585,
+    "id": "651639913",
+    "question_type": "normal",
+    "relationship": {},
+    "title": "说说你为什么没有早恋的想法？",
+    "type": "question",
+    "updated_time": 1712212585,
+    "url": "https://www.zhihu.com/api/v4/questions/651639913"
+  },
+  "relationship": {
+    "upvoted_followees": []
+  },
+  "type": "answer",
+  "updated_time": 1772121316,
+  "url": "https://www.zhihu.com/api/v4/answers/2010501879352816077",
+  "voteup_count": 5
+}

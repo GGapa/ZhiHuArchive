@@ -1,0 +1,68 @@
+{
+  "allow_segment_interaction": 1,
+  "answer_type": "normal",
+  "author": {
+    "avatar_url": "https://pic1.zhimg.com/v2-b3a4dcfac9d6fd77cf585196c612d5c8_l.jpg?source=2c26e567",
+    "avatar_url_template": "https://pic1.zhimg.com/v2-b3a4dcfac9d6fd77cf585196c612d5c8.jpg?source=2c26e567",
+    "badge": [],
+    "badge_v2": {
+      "detail_badges": [],
+      "icon": "",
+      "merged_badges": [],
+      "night_icon": "",
+      "title": "ヾ(≧▽≦*)o"
+    },
+    "gender": 0,
+    "headline": "ヾ(≧▽≦*)o",
+    "id": "bd3c16f69cb9175e344a40454ebd171f",
+    "is_advertiser": false,
+    "is_org": false,
+    "is_privacy": false,
+    "name": "GGapa",
+    "type": "people",
+    "url": "https://www.zhihu.com/api/v4/people/bd3c16f69cb9175e344a40454ebd171f",
+    "url_token": "ggapa",
+    "user_type": "people"
+  },
+  "biz_ext": {
+    "share_guide": {
+      "has_positive_bubble": false,
+      "has_time_bubble": false,
+      "hit_share_guide_cluster": false
+    }
+  },
+  "comment_count": 0,
+  "content": "<p data-pid=\"UHqPhWje\">高赞回答是 14 年的，距今都有 12 年力。（手动划去）</p><p data-pid=\"kDKkefIl\"><a href=\"https://link.zhihu.com/?target=http%3A//sheet.host/\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">sheet.host</a> 上的 Animenz 曲谱已经全部被删除了，但是有大佬整理了一份合集，并整合了其他网友二次扒谱的作品。下载链接如下：</p><a href=\"https://link.zhihu.com/?target=https%3A//github.com/user-attachments/files/17853797/All.Sheets.of.Animenz.zip\" data-draft-node=\"block\" data-draft-type=\"link-card\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">All Sheets of Animenz.zip</a><p data-pid=\"ejWfLPWr\">共 120 首。没有最新的作品。</p><hr/><p data-pid=\"IZdjk5__\">如果上述压缩包里面没有你想要的，你可以来这里试试看：</p><a href=\"https://link.zhihu.com/?target=https%3A//animenz.ataw.top/\" data-draft-node=\"block\" data-draft-type=\"link-card\" data-draft-title=\"Animenz 曲谱网\" data-draft-cover=\"\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">Animenz 曲谱网</a><p data-pid=\"0o52a_wA\">多是二次扒谱。没有最新的作品。</p><hr/><p data-pid=\"zL_CZNrN\">最后贴上一个曲谱的正版购买链接罢。</p><a href=\"https://link.zhihu.com/?target=https%3A//www.mymusic5.com/animenzzz/\" data-draft-node=\"block\" data-draft-type=\"link-card\" data-draft-title=\"https://www.mymusic5.com/animenzzz/\" data-draft-cover=\"\" class=\" external\" target=\"_blank\" rel=\"nofollow noreferrer\"><span class=\"invisible\">https://www.</span><span class=\"visible\">mymusic5.com/animenzzz/</span><span class=\"invisible\"></span></a><p></p>",
+  "content_need_truncated": false,
+  "created_time": 1776781644,
+  "extras": "",
+  "force_login_when_click_read_more": false,
+  "id": "2030050032553046864",
+  "is_collapsed": false,
+  "is_copyable": true,
+  "is_jump_native": false,
+  "podcast_audio_enter": {
+    "action_url": "zhihu://podcast/audio_player/0?contentId=2030050032553046864&contentType=answer&subType=&entrance=detail_page",
+    "sub_type": "",
+    "text": "听内容",
+    "text_color": "MapBrand",
+    "text_size": 13
+  },
+  "question": {
+    "created": 1406703459,
+    "id": "24671130",
+    "question_type": "normal",
+    "relationship": {},
+    "title": "有哪些常用获取ACG乐谱的网站？",
+    "type": "question",
+    "updated_time": 1406706133,
+    "url": "https://www.zhihu.com/api/v4/questions/24671130"
+  },
+  "relationship": {
+    "upvoted_followees": []
+  },
+  "type": "answer",
+  "updated_time": 1776782094,
+  "url": "https://www.zhihu.com/api/v4/answers/2030050032553046864",
+  "voteup_count": 1
+}

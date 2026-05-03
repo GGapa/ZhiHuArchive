@@ -1,0 +1,68 @@
+{
+  "allow_segment_interaction": 1,
+  "answer_type": "normal",
+  "author": {
+    "avatar_url": "https://picx.zhimg.com/v2-b3a4dcfac9d6fd77cf585196c612d5c8_l.jpg?source=2c26e567",
+    "avatar_url_template": "https://picx.zhimg.com/v2-b3a4dcfac9d6fd77cf585196c612d5c8.jpg?source=2c26e567",
+    "badge": [],
+    "badge_v2": {
+      "detail_badges": [],
+      "icon": "",
+      "merged_badges": [],
+      "night_icon": "",
+      "title": "ヾ(≧▽≦*)o"
+    },
+    "gender": 0,
+    "headline": "ヾ(≧▽≦*)o",
+    "id": "bd3c16f69cb9175e344a40454ebd171f",
+    "is_advertiser": false,
+    "is_org": false,
+    "is_privacy": false,
+    "name": "GGapa",
+    "type": "people",
+    "url": "https://www.zhihu.com/api/v4/people/bd3c16f69cb9175e344a40454ebd171f",
+    "url_token": "ggapa",
+    "user_type": "people"
+  },
+  "biz_ext": {
+    "share_guide": {
+      "has_positive_bubble": false,
+      "has_time_bubble": false,
+      "hit_share_guide_cluster": false
+    }
+  },
+  "comment_count": 1,
+  "content": "<p data-pid=\"mrlO2uaA\">一言以蔽之：我给了它一道数列以及集合的杂交题，然后它的举一反三是圆锥曲线和神秘平面几何=\\。</p><hr/><p data-pid=\"9NyM1Al3\">2026 高考高三生。浏览了一下回答，去除掉一眼就能看出来有水分的广告，以差评居多。当时以为是幸存者效应，或者说目标性不同导致的。</p><p data-pid=\"prWoce7D\">从个人来说，我比较希望它能够通过我做错的题，来引导我举一反三。但是显然这个模块有点问题。</p><p data-pid=\"e7M2uod2\">至于基础内容的学习我并不在意，有没有老师讲也不太在意，学校的老师虽然上课受限于平均水平不可能讲出什么高深的东西，但是私下里还是挺负责的。</p><p data-pid=\"iO_yOi-b\">还是希望大家可以去找最近的门店实际性的看一下。上网上搜评价的目的应当是帮助我们排查潜在的缺陷，而不是不经过实践就下定论。</p>",
+  "content_need_truncated": false,
+  "created_time": 1759486729,
+  "extras": "",
+  "force_login_when_click_read_more": false,
+  "id": "1957509902537844260",
+  "is_collapsed": false,
+  "is_copyable": true,
+  "is_jump_native": false,
+  "podcast_audio_enter": {
+    "action_url": "zhihu://podcast/audio_player/0?contentId=1957509902537844260&contentType=answer&subType=&entrance=detail_page",
+    "sub_type": "",
+    "text": "听内容",
+    "text_color": "MapBrand",
+    "text_size": 13
+  },
+  "question": {
+    "created": 1576810089,
+    "id": "361971503",
+    "question_type": "normal",
+    "relationship": {},
+    "title": "科大讯飞学习机到底怎么样？",
+    "type": "question",
+    "updated_time": 1664397522,
+    "url": "https://www.zhihu.com/api/v4/questions/361971503"
+  },
+  "relationship": {
+    "upvoted_followees": []
+  },
+  "type": "answer",
+  "updated_time": 1759504890,
+  "url": "https://www.zhihu.com/api/v4/answers/1957509902537844260",
+  "voteup_count": 5
+}

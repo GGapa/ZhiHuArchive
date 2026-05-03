@@ -1,0 +1,68 @@
+{
+  "allow_segment_interaction": 1,
+  "answer_type": "normal",
+  "author": {
+    "avatar_url": "https://pic1.zhimg.com/v2-b3a4dcfac9d6fd77cf585196c612d5c8_l.jpg?source=2c26e567",
+    "avatar_url_template": "https://picx.zhimg.com/v2-b3a4dcfac9d6fd77cf585196c612d5c8.jpg?source=2c26e567",
+    "badge": [],
+    "badge_v2": {
+      "detail_badges": [],
+      "icon": "",
+      "merged_badges": [],
+      "night_icon": "",
+      "title": "ヾ(≧▽≦*)o"
+    },
+    "gender": 0,
+    "headline": "ヾ(≧▽≦*)o",
+    "id": "bd3c16f69cb9175e344a40454ebd171f",
+    "is_advertiser": false,
+    "is_org": false,
+    "is_privacy": false,
+    "name": "GGapa",
+    "type": "people",
+    "url": "https://www.zhihu.com/api/v4/people/bd3c16f69cb9175e344a40454ebd171f",
+    "url_token": "ggapa",
+    "user_type": "people"
+  },
+  "biz_ext": {
+    "share_guide": {
+      "has_positive_bubble": false,
+      "has_time_bubble": false,
+      "hit_share_guide_cluster": false
+    }
+  },
+  "comment_count": 3,
+  "content": "<p data-pid=\"EEuAyyOf\">氯气和水反应是可逆反应，但是如果判断盐酸和次氯酸反应是否“可逆”则需要由题意推导（我今天才被坑）。</p><p data-pid=\"mxRFZUBj\">例如：将漂白粉加入稀盐酸中，为什么漂白性没有增强反而减弱？</p><p data-pid=\"ZohgNiMJ\">答：盐酸和次氯酸反应生成氯气，氯气挥发。所以这里不能使用双箭头。</p><p data-pid=\"5wh7nSyo\">注：本质上此反应仍然是可逆反应。但是氯气大量挥发故忽略不计。大家还是要根据不同题目的具体情境判断呀qwq</p><p></p>",
+  "content_need_truncated": false,
+  "created_time": 1754708487,
+  "extras": "",
+  "force_login_when_click_read_more": false,
+  "id": "1937468504388383254",
+  "is_collapsed": false,
+  "is_copyable": true,
+  "is_jump_native": false,
+  "podcast_audio_enter": {
+    "action_url": "zhihu://podcast/audio_player/0?contentId=1937468504388383254&contentType=answer&subType=&entrance=detail_page",
+    "sub_type": "",
+    "text": "听内容",
+    "text_color": "MapBrand",
+    "text_size": 13
+  },
+  "question": {
+    "created": 1391949273,
+    "id": "22699755",
+    "question_type": "normal",
+    "relationship": {},
+    "title": "高中化学中氯气和水的反应是可逆反应吗？",
+    "type": "question",
+    "updated_time": 1391949273,
+    "url": "https://www.zhihu.com/api/v4/questions/22699755"
+  },
+  "relationship": {
+    "upvoted_followees": []
+  },
+  "type": "answer",
+  "updated_time": 1754727039,
+  "url": "https://www.zhihu.com/api/v4/answers/1937468504388383254",
+  "voteup_count": 0
+}

@@ -1,0 +1,68 @@
+{
+  "allow_segment_interaction": 1,
+  "answer_type": "normal",
+  "author": {
+    "avatar_url": "https://picx.zhimg.com/v2-b3a4dcfac9d6fd77cf585196c612d5c8_l.jpg?source=2c26e567",
+    "avatar_url_template": "https://pic1.zhimg.com/v2-b3a4dcfac9d6fd77cf585196c612d5c8.jpg?source=2c26e567",
+    "badge": [],
+    "badge_v2": {
+      "detail_badges": [],
+      "icon": "",
+      "merged_badges": [],
+      "night_icon": "",
+      "title": "ヾ(≧▽≦*)o"
+    },
+    "gender": 0,
+    "headline": "ヾ(≧▽≦*)o",
+    "id": "bd3c16f69cb9175e344a40454ebd171f",
+    "is_advertiser": false,
+    "is_org": false,
+    "is_privacy": false,
+    "name": "GGapa",
+    "type": "people",
+    "url": "https://www.zhihu.com/api/v4/people/bd3c16f69cb9175e344a40454ebd171f",
+    "url_token": "ggapa",
+    "user_type": "people"
+  },
+  "biz_ext": {
+    "share_guide": {
+      "has_positive_bubble": false,
+      "has_time_bubble": false,
+      "hit_share_guide_cluster": false
+    }
+  },
+  "comment_count": 0,
+  "content": "<p data-pid=\"JqTLpcNv\">之前，家长们选学校有两种选择：<b>好学校差班和差学校好班。</b></p><p data-pid=\"OL-GAkwj\">如果差学校但是能够给你组一个好班出来，那么还是很值得考量一番的，但是如今的话，直接按照分数高低从高往低报就完事了。</p><p data-pid=\"1tbkQ2zr\">虽然在差学校里，即使不分班，学校也肯定会对这些尖子生倾斜专门的资源。可是“木秀于林，风必摧之”，一个优秀的人若处在一个平庸的集体里，能够独善其身就已经是非常乐观的结果了，千万不要想着自己能够带领着整个集体走向辉煌。</p><p data-pid=\"M6up_QiB\">在我看来，一个学生成绩好的原因无非就两种：<b>热爱学习和追求名利。</b>而一个学生成绩差，那理由可多了去了。有可能是因为他们根本就不知道为什么要学习，也有可能就真的是因为脑子太笨学不明白。</p><p data-pid=\"XhmHyJ1F\">在一个分数上十分平庸的集体里面，人各有志，你想要把大家团结起来好好卷成绩几乎是不可能的事情，观念是人类最难转变的。所以，如果这个政策能够落实的话，选择高中直接选分数高的就完事了，分数已经很好的帮你筛选了一次。</p><p data-pid=\"r0emkap_\"><b>同伴环境的价值功效，往往大于学校的资源倾斜</b>。</p><p data-pid=\"JKhIrrzu\">当然还要警惕那些对外分数收的高，但是校内直升水平拉跨的学校。有些直升的孩子没有经历过中考，对氛围的毁坏是相当严重的。</p><p data-pid=\"5EgQCLsg\">值得一提的是，有的学校对你倾斜资源反而还有利于你接触一些你平时根本接触不到的人，那么何乐而不为呢？</p>",
+  "content_need_truncated": false,
+  "created_time": 1775577638,
+  "extras": "",
+  "force_login_when_click_read_more": false,
+  "id": "2025000064402113647",
+  "is_collapsed": false,
+  "is_copyable": true,
+  "is_jump_native": false,
+  "podcast_audio_enter": {
+    "action_url": "zhihu://podcast/audio_player/0?contentId=2025000064402113647&contentType=answer&subType=&entrance=detail_page",
+    "sub_type": "",
+    "text": "听内容",
+    "text_color": "MapBrand",
+    "text_size": 13
+  },
+  "question": {
+    "created": 1775180451,
+    "id": "2023334141517657226",
+    "question_type": "normal",
+    "relationship": {},
+    "title": "教育部发布通知，义务教育学校严禁设立或变相设立重点班、实验班、快慢班，这一政策有何影响？",
+    "type": "question",
+    "updated_time": 1775180451,
+    "url": "https://www.zhihu.com/api/v4/questions/2023334141517657226"
+  },
+  "relationship": {
+    "upvoted_followees": []
+  },
+  "type": "answer",
+  "updated_time": 1775578238,
+  "url": "https://www.zhihu.com/api/v4/answers/2025000064402113647",
+  "voteup_count": 2
+}

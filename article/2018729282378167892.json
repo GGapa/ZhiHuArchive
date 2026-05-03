@@ -1,0 +1,425 @@
+{
+  "trackUrl": [
+    "https://sugar.zhihu.com/plutus_adreaper/content_monitor_log?si=__SESSIONID__&ti=__ATOKEN__&at=view&pf=__OS__&ed=BiBUKF0xBSkqGGNXBmN0AVJ1CH2xkCtVpil58A==&idfa=__IDFA__&imei=__IMEI__&androidid=__ANDROIDID__&oaid=__OAID__&ci=__CREATIVEID__&zid=__ZONEID__"
+  ],
+  "entityWords": [
+    {
+      "name": "糖霜原则",
+      "mention": "糖霜原则",
+      "matchorder": 1,
+      "begin": 189,
+      "end": 193,
+      "entityid": 3677713734841460000,
+      "isBookMark": false,
+      "link": {
+        "linkType": 10,
+        "linkUrl": "https://zhida.zhihu.com/search?content_id=271810969&content_type=Article&match_order=1&q=%E7%B3%96%E9%9C%9C%E5%8E%9F%E5%88%99&zhida_source=entity",
+        "docType": "",
+        "topicToken": ""
+      },
+      "entityClass": "Unknown",
+      "score": 0.006432249385511568,
+      "attachedInfoBytes": "sgJfCgzns5bpnJzljp/liJkSB1Vua25vd24YvQEgwQEoATWexdI7OgdhcnRpY2xlQInKs/aApfeEM0gKUiRkNTliMzE1YS1jZDViLTQwNzctODI3YS02MzFmZmIzNjIyNTbyAtIBCiRkNTliMzE1YS1jZDViLTQwNzctODI3YS02MzFmZmIzNjIyNTYaB2FydGljbGUiCTI3MTgxMDk2OToM57OW6Zyc5Y6f5YiZQInKs/aApfeEM0gAUhZhaV9lbnRpdHlfbGxtX3JlY2FsbGVyXZ7F0jtiXwoM57OW6Zyc5Y6f5YiZEgdVbmtub3duGL0BIMEBKAE1nsXSOzoHYXJ0aWNsZUCJyrP2gKX3hDNIClIkZDU5YjMxNWEtY2Q1Yi00MDc3LTgyN2EtNjMxZmZiMzYyMjU2",
+      "isOnAB": false,
+      "isNatural": 1,
+      "isDelete": false,
+      "contentType": "",
+      "contentId": "",
+      "contentToken": ""
+    },
+    {
+      "name": "《赤壁赋》",
+      "mention": "《赤壁赋》",
+      "matchorder": 1,
+      "begin": 1727,
+      "end": 1732,
+      "entityid": 3444292395169509000,
+      "isBookMark": false,
+      "link": {
+        "linkType": 10,
+        "linkUrl": "https://zhida.zhihu.com/search?content_id=271810969&content_type=Article&match_order=1&q=%E3%80%8A%E8%B5%A4%E5%A3%81%E8%B5%8B%E3%80%8B&zhida_source=entity",
+        "docType": "",
+        "topicToken": ""
+      },
+      "entityClass": "Unknown",
+      "score": 0.004258474525016709,
+      "attachedInfoBytes": "sgJiCg/jgIrotaTlo4HotYvjgIsSB1Vua25vd24Yvw0gxA0oATWsios7OgdhcnRpY2xlQPHdoeX0taXmL0gKUiRkNTliMzE1YS1jZDViLTQwNzctODI3YS02MzFmZmIzNjIyNTbyAtgBCiRkNTliMzE1YS1jZDViLTQwNzctODI3YS02MzFmZmIzNjIyNTYaB2FydGljbGUiCTI3MTgxMDk2OToP44CK6LWk5aOB6LWL44CLQPHdoeX0taXmL0gBUhZhaV9lbnRpdHlfbGxtX3JlY2FsbGVyXayKiztiYgoP44CK6LWk5aOB6LWL44CLEgdVbmtub3duGL8NIMQNKAE1rIqLOzoHYXJ0aWNsZUDx3aHl9LWl5i9IClIkZDU5YjMxNWEtY2Q1Yi00MDc3LTgyN2EtNjMxZmZiMzYyMjU2",
+      "isOnAB": false,
+      "isNatural": 1,
+      "isDelete": false,
+      "contentType": "",
+      "contentId": "",
+      "contentToken": ""
+    },
+    {
+      "name": "基本盘",
+      "mention": "基本盘",
+      "matchorder": 1,
+      "begin": 1268,
+      "end": 1271,
+      "entityid": -8378968105294652000,
+      "isBookMark": false,
+      "link": {
+        "linkType": 10,
+        "linkUrl": "https://zhida.zhihu.com/search?content_id=271810969&content_type=Article&match_order=1&q=%E5%9F%BA%E6%9C%AC%E7%9B%98&zhida_source=entity",
+        "docType": "",
+        "topicToken": ""
+      },
+      "entityClass": "Unknown",
+      "score": 0.0014585262499231533,
+      "attachedInfoBytes": "sgJdCgnln7rmnKznm5gSB1Vua25vd24Y9Akg9wkoATUFLL86OgdhcnRpY2xlQLi71pzunPvbiwFIClIkZDU5YjMxNWEtY2Q1Yi00MDc3LTgyN2EtNjMxZmZiMzYyMjU28gLOAQokZDU5YjMxNWEtY2Q1Yi00MDc3LTgyN2EtNjMxZmZiMzYyMjU2GgdhcnRpY2xlIgkyNzE4MTA5Njk6CeWfuuacrOebmEC4u9ac7pz724sBSAJSFmFpX2VudGl0eV9sbG1fcmVjYWxsZXJdBSy/OmJdCgnln7rmnKznm5gSB1Vua25vd24Y9Akg9wkoATUFLL86OgdhcnRpY2xlQLi71pzunPvbiwFIClIkZDU5YjMxNWEtY2Q1Yi00MDc3LTgyN2EtNjMxZmZiMzYyMjU2",
+      "isOnAB": false,
+      "isNatural": 1,
+      "isDelete": false,
+      "contentType": "",
+      "contentId": "",
+      "contentToken": ""
+    },
+    {
+      "name": "高考",
+      "mention": "高考",
+      "matchorder": 1,
+      "begin": 2987,
+      "end": 2989,
+      "entityid": 7883255110969728000,
+      "isBookMark": false,
+      "link": {
+        "linkType": 10,
+        "linkUrl": "https://zhida.zhihu.com/search?content_id=271810969&content_type=Article&match_order=1&q=%E9%AB%98%E8%80%83&zhida_source=entity",
+        "docType": "",
+        "topicToken": ""
+      },
+      "entityClass": "Unknown",
+      "score": 0.000417353102929674,
+      "attachedInfoBytes": "sgJZCgbpq5jogIMSB1Vua25vd24YqxcgrRcoATUv0No5OgdhcnRpY2xlQOa5iJmZ2LyzbUgKUiRkNTliMzE1YS1jZDViLTQwNzctODI3YS02MzFmZmIzNjIyNTbyAsYBCiRkNTliMzE1YS1jZDViLTQwNzctODI3YS02MzFmZmIzNjIyNTYaB2FydGljbGUiCTI3MTgxMDk2OToG6auY6ICDQOa5iJmZ2LyzbUgDUhZhaV9lbnRpdHlfbGxtX3JlY2FsbGVyXS/Q2jliWQoG6auY6ICDEgdVbmtub3duGKsXIK0XKAE1L9DaOToHYXJ0aWNsZUDmuYiZmdi8s21IClIkZDU5YjMxNWEtY2Q1Yi00MDc3LTgyN2EtNjMxZmZiMzYyMjU2",
+      "isOnAB": false,
+      "isNatural": 1,
+      "isDelete": false,
+      "contentType": "",
+      "contentId": "",
+      "contentToken": ""
+    }
+  ],
+  "id": "2018729282378167892",
+  "title": "2 选择学习方法的原则",
+  "type": "article",
+  "articleType": "normal",
+  "excerptTitle": "",
+  "url": "https://zhuanlan.zhihu.com/p/2018729282378167892",
+  "imageUrl": "",
+  "titleImage": "",
+  "excerpt": "“甲之砒霜，乙之蜜糖”，这句话我们都耳熟能详。但是在生活中真正将其践行的人却很少，我在章节 1.4 中所提到的人便是直接将乙的蜜糖吞了下去，谁知成为了毒害自己的砒霜。 面对如此之多的学习方法时，我们要谨记： <b>世上没有最好的学习方法，只有最适合于…</b>",
+  "created": 1774082587,
+  "updated": 1774082587,
+  "author": {
+    "isFollowed": false,
+    "avatarUrlTemplate": "https://pica.zhimg.com/v2-b3a4dcfac9d6fd77cf585196c612d5c8.jpg?source=172ae18b",
+    "uid": "1572195336499671040",
+    "userType": "people",
+    "isFollowing": false,
+    "urlToken": "ggapa",
+    "id": "bd3c16f69cb9175e344a40454ebd171f",
+    "description": "ggapa.net",
+    "name": "GGapa",
+    "isAdvertiser": false,
+    "headline": "ヾ(≧▽≦*)o",
+    "gender": 0,
+    "url": "https://www.zhihu.com/people/bd3c16f69cb9175e344a40454ebd171f",
+    "avatarUrl": "https://picx.zhimg.com/v2-b3a4dcfac9d6fd77cf585196c612d5c8_l.jpg?source=172ae18b",
+    "isOrg": false,
+    "type": "people",
+    "badge": [],
+    "badgeV2": {
+      "title": "ヾ(≧▽≦*)o",
+      "mergedBadges": [],
+      "detailBadges": [],
+      "icon": "",
+      "nightIcon": ""
+    },
+    "exposedMedal": {
+      "medalId": "0",
+      "medalName": "",
+      "avatarUrl": "",
+      "miniAvatarUrl": "",
+      "description": "",
+      "medalAvatarFrame": null
+    },
+    "avatar_url": "https://picx.zhimg.com/v2-b3a4dcfac9d6fd77cf585196c612d5c8_l.jpg?source=172ae18b"
+  },
+  "commentPermission": "all",
+  "copyrightPermission": "need_review",
+  "state": "published",
+  "ipInfo": "四川",
+  "imageWidth": 0,
+  "imageHeight": 0,
+  "content": "<p data-pid=\"ieKDxTOJ\">“甲之砒霜，乙之蜜糖”，这句话我们都耳熟能详。但是在生活中真正将其践行的人却很少，我在章节 1.4 中所提到的人便是直接将乙的蜜糖吞了下去，谁知成为了毒害自己的砒霜。</p><p data-pid=\"8wzhJ9x-\">面对如此之多的学习方法时，我们要谨记：<b>世上没有最好的学习方法，只有最适合于你的。</b>我喜欢称其为<b>糖霜原则</b>。</p><p data-pid=\"2Ith4n34\">有些人没有真正的自我分析意识，不能够评判每个方法的优劣。在我的身边，不知从何时开始，对于一个成绩好的学生，人们就往往会认为他一定会悬梁刺股，伴着月光学习。我的一个朋友就决定每天晚上都要做一套数学卷子，他每天凌晨才睡，每天白天无精打采的，虽然成绩没有下降，但是搞得身体非常差，喜提“鼻血哥”外号。这就是把精力很好的那一类人的学习方法随意套用在自己的身上了。</p><p data-pid=\"uDluBX9E\">如果说真的要成为熬夜哥，挑战生理极限来学习的话，那么一定要做体育运动先让自己拥有一个好的身体，在这之后才有可能有熬夜的资格。虽然你运动了，但是你还是有可能遭不住熬夜，这个东西还是很看体质（天赋）的。</p><p data-pid=\"2BYh6hz6\">因为糖霜原则的纯在，所以从理论上来说，我不应该只讲述学习方法而忽略了这些方法的基础，你也不应当未经思考直接套用我的方法。在接下来，为了帮助读者在脑海中构建模型，来分析清楚我采用的这些方法背后的具体思想是什么，我会尽可能的描述清楚一个方法以及他的背景。</p><p data-pid=\"Ywq9KHdo\">但在这之前，为了使得读者更好的整合，我会提供以下几个可能对你有帮助的观点。</p><h3><b>2.1 相关性和因果性的混淆</b></h3><p data-pid=\"Nec-TRNq\">很多学生混淆了相关性和因果性。一个学霸究竟是如何成为学霸的？这是我们经常会问的问题。可一个人是复杂的，我们也很难确定究竟是什么导致了他的才华，所以我们便只能从他的外显行为来分析问题。然而就在分析的过程中，有的人却经常把没有因果的两个特质强加因果，而忽略了深处的原因。</p><p data-pid=\"lGcHGqkE\">比如说一个学霸喜看动漫。很显然，学霸并不是因为看了动漫才促成了他优异的成绩。可是有的学生却没有发现这一点，认为只要我也和他一样看动漫，我就也能成为一个学霸</p><p data-pid=\"L9OwDFCn\">在本例中，学霸“喜欢看动漫”和“成绩好”便是拥有相关性，但是没有因果性的两个特质。这可能是因为学霸喜欢钻研学业，但会导致了社交上的挫败，所以他需要动漫之中人与人之间的光辉来逃避现实。学霸“爱钻研”和“成绩好”才拥有因果性。</p><p data-pid=\"IWz_xJOO\">常见的类似错误观念还有：剃寸头对成为学霸有帮助，以及在社交媒体上使用二次元头像有助于提升理科成绩等。</p><h3><b>2.2 基本盘理论</b></h3><p data-pid=\"DKNFven3\">每一个人都是独一无二的，同一个人在不同的阶段也会有不同的问题等待着他去克服，每个人都拥有自己的<b>基本盘</b>。</p><p data-pid=\"qjeP0Lde\">基本盘涵盖了你的天赋、家境、所在省份的教育质量这类自己无法改变的因素，以及会随着时间的变化和个人的努力所改变的因素，例如：身体素质、各个学科的优缺点等。</p><p data-pid=\"Lg9M0PYZ\">在选择合适的方法时，要学会结合自己的基本盘。在参照他人的学习方法时，尽量选择情况和你类似的人学习，基本盘越相似越好。在 1.4 中我便初次提到了，有很多的同学在面对不同的基本盘时，往往不能够审视其间的关系，盲目的套用从而导致悲惨的结果。</p><p data-pid=\"PRo0O3Ac\">对于记忆力较差的同学，就没有必要逼着自己去使用记忆力极强之人的方法。</p><p data-pid=\"KjpBGWZr\">我们也没有必要因为我们无法改变的基本盘而感到伤心。苏轼的《赤壁赋》中有一段话我非常喜欢：“且夫天地之间，物各有主，苟非吾之所有，虽一毫而莫取。惟江上之清风，与山间之明月……”</p><p data-pid=\"qMTZ8GTl\">有的人每时每刻都在为自己的出生而感到痛苦，慨叹着自己为什么没有出生在北上广，又叹息着为什么自己为什么那么笨。既然无休止的抱怨并不能够带来改变，那你为什么还要一直抱怨着呢？胸怀大志本应作为一个人分发的动力，如今那一志向却作为了压垮自己的稻草。</p><p data-pid=\"VWoN7GPy\">我们都知道省状元这一目标往往是不可取的，但是却总有人对清华北大有着极深的执念。四川每年 80 万考生，只有不到 0.3% 的人能够进入两所高校学习，倘若只有这样才叫成功的话，那么那些 99.7% 的失败者又都在干些什么呢？</p><p data-pid=\"vPyapjeW\">于是你说你明白了，清华北大我考不上，我可以考上交复旦。上交复旦我考不上我还可以考其他的 985。但是就是不愿意承认，周围的环境也不会让你承认，你的天赋就是不如别人，你的基本盘就是没有别人好。当然，你完全可以通过远超常人的努力，以自己心灵和身体为代价，将自己的青春与年少时心中澎湃着的热血都花费在上面，享受奋斗的过程。而非天天哀声叹气，抱怨着自己已经这么努力了，为什么成绩还是那么的差呢？</p><p data-pid=\"p0_DzYwY\">当你的目标不再能够给予你磅礴的动力，而是压着你难以前行时，为什么不学会降低期望，而是要让自己每天都在痛苦中度过呢？</p><p data-pid=\"L2X10Y3V\">不要去追寻基本盘之外的东西，就和一个 1.2m 的人拒绝把进入 NBA 当成自己的目标一样，并不是一个可悲的事情。</p><h3><b>2.3 为自己负责</b></h3><p data-pid=\"xxZ3G_A3\">环境对一个人的影响是非常大的，当你看见你周围的人都在当熬夜战士，每天两点睡六点起时，内心有动摇想要加入他们也是一个非常常见的心理。</p><p data-pid=\"ulfIicCT\">但是显然，对于大部分的人类来说，长期每天只睡四个小时对身体有害，你的同学并没有对自己的身体健康负责，但是你需要对自己负责。</p><p data-pid=\"BA4eehyu\">在生活中我们总是会遇见一个又一个的选择，他们往往没有对错，但是都有一定的潜在风险和可能的收益。在做选择的时候，不要随便听从他人的结论就随意跟风，要为自己的选择的负责。这条路是我自己选的，就算走的再困难，损失有多么巨大，我也不会后悔，这是我自己的决定，不是别人的。有可能当时草率了，而这就是因为草率活该吃的亏，我要为我的草率承担责任。</p><p data-pid=\"MRyIKaHG\">我现在我作为高三生，我就是很反感不顾自己的精神状况每时每刻都学习，我认为劳逸结合很重要。所以我选择了一条没有那么刻苦但是细水长流的学习态度，并且我自己认为这也符合我的基本盘。既然我做了这个决定，那我就要承担高考的分数可能不会太好看的后果，我也愿意承担。就算我以后因为我考上的大学不是很好而吃了亏，那我也受着，这就是我为高中不成熟的思想所支付的代价，没有什么好伤心的。</p><p data-pid=\"5CCN8W4q\">不要别人叫你做什么你就做什么，不要别人叫你拼命你就拼命，这就是为自己负责的表现。别人说什么你都不听，一意孤行，排挤众人，除非你经过了深思熟虑并且认为这样做对你有好处，那么就是对自己负责，否则就不是。</p><p data-pid=\"JzfzohYn\">不要把自己应当承担的责任推卸到别人身上，你没有资格让其他人来承担你失败的责任。虽然学校有管理学生的责任，但是你不能只将你的责任推卸到学校身上，等高考失败了之后全怪学校老师教的不好，怪老师教你使用了错误的方法。当然，你也不应当不对自己负责，然后完全认同本文的观点，失败了之后又来怪我的方法有问题。我只能说你是活该，你自己不对自己负责，并且妄图让他人来对你负责，那么会不会出事就不是你能够决定的了。</p><p data-pid=\"4MgeJlPD\">总结来说，你应当为自己负责。你不应当在未经过审视就完全按照老师给你规定的方法以及安排的进度来学习，这是把自己身上的责任完全托付给了老师，是应当尽量避免的。</p><h3><b>2.3.1 不要在意别人对你的评价</b></h3><p data-pid=\"xNSIMyD5\">我们假设你现在已经能够对自己负责，那么就有可能在课堂上出现这样的情况：老师在上课，但是你有你自己的安排，你没有听老师讲课，被老师骂了，同学们都对你斜眼相看。</p><p data-pid=\"eXDMxsJ5\">当你有自己的想法之后，如果你周围的人都如同 NPC 一样，那么你势必会成为集体中的异类。这时，老师的指责和同学的侧目，就是你而必须支付的社交成本。如果你为此感到痛苦，说明你依然在潜意识里希望他人为你负责，希望通过获得他人的认可来证明自己的正确。</p><p data-pid=\"gsN2xhBr\">如果你真的对自己负责了的话，那么你内心应该不会有太多难受的心态，因为这样的结果也是你应当预料到的，这就是你要在课上干自己的事情所承担的风险，你不应该为此感到难受。</p>",
+  "contentNeedTruncated": false,
+  "forceLoginWhenClickReadMore": false,
+  "adminClosedComment": false,
+  "topics": [],
+  "voteupCount": 0,
+  "voting": 0,
+  "heavyUpStatus": "allow_heavy_up",
+  "column": {
+    "description": "",
+    "canManage": true,
+    "intro": "",
+    "isFollowing": false,
+    "urlToken": "c_2018728776637395553",
+    "id": "c_2018728776637395553",
+    "articlesCount": 2,
+    "acceptSubmission": false,
+    "title": "记忆力差也能把文化课学好",
+    "url": "https://zhuanlan.zhihu.com/c_2018728776637395553",
+    "commentPermission": "all",
+    "created": 1774082446,
+    "updated": 1774082446,
+    "imageUrl": "https://picx.zhimg.com/v2-c5be1695771c4f9b442b5bde56e5e8e0_720w.jpg?source=172ae18b",
+    "author": {
+      "isFollowed": false,
+      "avatarUrlTemplate": "https://picx.zhimg.com/v2-b3a4dcfac9d6fd77cf585196c612d5c8.jpg?source=172ae18b",
+      "uid": "1572195336499671040",
+      "userType": "people",
+      "isFollowing": false,
+      "urlToken": "ggapa",
+      "id": "bd3c16f69cb9175e344a40454ebd171f",
+      "description": "ggapa.net",
+      "name": "GGapa",
+      "isAdvertiser": false,
+      "headline": "ヾ(≧▽≦*)o",
+      "gender": 0,
+      "url": "/people/bd3c16f69cb9175e344a40454ebd171f",
+      "avatarUrl": "https://picx.zhimg.com/v2-b3a4dcfac9d6fd77cf585196c612d5c8_l.jpg?source=172ae18b",
+      "isOrg": false,
+      "type": "people",
+      "badgeV2": {
+        "title": "",
+        "mergedBadges": [],
+        "detailBadges": [],
+        "icon": "",
+        "nightIcon": ""
+      }
+    },
+    "followers": 0,
+    "type": "column",
+    "columnType": "normal"
+  },
+  "commentCount": 0,
+  "contributions": [
+    {
+      "id": 53684869,
+      "state": "accepted",
+      "type": "first_publish",
+      "column": {
+        "description": "",
+        "canManage": true,
+        "intro": "",
+        "isFollowing": false,
+        "urlToken": "c_2018728776637395553",
+        "id": "c_2018728776637395553",
+        "articlesCount": 2,
+        "acceptSubmission": false,
+        "title": "记忆力差也能把文化课学好",
+        "url": "https://zhuanlan.zhihu.com/c_2018728776637395553",
+        "commentPermission": "all",
+        "created": 1774082446,
+        "updated": 1774082446,
+        "imageUrl": "https://picx.zhimg.com/v2-c5be1695771c4f9b442b5bde56e5e8e0_720w.jpg?source=172ae18b",
+        "author": {
+          "isFollowed": false,
+          "avatarUrlTemplate": "https://picx.zhimg.com/v2-b3a4dcfac9d6fd77cf585196c612d5c8.jpg?source=172ae18b",
+          "uid": "1572195336499671040",
+          "userType": "people",
+          "isFollowing": false,
+          "urlToken": "ggapa",
+          "id": "bd3c16f69cb9175e344a40454ebd171f",
+          "description": "ggapa.net",
+          "name": "GGapa",
+          "isAdvertiser": false,
+          "headline": "ヾ(≧▽≦*)o",
+          "gender": 0,
+          "url": "/people/bd3c16f69cb9175e344a40454ebd171f",
+          "avatarUrl": "https://picx.zhimg.com/v2-b3a4dcfac9d6fd77cf585196c612d5c8_l.jpg?source=172ae18b",
+          "isOrg": false,
+          "type": "people",
+          "badgeV2": {
+            "title": "",
+            "mergedBadges": [],
+            "detailBadges": [],
+            "icon": "",
+            "nightIcon": ""
+          }
+        },
+        "followers": 0,
+        "type": "column",
+        "columnType": "normal"
+      }
+    }
+  ],
+  "isTitleImageFullScreen": false,
+  "upvotedFollowees": [],
+  "commercialInfo": {
+    "isCommercial": false,
+    "plugin": {}
+  },
+  "suggestEdit": {
+    "status": false,
+    "reason": "",
+    "tip": "",
+    "url": "",
+    "title": ""
+  },
+  "reason": "",
+  "annotationAction": [],
+  "canTip": false,
+  "canOpenTipjar": true,
+  "tipjarorsCount": 0,
+  "isLabeled": true,
+  "hasPublishingDraft": false,
+  "isFavorited": false,
+  "favlistsCount": 0,
+  "isNormal": true,
+  "status": 0,
+  "activityToppingInfo": {
+    "state": "untopped"
+  },
+  "shareText": "2 选择学习方法的原则 - 来自知乎专栏「记忆力差也能把文化课学好」，作者: GGapa https://zhuanlan.zhihu.com/p/2018729282378167892 （想看更多？下载 @知乎 App：http://weibo.com/p/100404711598 ）",
+  "canComment": {
+    "status": true,
+    "reason": ""
+  },
+  "mcnFpShow": -1,
+  "isVisible": true,
+  "isLiked": false,
+  "likedCount": 0,
+  "hasColumn": true,
+  "republishers": [],
+  "isNewLinkCard": true,
+  "emojiReaction": {
+    "likeCount": 0,
+    "likeHasSet": false
+  },
+  "abParam": {
+    "qaHiddenVoteup": "",
+    "rsInterest1": "",
+    "zpZhiStyle": ""
+  },
+  "attachedInfo": "kgIuCgkyNzE4MTA5NjkSEzIwMTg3MjkyODIzNzgxNjc4OTIYByIKSU1BR0VfVEVYVA==",
+  "shareGuide": {
+    "hasPositiveBubble": false,
+    "hasTimeBubble": false,
+    "hitShareGuideCluster": false
+  },
+  "settings": {
+    "tableOfContents": {
+      "enabled": false
+    }
+  },
+  "canReference": false,
+  "reactionInstruction": {},
+  "reaction": {
+    "statistics": {
+      "upVoteCount": 0,
+      "downVoteCount": 0,
+      "likeCount": 0,
+      "commentCount": 0,
+      "shareCount": 0,
+      "playCount": 0,
+      "interestPlayCount": 0,
+      "favorites": 0,
+      "pvCount": 0,
+      "bulletCount": 0,
+      "applaudCount": 0,
+      "questionFollowerCount": 0,
+      "questionAnswerCount": 0,
+      "plaincontentVoteUpCount": 0,
+      "plaincontentLikeCount": 0,
+      "subscribeCount": 0,
+      "republishers": []
+    },
+    "relation": {
+      "isAuthor": true,
+      "vote": "Neutral",
+      "liked": false,
+      "faved": false,
+      "following": false,
+      "subcribed": false,
+      "isNavigatorVote": false,
+      "currentUserIsNavigator": false,
+      "voteNextStep": ""
+    },
+    "imageReactions": {}
+  },
+  "interactionBarPlugins": [
+    {
+      "type": "comment",
+      "comment": {
+        "enable": true,
+        "placeholder": "发条带图评论"
+      }
+    }
+  ],
+  "barPluginsFlipTime": 3000,
+  "podcastAudioEnter": {
+    "text": "听内容",
+    "textColor": "MapBrand",
+    "textSize": 13,
+    "actionUrl": "zhihu://podcast/audio_player/0?contentId=2018729282378167892&contentType=article"
+  },
+  "endorsements": [
+    {
+      "elements": [
+        {
+          "type": "IMAGE",
+          "imageKey": "zhicon_icon_24_column_fill",
+          "imageColor": {
+            "alpha": 1,
+            "group": "GBL01A"
+          },
+          "width": 16,
+          "height": 16
+        },
+        {
+          "type": "TEXT",
+          "content": "收录于 · 记忆力差也能把文化课学好",
+          "fontSize": 13,
+          "fontColor": {
+            "alpha": 1,
+            "group": "GBL01A"
+          },
+          "isBold": false,
+          "maxLine": 1
+        },
+        {
+          "type": "IMAGE",
+          "imageKey": "zhicon_icon_16_arrow_right",
+          "imageColor": {
+            "alpha": 1,
+            "group": "GBL01A"
+          },
+          "width": 12,
+          "height": 12
+        }
+      ],
+      "subElements": [],
+      "subElementsType": "DESCRIPTION",
+      "backgroundColor": {
+        "alpha": 0.08,
+        "group": "GBL01A"
+      },
+      "actionUrl": "https://www.zhihu.com/column/c_2018728776637395553",
+      "za": {
+        "blockText": "Column",
+        "type": "text",
+        "text": "收录于 · 记忆力差也能把文化课学好"
+      }
+    }
+  ],
+  "allowSegmentInteraction": 1,
+  "isNavigator": false,
+  "navigatorVote": false,
+  "voteNextStep": "vote",
+  "image_url": "",
+  "voteup_count": 0,
+  "comment_count": 0
+}

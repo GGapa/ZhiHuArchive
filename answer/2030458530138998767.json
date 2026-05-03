@@ -1,0 +1,68 @@
+{
+  "allow_segment_interaction": 1,
+  "answer_type": "normal",
+  "author": {
+    "avatar_url": "https://picx.zhimg.com/v2-b3a4dcfac9d6fd77cf585196c612d5c8_l.jpg?source=2c26e567",
+    "avatar_url_template": "https://pica.zhimg.com/v2-b3a4dcfac9d6fd77cf585196c612d5c8.jpg?source=2c26e567",
+    "badge": [],
+    "badge_v2": {
+      "detail_badges": [],
+      "icon": "",
+      "merged_badges": [],
+      "night_icon": "",
+      "title": "ヾ(≧▽≦*)o"
+    },
+    "gender": 0,
+    "headline": "ヾ(≧▽≦*)o",
+    "id": "bd3c16f69cb9175e344a40454ebd171f",
+    "is_advertiser": false,
+    "is_org": false,
+    "is_privacy": false,
+    "name": "GGapa",
+    "type": "people",
+    "url": "https://www.zhihu.com/api/v4/people/bd3c16f69cb9175e344a40454ebd171f",
+    "url_token": "ggapa",
+    "user_type": "people"
+  },
+  "biz_ext": {
+    "share_guide": {
+      "has_positive_bubble": false,
+      "has_time_bubble": false,
+      "hit_share_guide_cluster": false
+    }
+  },
+  "comment_count": 0,
+  "content": "<p data-pid=\"9dvwxuzI\">迷你世界对于低龄人群的吸引力远大于我的世界。</p><p data-pid=\"vwpVtiSe\">4399 和 7k7k 等小游戏平台是给了迷你世界很大的牌面的，将其放在首页上供着。而对于我的世界，你需要专门去搜索才能够找到。</p><p data-pid=\"Ej7ESfvR\">对于一个小学生来讲，最容易在信息技术课上进行的娱乐方式就是刷抖音和 B 站，其次就是玩 4399 这种在线小游戏合集。</p><p data-pid=\"7NzpAWjH\">那么对于一个小学生来说，了解到迷你世界并且下载下来的概率 &gt;&gt; 了解到我的世界并下载下来的概率。</p><figure data-size=\"normal\"><noscript><img src=\"https://pica.zhimg.com/50/v2-c5381d84b79204dae0d710bdeb4961d9_720w.jpg?source=2c26e567\" data-size=\"normal\" data-rawwidth=\"1603\" data-rawheight=\"943\" data-original-token=\"v2-c6333692b94a843df19bc129b9fd680e\" class=\"origin_image zh-lightbox-thumb\" width=\"1603\" data-original=\"https://pic1.zhimg.com/v2-c5381d84b79204dae0d710bdeb4961d9_r.jpg?source=2c26e567\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;1603&#39; height=&#39;943&#39;&gt;&lt;/svg&gt;\" data-size=\"normal\" data-rawwidth=\"1603\" data-rawheight=\"943\" data-original-token=\"v2-c6333692b94a843df19bc129b9fd680e\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"1603\" data-original=\"https://pic1.zhimg.com/v2-c5381d84b79204dae0d710bdeb4961d9_r.jpg?source=2c26e567\" data-actualsrc=\"https://pica.zhimg.com/50/v2-c5381d84b79204dae0d710bdeb4961d9_720w.jpg?source=2c26e567\"/><figcaption>4399</figcaption></figure><p data-pid=\"qYy2WJ6a\">况且迷你世界对于小学生的包容程度也很高。我曾经在游玩网易我的世界的时候，经常看到侮辱小学生的 id；见到玩家做出什么逆天操作就骂他是 xxs 的情况也经常出现。</p><p data-pid=\"jffQ13sP\">而且迷你世界的本土化做的比我的世界要好得多。原版情况下，同一古建筑的逼真度和精细度能够远超我的世界。让我们的小宝宝们对于游戏世界感到更加熟悉。</p><p data-pid=\"EyX_JFad\">还有，迷你世界的画风也更加的卡通化，更符合小孩体质。迷你世界的创作理念（真的有吗？）也与我的世界不同，迷你世界里面乱塞了很多内容，诸如枪械家具机械什么的，还将指令内容道具化，本体游戏趣味性远大于我的世界。</p><hr/><p data-pid=\"7i-eOvnB\">话说机械动力怎么不在我小时候沉迷我的世界的时候就被做出来，类似的东西在迷你世界里早就有了。</p>",
+  "content_need_truncated": false,
+  "created_time": 1776879037,
+  "extras": "",
+  "force_login_when_click_read_more": false,
+  "id": "2030458530138998767",
+  "is_collapsed": false,
+  "is_copyable": true,
+  "is_jump_native": false,
+  "podcast_audio_enter": {
+    "action_url": "zhihu://podcast/audio_player/0?contentId=2030458530138998767&contentType=answer&subType=&entrance=detail_page",
+    "sub_type": "",
+    "text": "听内容",
+    "text_color": "MapBrand",
+    "text_size": 13
+  },
+  "question": {
+    "created": 1453115513,
+    "id": "39610303",
+    "question_type": "normal",
+    "relationship": {},
+    "title": "如何评价 迷你世界 这款游戏?",
+    "type": "question",
+    "updated_time": 1588160661,
+    "url": "https://www.zhihu.com/api/v4/questions/39610303"
+  },
+  "relationship": {
+    "upvoted_followees": []
+  },
+  "type": "answer",
+  "updated_time": 1776879037,
+  "url": "https://www.zhihu.com/api/v4/answers/2030458530138998767",
+  "voteup_count": 2
+}

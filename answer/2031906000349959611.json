@@ -1,0 +1,68 @@
+{
+  "allow_segment_interaction": 1,
+  "answer_type": "normal",
+  "author": {
+    "avatar_url": "https://pica.zhimg.com/v2-b3a4dcfac9d6fd77cf585196c612d5c8_l.jpg?source=2c26e567",
+    "avatar_url_template": "https://picx.zhimg.com/v2-b3a4dcfac9d6fd77cf585196c612d5c8.jpg?source=2c26e567",
+    "badge": [],
+    "badge_v2": {
+      "detail_badges": [],
+      "icon": "",
+      "merged_badges": [],
+      "night_icon": "",
+      "title": "ヾ(≧▽≦*)o"
+    },
+    "gender": 0,
+    "headline": "ヾ(≧▽≦*)o",
+    "id": "bd3c16f69cb9175e344a40454ebd171f",
+    "is_advertiser": false,
+    "is_org": false,
+    "is_privacy": false,
+    "name": "GGapa",
+    "type": "people",
+    "url": "https://www.zhihu.com/api/v4/people/bd3c16f69cb9175e344a40454ebd171f",
+    "url_token": "ggapa",
+    "user_type": "people"
+  },
+  "biz_ext": {
+    "share_guide": {
+      "has_positive_bubble": false,
+      "has_time_bubble": false,
+      "hit_share_guide_cluster": false
+    }
+  },
+  "comment_count": 0,
+  "content": "<p data-pid=\"kTLoGl6s\">上知乎上多了，让我获得了能够分辨低质量内容的能力。</p><p data-pid=\"ZayW8oQI\">这些内容往往都用情绪或者是压力来包装，目的是吸引你去看。整篇文章多是单句成段，上下文之间逻辑跳跃，没有整体性。</p><p data-pid=\"6zLJdqH5\">如果是文学作品，那么单句成段确实是比较常见的行为，但知乎并不是文学平台，所以看到一个回答基本上全是短句，那么这篇回答的价值往往就没有那么大。就算作者本身很厉害，但是表达能力可能有点欠缺；也有可能是在刻意迎合某些难以理解长句的人，总之价值不高。</p><p data-pid=\"IxlG2F-c\">而一个人的价值，并不是在于他知道多么多东西，而是在于他的思维方式。在阅读的过程中，如果一篇文章能够体现出作者的思维，那么读者在阅读的过程中或多或少都会受到作者思维的影响，来达到进步的目的，这也是为什么要多读书的原因。</p><p data-pid=\"f7Re2xyu\">知乎上的东西都是以议论性为主，一篇文章全是短句会遭人嫌弃；一篇文章全是长难句也会被人嫌，我就很喜欢莫名其妙憋出来一大堆非常冗长的句子，这是个坏习惯，需要改正。毕竟咱们知乎又不是发论文的地方，一个观点如果能够融入个人的情感或者是趣味性，则更能够吸引大家阅读。</p><p data-pid=\"bnmKWmIx\">现代文章也是具有音韵美的，长短句结合往往更有气势，长句说理严谨，短句爆发强烈。最好还能够引经据典，融入博大精深的中华文化，既可以精炼文章，也可以展现出作者独特的文学素养。</p><p data-pid=\"qjyzmQPD\">这一点我觉得做得好的就是鲁迅和王小波。稍微近一点就是李新野，虽然我觉得他很魔怔，但是他确实写得一手好文。</p><p></p>",
+  "content_need_truncated": false,
+  "created_time": 1777224141,
+  "extras": "",
+  "force_login_when_click_read_more": false,
+  "id": "2031906000349959611",
+  "is_collapsed": false,
+  "is_copyable": true,
+  "is_jump_native": false,
+  "podcast_audio_enter": {
+    "action_url": "zhihu://podcast/audio_player/0?contentId=2031906000349959611&contentType=answer&subType=&entrance=detail_page",
+    "sub_type": "",
+    "text": "听内容",
+    "text_color": "MapBrand",
+    "text_size": 13
+  },
+  "question": {
+    "created": 1434331082,
+    "id": "31307297",
+    "question_type": "normal",
+    "relationship": {},
+    "title": "你在知乎上得到了什么？",
+    "type": "question",
+    "updated_time": 1438654243,
+    "url": "https://www.zhihu.com/api/v4/questions/31307297"
+  },
+  "relationship": {
+    "upvoted_followees": []
+  },
+  "type": "answer",
+  "updated_time": 1777254414,
+  "url": "https://www.zhihu.com/api/v4/answers/2031906000349959611",
+  "voteup_count": 9
+}

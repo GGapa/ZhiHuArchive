@@ -1,0 +1,68 @@
+{
+  "allow_segment_interaction": 1,
+  "answer_type": "normal",
+  "author": {
+    "avatar_url": "https://picx.zhimg.com/v2-b3a4dcfac9d6fd77cf585196c612d5c8_l.jpg?source=2c26e567",
+    "avatar_url_template": "https://picx.zhimg.com/v2-b3a4dcfac9d6fd77cf585196c612d5c8.jpg?source=2c26e567",
+    "badge": [],
+    "badge_v2": {
+      "detail_badges": [],
+      "icon": "",
+      "merged_badges": [],
+      "night_icon": "",
+      "title": "ヾ(≧▽≦*)o"
+    },
+    "gender": 0,
+    "headline": "ヾ(≧▽≦*)o",
+    "id": "bd3c16f69cb9175e344a40454ebd171f",
+    "is_advertiser": false,
+    "is_org": false,
+    "is_privacy": false,
+    "name": "GGapa",
+    "type": "people",
+    "url": "https://www.zhihu.com/api/v4/people/bd3c16f69cb9175e344a40454ebd171f",
+    "url_token": "ggapa",
+    "user_type": "people"
+  },
+  "biz_ext": {
+    "share_guide": {
+      "has_positive_bubble": false,
+      "has_time_bubble": false,
+      "hit_share_guide_cluster": false
+    }
+  },
+  "comment_count": 0,
+  "content": "<p data-pid=\"o_B7MjD0\">早在八月份的时候，我就已经写下来了这份草稿。当时的心境和问题所述可以说大差不差，而现在，在浏览自己未竟的草稿时偶然发现了这个问题，打算随便写点什么。</p><p data-pid=\"ffo3AWxT\">如何是好？<b>不要管就好了啊</b>，因为管了也没用。既然也没有能力改变现状，那想着所谓的问题不就是只给自己添加烦恼，还会给自己徒添压力。本来能够好好享受的当下也被心中那不切实际的幻想而击破了。</p><p data-pid=\"oM2Co2UJ\">虽然说着轻松，但是心中既然已经有了这个执念想要放下它还是很难的吧。我们也没有必要逼着自己怎么做，逼着自己放下执念，没有必要逼着自己乐观。我们只需要拥抱心中的痛苦，好好的体会这种绝望，体会这种失落，这也是人生中的一部分。这些情感连同其他的一起，都构成了一个活生生的自己。</p><p data-pid=\"6V_EfDNd\">况且，我还发现了，焦虑对于一个人的影响是远大于悲伤的，在焦虑的时候心情是浮躁的，没有沉住气去专注于一件事的可能，这是的思维是跳跃飘渺的；但是如果是悲伤的话，此时大概大脑是低频的，虽然也没有办法专注于高强度的脑力活动上，但是至少发呆时非常简单的，而发完呆之后，大抵又会有某些新的收获与启发。</p><p data-pid=\"tlu7kxs1\">但是我并没有阅读过相关的文献资料来证明我的上述观点，纯粹是主观之谈与个人经验结合而成。“甲之砒霜，乙之蜜糖”，真真正正的做好自己，找到自己的方法，建立起内在的自我才是最重要的事情。</p>",
+  "content_need_truncated": false,
+  "created_time": 1765296643,
+  "extras": "",
+  "force_login_when_click_read_more": false,
+  "id": "1981878449623814899",
+  "is_collapsed": false,
+  "is_copyable": true,
+  "is_jump_native": false,
+  "podcast_audio_enter": {
+    "action_url": "zhihu://podcast/audio_player/0?contentId=1981878449623814899&contentType=answer&subType=&entrance=detail_page",
+    "sub_type": "",
+    "text": "听内容",
+    "text_color": "MapBrand",
+    "text_size": 13
+  },
+  "question": {
+    "created": 1735822553,
+    "id": "8540745172",
+    "question_type": "normal",
+    "relationship": {},
+    "title": "在羡慕别人的生活的时候，但是自己又没有这个能力改变现状，该如何是好？",
+    "type": "question",
+    "updated_time": 1735822553,
+    "url": "https://www.zhihu.com/api/v4/questions/8540745172"
+  },
+  "relationship": {
+    "upvoted_followees": []
+  },
+  "type": "answer",
+  "updated_time": 1765296643,
+  "url": "https://www.zhihu.com/api/v4/answers/1981878449623814899",
+  "voteup_count": 1
+}

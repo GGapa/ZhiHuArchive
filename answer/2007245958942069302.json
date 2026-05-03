@@ -1,0 +1,68 @@
+{
+  "allow_segment_interaction": 1,
+  "answer_type": "normal",
+  "author": {
+    "avatar_url": "https://picx.zhimg.com/v2-b3a4dcfac9d6fd77cf585196c612d5c8_l.jpg?source=2c26e567",
+    "avatar_url_template": "https://picx.zhimg.com/v2-b3a4dcfac9d6fd77cf585196c612d5c8.jpg?source=2c26e567",
+    "badge": [],
+    "badge_v2": {
+      "detail_badges": [],
+      "icon": "",
+      "merged_badges": [],
+      "night_icon": "",
+      "title": "ヾ(≧▽≦*)o"
+    },
+    "gender": 0,
+    "headline": "ヾ(≧▽≦*)o",
+    "id": "bd3c16f69cb9175e344a40454ebd171f",
+    "is_advertiser": false,
+    "is_org": false,
+    "is_privacy": false,
+    "name": "GGapa",
+    "type": "people",
+    "url": "https://www.zhihu.com/api/v4/people/bd3c16f69cb9175e344a40454ebd171f",
+    "url_token": "ggapa",
+    "user_type": "people"
+  },
+  "biz_ext": {
+    "share_guide": {
+      "has_positive_bubble": false,
+      "has_time_bubble": false,
+      "hit_share_guide_cluster": false
+    }
+  },
+  "comment_count": 1,
+  "content": "<p data-pid=\"YLq6Kye_\">从某种意义上来说，能够从音乐里面听出情感来，确实是自己骗自己。因为是你自己在音乐的帮助下联想到了某些经历，从而产生了感情。就好比一个涉世未深的小孩不能够看懂某些晦涩的文学作品一样，一个从未经历过痛苦的人也不太可能通过音乐感到悲伤。</p><p data-pid=\"ISpvtqPs\">作曲家在进行创作的时候会融入自己的情感，各种编排往往都具有一定的象征作用，这是第一层情感的融入。钢琴家在演奏一个作品时，也会对乐曲的结构拥有一定的感知，并将自身的理解融入到轻重缓急当中，这是的第二层情感的加工。作为一个听众，聆听到了乐曲并结合自己过往的经历产生了某种情感，这是第三层情感的加工。</p><p data-pid=\"Yk0IZjTy\">随着流行钢琴逐渐收获大众的青睐，有许多流行歌曲，尤其某些二次元音乐具有强烈的情怀分，被再一次扒谱时还会进行一次额外的情感加工，这样从原先的两次情感加工（作曲、听众），增加至四次（作曲、扒谱、演奏、听众）。这也是为何许多人表示听原曲没有感觉，但是听钢琴改编就流泪的原因。</p><p></p>",
+  "content_need_truncated": false,
+  "created_time": 1771344729,
+  "extras": "",
+  "force_login_when_click_read_more": false,
+  "id": "2007245958942069302",
+  "is_collapsed": false,
+  "is_copyable": true,
+  "is_jump_native": false,
+  "podcast_audio_enter": {
+    "action_url": "zhihu://podcast/audio_player/0?contentId=2007245958942069302&contentType=answer&subType=&entrance=detail_page",
+    "sub_type": "",
+    "text": "听内容",
+    "text_color": "MapBrand",
+    "text_size": 13
+  },
+  "question": {
+    "created": 1555125180,
+    "id": "319926119",
+    "question_type": "normal",
+    "relationship": {},
+    "title": "单听钢琴乐是可以听出感情的吗?",
+    "type": "question",
+    "updated_time": 1555125180,
+    "url": "https://www.zhihu.com/api/v4/questions/319926119"
+  },
+  "relationship": {
+    "upvoted_followees": []
+  },
+  "type": "answer",
+  "updated_time": 1771344729,
+  "url": "https://www.zhihu.com/api/v4/answers/2007245958942069302",
+  "voteup_count": 1
+}

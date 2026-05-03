@@ -1,0 +1,68 @@
+{
+  "allow_segment_interaction": 1,
+  "answer_type": "normal",
+  "author": {
+    "avatar_url": "https://picx.zhimg.com/v2-b3a4dcfac9d6fd77cf585196c612d5c8_l.jpg?source=2c26e567",
+    "avatar_url_template": "https://picx.zhimg.com/v2-b3a4dcfac9d6fd77cf585196c612d5c8.jpg?source=2c26e567",
+    "badge": [],
+    "badge_v2": {
+      "detail_badges": [],
+      "icon": "",
+      "merged_badges": [],
+      "night_icon": "",
+      "title": "ヾ(≧▽≦*)o"
+    },
+    "gender": 0,
+    "headline": "ヾ(≧▽≦*)o",
+    "id": "bd3c16f69cb9175e344a40454ebd171f",
+    "is_advertiser": false,
+    "is_org": false,
+    "is_privacy": false,
+    "name": "GGapa",
+    "type": "people",
+    "url": "https://www.zhihu.com/api/v4/people/bd3c16f69cb9175e344a40454ebd171f",
+    "url_token": "ggapa",
+    "user_type": "people"
+  },
+  "biz_ext": {
+    "share_guide": {
+      "has_positive_bubble": false,
+      "has_time_bubble": false,
+      "hit_share_guide_cluster": false
+    }
+  },
+  "comment_count": 0,
+  "content": "<p data-pid=\"Cyb8hQQf\">这非常能够概括一个普通学校中优秀学生的处境。</p><p data-pid=\"kP2xWJV9\">我们学校的理科年级第一，就经常被贴上“幼稚”的标签，只因为他对学习拥有极强的渴望。</p><p data-pid=\"0foJa80V\">我们学校甲班的班级第一，就经常有人攻击他狂妄自大、喜欢嘲讽人，但在我和他相处的时候，我并没有这么觉得，我也不知道这种印象是怎么展现出来的，他就只是比较喜欢展现自己而已，然后有些敏感的宝宝就觉得自己被嘲讽了/_ \\。</p><p data-pid=\"bKzJKQoA\">我们学校的一个经常取得文科第一的人，因为双性均吃，喜欢和人贴贴。然后大家就给他取了一个 “subway”的外号（傻逼way），并且见到他就要骂他。但是我在和他相处的时候，我就觉得他是一个情感很细腻，非常爱自己的人，也很用功，值得我好好学习。但是其他人却总是看不到他的优秀之处，总是喜欢把一些他们觉得不可思议的特质搬出来，大肆攻击。</p><p data-pid=\"fcfqkj3_\">而我作为我们班上的班级第一，大家都觉得我抽象，而且也没有一个女生愿意和我聊天，这是为什呢？我反思了很久，都不知道是为什么。我也能够和其他水平相近的人关系处的很好，之前学竞赛集训时的氛围也很融洽，完全不像现在的班里这么黑暗qwq。</p><hr/><p data-pid=\"C-b4ZlnZ\">有的人在学习成绩上比不过别人，为了维持内心平衡，自然需要寻找一套合理的说法来安慰自己，于是偏见和排挤就发生了，这也就是现代的阿Q罢。</p><p data-pid=\"BoWAdR42\">老师一天到晚总是一直在强调着竞争，却让很多人失去了欣赏优秀的能力。在如此纯真的校园里都是这样，那何况毕业了以后呢？</p><p data-pid=\"CIJxkQJl\">入乡随俗才是真啊。</p>",
+  "content_need_truncated": false,
+  "created_time": 1770969246,
+  "extras": "",
+  "force_login_when_click_read_more": false,
+  "id": "2005671070435407060",
+  "is_collapsed": false,
+  "is_copyable": true,
+  "is_jump_native": false,
+  "podcast_audio_enter": {
+    "action_url": "zhihu://podcast/audio_player/0?contentId=2005671070435407060&contentType=answer&subType=&entrance=detail_page",
+    "sub_type": "",
+    "text": "听内容",
+    "text_color": "MapBrand",
+    "text_size": 13
+  },
+  "question": {
+    "created": 1577249730,
+    "id": "362870231",
+    "question_type": "normal",
+    "relationship": {},
+    "title": "你怎么看待“木秀于林，风必摧之”这句话？",
+    "type": "question",
+    "updated_time": 1577249730,
+    "url": "https://www.zhihu.com/api/v4/questions/362870231"
+  },
+  "relationship": {
+    "upvoted_followees": []
+  },
+  "type": "answer",
+  "updated_time": 1770969246,
+  "url": "https://www.zhihu.com/api/v4/answers/2005671070435407060",
+  "voteup_count": 4
+}

@@ -1,0 +1,68 @@
+{
+  "allow_segment_interaction": 1,
+  "answer_type": "normal",
+  "author": {
+    "avatar_url": "https://pic1.zhimg.com/v2-b3a4dcfac9d6fd77cf585196c612d5c8_l.jpg?source=2c26e567",
+    "avatar_url_template": "https://picx.zhimg.com/v2-b3a4dcfac9d6fd77cf585196c612d5c8.jpg?source=2c26e567",
+    "badge": [],
+    "badge_v2": {
+      "detail_badges": [],
+      "icon": "",
+      "merged_badges": [],
+      "night_icon": "",
+      "title": "ヾ(≧▽≦*)o"
+    },
+    "gender": 0,
+    "headline": "ヾ(≧▽≦*)o",
+    "id": "bd3c16f69cb9175e344a40454ebd171f",
+    "is_advertiser": false,
+    "is_org": false,
+    "is_privacy": false,
+    "name": "GGapa",
+    "type": "people",
+    "url": "https://www.zhihu.com/api/v4/people/bd3c16f69cb9175e344a40454ebd171f",
+    "url_token": "ggapa",
+    "user_type": "people"
+  },
+  "biz_ext": {
+    "share_guide": {
+      "has_positive_bubble": false,
+      "has_time_bubble": false,
+      "hit_share_guide_cluster": false
+    }
+  },
+  "comment_count": 0,
+  "content": "<p data-pid=\"-0qu0eGY\">我认为值得。</p><p data-pid=\"bjvUB94J\">虽然新课标卷圆锥曲线可能不会再成为压轴的大题出现，也有很多反套路的操作。</p><p data-pid=\"saRAFxR0\">但是想要拥有反套路的能力，先掌握一定的套路是非常有必要的。我私认为本书中的方法和技巧都是属于圆锥曲线中非常基本的东西。书上的内容，很大程度上都是全都是韦达定理，以及“中途相遇”（虽然原书中作者并没有提到这一思想，但是在很多较为复杂的问题当中，这一思想方法有巨大的潜力）的变式以及应用。</p><p data-pid=\"UZKsD46E\">作者也在书中反复强调基础的重要性，对于一些复用性不强的方法和技巧做了省略处理。在考试中掌握这些比较大众化的技巧也对快速完成圆锥曲线的基础题有帮助。</p><p data-pid=\"WlheN2tD\">我学习这本书最大的收获就是拥有了一个良好的圆锥曲线基础，并且在面对非常困难的题时，这本书也给我提供了一些视角供我思考。所以从基础以及进阶来说，我认为这本书都是非常适合<b>基础较差</b>的同学进行学习的。</p>",
+  "content_need_truncated": false,
+  "created_time": 1748749102,
+  "extras": "",
+  "force_login_when_click_read_more": false,
+  "id": "1912473031567209253",
+  "is_collapsed": false,
+  "is_copyable": true,
+  "is_jump_native": false,
+  "podcast_audio_enter": {
+    "action_url": "zhihu://podcast/audio_player/0?contentId=1912473031567209253&contentType=answer&subType=&entrance=detail_page",
+    "sub_type": "",
+    "text": "听内容",
+    "text_color": "MapBrand",
+    "text_size": 13
+  },
+  "question": {
+    "created": 1746201676,
+    "id": "1901788352103027210",
+    "question_type": "normal",
+    "relationship": {},
+    "title": "新课标卷背景下，《新高掌》圆锥曲线篇是否值得一看？",
+    "type": "question",
+    "updated_time": 1746201676,
+    "url": "https://www.zhihu.com/api/v4/questions/1901788352103027210"
+  },
+  "relationship": {
+    "upvoted_followees": []
+  },
+  "type": "answer",
+  "updated_time": 1769578892,
+  "url": "https://www.zhihu.com/api/v4/answers/1912473031567209253",
+  "voteup_count": 0
+}

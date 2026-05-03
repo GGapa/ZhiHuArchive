@@ -1,0 +1,68 @@
+{
+  "allow_segment_interaction": 1,
+  "answer_type": "normal",
+  "author": {
+    "avatar_url": "https://picx.zhimg.com/v2-b3a4dcfac9d6fd77cf585196c612d5c8_l.jpg?source=2c26e567",
+    "avatar_url_template": "https://picx.zhimg.com/v2-b3a4dcfac9d6fd77cf585196c612d5c8.jpg?source=2c26e567",
+    "badge": [],
+    "badge_v2": {
+      "detail_badges": [],
+      "icon": "",
+      "merged_badges": [],
+      "night_icon": "",
+      "title": "ヾ(≧▽≦*)o"
+    },
+    "gender": 0,
+    "headline": "ヾ(≧▽≦*)o",
+    "id": "bd3c16f69cb9175e344a40454ebd171f",
+    "is_advertiser": false,
+    "is_org": false,
+    "is_privacy": false,
+    "name": "GGapa",
+    "type": "people",
+    "url": "https://www.zhihu.com/api/v4/people/bd3c16f69cb9175e344a40454ebd171f",
+    "url_token": "ggapa",
+    "user_type": "people"
+  },
+  "biz_ext": {
+    "share_guide": {
+      "has_positive_bubble": false,
+      "has_time_bubble": false,
+      "hit_share_guide_cluster": false
+    }
+  },
+  "comment_count": 0,
+  "content": "<p data-pid=\"WoDJ5-I6\">高中学科笔记不应该自己动手整理吗？为什么要让 D 老师帮忙呢？</p><p data-pid=\"D-r23mBR\">而且，在记忆知识点的时候，我们不能不求甚解啊，对于不会的公式一定要自己推一遍，对于那些没有办法推导的，尤其是化学和生物，那也一定要感性理解啊。</p><p data-pid=\"V6521JmM\">就算实在找不到某种理解的方法，但是在求证的过程中，也能够查证是真是假。</p><p data-pid=\"m4pCQvR5\">文科就不知道了欸。。。</p>",
+  "content_need_truncated": false,
+  "created_time": 1763862177,
+  "extras": "",
+  "force_login_when_click_read_more": false,
+  "id": "1975861860810109997",
+  "is_collapsed": false,
+  "is_copyable": true,
+  "is_jump_native": false,
+  "podcast_audio_enter": {
+    "action_url": "zhihu://podcast/audio_player/0?contentId=1975861860810109997&contentType=answer&subType=&entrance=detail_page",
+    "sub_type": "",
+    "text": "听内容",
+    "text_color": "MapBrand",
+    "text_size": 13
+  },
+  "question": {
+    "created": 1762962240,
+    "id": "1972087252273311884",
+    "question_type": "normal",
+    "relationship": {},
+    "title": "都说deepseek被降智了，那现在再让它帮着整理高中学科笔记会有问题吗？",
+    "type": "question",
+    "updated_time": 1762964055,
+    "url": "https://www.zhihu.com/api/v4/questions/1972087252273311884"
+  },
+  "relationship": {
+    "upvoted_followees": []
+  },
+  "type": "answer",
+  "updated_time": 1763862177,
+  "url": "https://www.zhihu.com/api/v4/answers/1975861860810109997",
+  "voteup_count": 1
+}

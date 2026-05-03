@@ -1,0 +1,68 @@
+{
+  "allow_segment_interaction": 1,
+  "answer_type": "normal",
+  "author": {
+    "avatar_url": "https://picx.zhimg.com/v2-b3a4dcfac9d6fd77cf585196c612d5c8_l.jpg?source=2c26e567",
+    "avatar_url_template": "https://pic1.zhimg.com/v2-b3a4dcfac9d6fd77cf585196c612d5c8.jpg?source=2c26e567",
+    "badge": [],
+    "badge_v2": {
+      "detail_badges": [],
+      "icon": "",
+      "merged_badges": [],
+      "night_icon": "",
+      "title": "ヾ(≧▽≦*)o"
+    },
+    "gender": 0,
+    "headline": "ヾ(≧▽≦*)o",
+    "id": "bd3c16f69cb9175e344a40454ebd171f",
+    "is_advertiser": false,
+    "is_org": false,
+    "is_privacy": false,
+    "name": "GGapa",
+    "type": "people",
+    "url": "https://www.zhihu.com/api/v4/people/bd3c16f69cb9175e344a40454ebd171f",
+    "url_token": "ggapa",
+    "user_type": "people"
+  },
+  "biz_ext": {
+    "share_guide": {
+      "has_positive_bubble": false,
+      "has_time_bubble": false,
+      "hit_share_guide_cluster": false
+    }
+  },
+  "comment_count": 1,
+  "content": "<p data-pid=\"90T2TQo6\">开过光的大脑十分厌恶信息量低下的视频，并且有很多的高中生的文字阅读的能力奇差无比。</p><p data-pid=\"daRypb2S\"><b>所以，你愿意使用知乎看一些有潜在价值的回答就就已经超过了大部分高中生。</b></p><hr/><p data-pid=\"RfYI12cO\">现在有很多的高中生完全没有议论写作的能力，在写应试作文的时候就只知道堆砌论据，没有一丝一毫的阐述与逻辑分析。你把那种作文放到知乎上来，不仅没有说服力，而且还容易遭到嘲笑。不过也活该，只能写出这种作文的人确实能力不怎么样。</p><p data-pid=\"clsNU6ik\">我们的语文教育在做些什么呢？</p><p data-pid=\"5wtb4mD5\"><b>所以，你有能力组织好你的语言，并且围绕某个问题能够产生自己的看法，就已经超过了绝大部分高中生。</b></p><hr/><p data-pid=\"4pYdLeng\">一篇回答，要想得到知乎的推送，就需要打动读者，让读者折服于作者笔下，更是难上加难。</p><p data-pid=\"YM6HtOI0\">你的观点是否鲜明？你的语言是否有力？你的文字是否流淌着你内心的情感？</p><p data-pid=\"TevkSt9i\">若能做到上述三点，那这个人一定学识渊博，拥有闲情雅致，能力远超众人，考上 985221 简直是德位相配，理所应当啊。</p><p data-pid=\"8lwKPV6-\"><b>所以，年纪轻轻的你，就有过人的才华，能让你的文章暴露于公众之下，简直就是高中生里璀璨的宝石。</b></p><hr/><p data-pid=\"gqYpNX9A\">而只有这些人所写的文章才能够被你看到，所以你以偏概全 ，得出了结论：<b>知乎人均 985。</b></p>",
+  "content_need_truncated": false,
+  "created_time": 1772527170,
+  "extras": "",
+  "force_login_when_click_read_more": false,
+  "id": "2012205475647739293",
+  "is_collapsed": false,
+  "is_copyable": true,
+  "is_jump_native": false,
+  "podcast_audio_enter": {
+    "action_url": "zhihu://podcast/audio_player/0?contentId=2012205475647739293&contentType=answer&subType=&entrance=detail_page",
+    "sub_type": "",
+    "text": "听内容",
+    "text_color": "MapBrand",
+    "text_size": 13
+  },
+  "question": {
+    "created": 1714400972,
+    "id": "654521604",
+    "question_type": "normal",
+    "relationship": {},
+    "title": "为什么知乎人均985?",
+    "type": "question",
+    "updated_time": 1714620740,
+    "url": "https://www.zhihu.com/api/v4/questions/654521604"
+  },
+  "relationship": {
+    "upvoted_followees": []
+  },
+  "type": "answer",
+  "updated_time": 1772527210,
+  "url": "https://www.zhihu.com/api/v4/answers/2012205475647739293",
+  "voteup_count": 1
+}

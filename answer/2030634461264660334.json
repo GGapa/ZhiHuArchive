@@ -1,0 +1,68 @@
+{
+  "allow_segment_interaction": 1,
+  "answer_type": "normal",
+  "author": {
+    "avatar_url": "https://pic1.zhimg.com/v2-b3a4dcfac9d6fd77cf585196c612d5c8_l.jpg?source=2c26e567",
+    "avatar_url_template": "https://picx.zhimg.com/v2-b3a4dcfac9d6fd77cf585196c612d5c8.jpg?source=2c26e567",
+    "badge": [],
+    "badge_v2": {
+      "detail_badges": [],
+      "icon": "",
+      "merged_badges": [],
+      "night_icon": "",
+      "title": "ヾ(≧▽≦*)o"
+    },
+    "gender": 0,
+    "headline": "ヾ(≧▽≦*)o",
+    "id": "bd3c16f69cb9175e344a40454ebd171f",
+    "is_advertiser": false,
+    "is_org": false,
+    "is_privacy": false,
+    "name": "GGapa",
+    "type": "people",
+    "url": "https://www.zhihu.com/api/v4/people/bd3c16f69cb9175e344a40454ebd171f",
+    "url_token": "ggapa",
+    "user_type": "people"
+  },
+  "biz_ext": {
+    "share_guide": {
+      "has_positive_bubble": false,
+      "has_time_bubble": false,
+      "hit_share_guide_cluster": false
+    }
+  },
+  "comment_count": 0,
+  "content": "<p data-pid=\"00aiz-is\">可能的原因有两个。</p><ol><li data-pid=\"J58v7lft\">2018 年 Animenz 与一家公司签约，由于过度信任熟人，未能仔细审核合同，导致他在不知情的情况下转让了几乎所有的知识产权 (IP)，包括 Youtube 频道和他的斯坦威。为了拿回控制权，他不得不清理之前的分发渠道。</li><li data-pid=\"BJZcsbRZ\"><a href=\"https://link.zhihu.com/?target=http%3A//Sheet.host\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">Sheet.host</a> 的免费分享在法律上处于灰色地带，侵犯了原作曲家的词曲著作权。而将发行平台迁移至 MyMusicSheet之后，这个平台会自动处理版权许可和原作曲家的收益分成，使得改编分发琴谱合法化。为 Animenz 后续开音乐会以及职业化发展铺路。</li></ol>",
+  "content_need_truncated": false,
+  "created_time": 1776920982,
+  "extras": "",
+  "force_login_when_click_read_more": false,
+  "id": "2030634461264660334",
+  "is_collapsed": false,
+  "is_copyable": true,
+  "is_jump_native": false,
+  "podcast_audio_enter": {
+    "action_url": "zhihu://podcast/audio_player/0?contentId=2030634461264660334&contentType=answer&subType=&entrance=detail_page",
+    "sub_type": "",
+    "text": "听内容",
+    "text_color": "MapBrand",
+    "text_size": 13
+  },
+  "question": {
+    "created": 1776870128,
+    "id": "2030421160274474669",
+    "question_type": "normal",
+    "relationship": {},
+    "title": "Animenz 为什么要删除其在 Sheet.host 上的账号？",
+    "type": "question",
+    "updated_time": 1776870128,
+    "url": "https://www.zhihu.com/api/v4/questions/2030421160274474669"
+  },
+  "relationship": {
+    "upvoted_followees": []
+  },
+  "type": "answer",
+  "updated_time": 1776920982,
+  "url": "https://www.zhihu.com/api/v4/answers/2030634461264660334",
+  "voteup_count": 0
+}

@@ -1,0 +1,68 @@
+{
+  "allow_segment_interaction": 1,
+  "answer_type": "normal",
+  "author": {
+    "avatar_url": "https://pica.zhimg.com/v2-b3a4dcfac9d6fd77cf585196c612d5c8_l.jpg?source=2c26e567",
+    "avatar_url_template": "https://picx.zhimg.com/v2-b3a4dcfac9d6fd77cf585196c612d5c8.jpg?source=2c26e567",
+    "badge": [],
+    "badge_v2": {
+      "detail_badges": [],
+      "icon": "",
+      "merged_badges": [],
+      "night_icon": "",
+      "title": "ヾ(≧▽≦*)o"
+    },
+    "gender": 0,
+    "headline": "ヾ(≧▽≦*)o",
+    "id": "bd3c16f69cb9175e344a40454ebd171f",
+    "is_advertiser": false,
+    "is_org": false,
+    "is_privacy": false,
+    "name": "GGapa",
+    "type": "people",
+    "url": "https://www.zhihu.com/api/v4/people/bd3c16f69cb9175e344a40454ebd171f",
+    "url_token": "ggapa",
+    "user_type": "people"
+  },
+  "biz_ext": {
+    "share_guide": {
+      "has_positive_bubble": false,
+      "has_time_bubble": false,
+      "hit_share_guide_cluster": false
+    }
+  },
+  "comment_count": 0,
+  "content": "<p data-pid=\"yniDC13B\">题主的意思是琴键的宽度太窄了，需要扩宽一点？</p><p data-pid=\"sFfQksWJ\">？？？</p><p data-pid=\"LIWfnJRK\">是不是与实际不符。</p><p data-pid=\"MZI0hoQV\">现在不是到处都有人在呼吁需要把琴键变窄一点，以便更好的符合青少年和女性的手型，让他们也能够轻松的完成八度至十度。之前还有一个有一个我没有找到出处的研究声称“现代约 87% 的成年女性和 24% 的成年男性手型小于 19 世纪欧洲男性的手型”。所以有人就设计出了一种窄键钢琴，但是并未得到普及。</p><p data-pid=\"NLfCyb6o\">怎么到了题主这里就变成了“大家的手太大所以我们需要增大钢琴的尺寸”，与目前钢琴制造界主流的“减负”趋势恰恰相反。</p><p data-pid=\"SrpXV8ng\">盲目的增加琴键宽度，会使得整个钢琴的体积变得巨大无比，有可能会损伤听感，有可能会使得琴键变得更重。更何况我们还没有考虑新设计和推广的成本问题。</p><p data-pid=\"3mYq2hFH\">除非哪一天成年人类都是巨人了，如今的标准键只适合那个时候的青少年和成年女性弹，并且随着年龄的增长绝大多数的亲少年都因为手太大而无法进行高技巧性的演奏时，才有可能会有更宽的钢琴出现。</p><p></p>",
+  "content_need_truncated": false,
+  "created_time": 1771663947,
+  "extras": "",
+  "force_login_when_click_read_more": false,
+  "id": "2008584856762880018",
+  "is_collapsed": false,
+  "is_copyable": true,
+  "is_jump_native": false,
+  "podcast_audio_enter": {
+    "action_url": "zhihu://podcast/audio_player/0?contentId=2008584856762880018&contentType=answer&subType=&entrance=detail_page",
+    "sub_type": "",
+    "text": "听内容",
+    "text_color": "MapBrand",
+    "text_size": 13
+  },
+  "question": {
+    "created": 1771613623,
+    "id": "2008373781320720453",
+    "question_type": "normal",
+    "relationship": {},
+    "title": "如何看待现在的钢琴更适配女性而不利于男性?",
+    "type": "question",
+    "updated_time": 1771613623,
+    "url": "https://www.zhihu.com/api/v4/questions/2008373781320720453"
+  },
+  "relationship": {
+    "upvoted_followees": []
+  },
+  "type": "answer",
+  "updated_time": 1771663969,
+  "url": "https://www.zhihu.com/api/v4/answers/2008584856762880018",
+  "voteup_count": 6
+}

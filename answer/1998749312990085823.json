@@ -1,0 +1,68 @@
+{
+  "allow_segment_interaction": 1,
+  "answer_type": "normal",
+  "author": {
+    "avatar_url": "https://pic1.zhimg.com/v2-b3a4dcfac9d6fd77cf585196c612d5c8_l.jpg?source=2c26e567",
+    "avatar_url_template": "https://pica.zhimg.com/v2-b3a4dcfac9d6fd77cf585196c612d5c8.jpg?source=2c26e567",
+    "badge": [],
+    "badge_v2": {
+      "detail_badges": [],
+      "icon": "",
+      "merged_badges": [],
+      "night_icon": "",
+      "title": "ヾ(≧▽≦*)o"
+    },
+    "gender": 0,
+    "headline": "ヾ(≧▽≦*)o",
+    "id": "bd3c16f69cb9175e344a40454ebd171f",
+    "is_advertiser": false,
+    "is_org": false,
+    "is_privacy": false,
+    "name": "GGapa",
+    "type": "people",
+    "url": "https://www.zhihu.com/api/v4/people/bd3c16f69cb9175e344a40454ebd171f",
+    "url_token": "ggapa",
+    "user_type": "people"
+  },
+  "biz_ext": {
+    "share_guide": {
+      "has_positive_bubble": false,
+      "has_time_bubble": false,
+      "hit_share_guide_cluster": false
+    }
+  },
+  "comment_count": 0,
+  "content": "<p data-pid=\"UCXBOFAt\">李新野太强了，不是一般人能够模仿的，没事别乱模仿别人，就不需要克制了。</p><p data-pid=\"UJWXXfyC\">而且结合文本推断，李新野翘课是去学竞赛，是为了心中的热诚和理想而奋斗的。明白了这一点再来决定要不要模仿。</p><p data-pid=\"LAoxEgfi\">如果真的要翘课，并且明白翘课之于自己的意义，那还为啥要克制？</p>",
+  "content_need_truncated": false,
+  "created_time": 1769318971,
+  "extras": "",
+  "force_login_when_click_read_more": false,
+  "id": "1998749312990085823",
+  "is_collapsed": false,
+  "is_copyable": true,
+  "is_jump_native": false,
+  "podcast_audio_enter": {
+    "action_url": "zhihu://podcast/audio_player/0?contentId=1998749312990085823&contentType=answer&subType=&entrance=detail_page",
+    "sub_type": "",
+    "text": "听内容",
+    "text_color": "MapBrand",
+    "text_size": 13
+  },
+  "question": {
+    "created": 1763994094,
+    "id": "1976415161653932704",
+    "question_type": "normal",
+    "relationship": {},
+    "title": "如何评价有的人会对李新野感兴趣？该怎么克制？",
+    "type": "question",
+    "updated_time": 1763994094,
+    "url": "https://www.zhihu.com/api/v4/questions/1976415161653932704"
+  },
+  "relationship": {
+    "upvoted_followees": []
+  },
+  "type": "answer",
+  "updated_time": 1769318971,
+  "url": "https://www.zhihu.com/api/v4/answers/1998749312990085823",
+  "voteup_count": 2
+}

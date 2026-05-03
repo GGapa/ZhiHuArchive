@@ -1,0 +1,68 @@
+{
+  "allow_segment_interaction": 1,
+  "answer_type": "normal",
+  "author": {
+    "avatar_url": "https://pic1.zhimg.com/v2-b3a4dcfac9d6fd77cf585196c612d5c8_l.jpg?source=2c26e567",
+    "avatar_url_template": "https://pic1.zhimg.com/v2-b3a4dcfac9d6fd77cf585196c612d5c8.jpg?source=2c26e567",
+    "badge": [],
+    "badge_v2": {
+      "detail_badges": [],
+      "icon": "",
+      "merged_badges": [],
+      "night_icon": "",
+      "title": "ヾ(≧▽≦*)o"
+    },
+    "gender": 0,
+    "headline": "ヾ(≧▽≦*)o",
+    "id": "bd3c16f69cb9175e344a40454ebd171f",
+    "is_advertiser": false,
+    "is_org": false,
+    "is_privacy": false,
+    "name": "GGapa",
+    "type": "people",
+    "url": "https://www.zhihu.com/api/v4/people/bd3c16f69cb9175e344a40454ebd171f",
+    "url_token": "ggapa",
+    "user_type": "people"
+  },
+  "biz_ext": {
+    "share_guide": {
+      "has_positive_bubble": false,
+      "has_time_bubble": false,
+      "hit_share_guide_cluster": false
+    }
+  },
+  "comment_count": 0,
+  "content": "<p data-pid=\"UfNFlq0k\">虽然我很不想承认，但是从客观上讲，我确实和题主有着许多相似的地方。</p><p data-pid=\"yfVtHAYt\">我是高三生，现在临近高考，已经复习了很久，每天都在一次又一次的重复做题，久了很容易感到无聊，因为我觉得这些题都太简单，太没有新意了。但是由于每次考试都会算错和看错，所以分数依旧那样。</p><p data-pid=\"RUt3CB5Z\">从最开始的无聊逐渐转变为一种虚无感，学校可真有你的，我至今也未能转变自己的看法，认为上学是一个很有意义的事情。</p><p data-pid=\"Vh8w3XH0\">不过我觉得题主可大可不必焦虑，感到虚无说明你拥有一定的批判思维，视野也应当是比周围的人要开阔的多的，只不过在高中，这些优秀的品质在一定程度上会被劣化，所以你可能会感到很不自在。</p><p data-pid=\"8CP1C7kG\">冷知识，完成作业不等于考试考高分，既然你已经认为做作业没有意义，那么直接开抄就完事，尽全力去敷衍。</p><p data-pid=\"uc1HmejS\">作业敷衍完了，那么就会有空闲出来的时间。你觉得靠高没有用，那么大可不必把这些能够自由分配的时间又花费在高考身上。你可以尝试去互联晚上找些英语文章，把你觉得有兴趣的打印下来，带到学校去看。什么，你问我为什么是英语文章？哦，那是因为中文互联网就是一坨____。你去看了之后就会发现，英文互联网上的宝藏真的是太多了。</p><p data-pid=\"KKcVBE6Z\">英语看累了怎么办？也没有关系，学点高考不会考的知识放松嘛，这也是学习呀，你并没有吧时间浪费在看小说和发呆上。去买本《高等数学》回来看看，太难了看不懂《微观经济学》也是可以滴。同学骂你太装逼？我记得高中语文会发一大堆自读课本来着，那也可以去看看呗。</p><p data-pid=\"OT1kW9wY\">在周末或者其他能够脱离学校的时候，一定要多干干自己想干的事情呀，好好的爱护自己。奖励一下自己成功的又度过了学校里惨绝人寰的一周，这值得你好好庆祝。</p><p data-pid=\"PxR8hDDu\">正是虚无感，给予了我们探索新世界的动力，这是一种好事，这意味着你需要寻求改变啦，那么就多多尝试不同的活动吧，相信你一定能找到所热爱之物，支撑着你度过高中三年qwq。</p><p data-pid=\"qj_1nDiD\">小声BB：觉得考试没意思可以试着倒着做，有可能有惊喜哦！</p>",
+  "content_need_truncated": false,
+  "created_time": 1773593110,
+  "extras": "",
+  "force_login_when_click_read_more": false,
+  "id": "2016676352368075053",
+  "is_collapsed": false,
+  "is_copyable": true,
+  "is_jump_native": false,
+  "podcast_audio_enter": {
+    "action_url": "zhihu://podcast/audio_player/0?contentId=2016676352368075053&contentType=answer&subType=&entrance=detail_page",
+    "sub_type": "",
+    "text": "听内容",
+    "text_color": "MapBrand",
+    "text_size": 13
+  },
+  "question": {
+    "created": 1773579366,
+    "id": "2016618704985661693",
+    "question_type": "normal",
+    "relationship": {},
+    "title": "高中生陷入虚无主义怎么办？",
+    "type": "question",
+    "updated_time": 1774194643,
+    "url": "https://www.zhihu.com/api/v4/questions/2016618704985661693"
+  },
+  "relationship": {
+    "upvoted_followees": []
+  },
+  "type": "answer",
+  "updated_time": 1773593110,
+  "url": "https://www.zhihu.com/api/v4/answers/2016676352368075053",
+  "voteup_count": 6
+}

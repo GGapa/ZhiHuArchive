@@ -1,0 +1,68 @@
+{
+  "allow_segment_interaction": 1,
+  "answer_type": "normal",
+  "author": {
+    "avatar_url": "https://picx.zhimg.com/v2-b3a4dcfac9d6fd77cf585196c612d5c8_l.jpg?source=2c26e567",
+    "avatar_url_template": "https://picx.zhimg.com/v2-b3a4dcfac9d6fd77cf585196c612d5c8.jpg?source=2c26e567",
+    "badge": [],
+    "badge_v2": {
+      "detail_badges": [],
+      "icon": "",
+      "merged_badges": [],
+      "night_icon": "",
+      "title": "ヾ(≧▽≦*)o"
+    },
+    "gender": 0,
+    "headline": "ヾ(≧▽≦*)o",
+    "id": "bd3c16f69cb9175e344a40454ebd171f",
+    "is_advertiser": false,
+    "is_org": false,
+    "is_privacy": false,
+    "name": "GGapa",
+    "type": "people",
+    "url": "https://www.zhihu.com/api/v4/people/bd3c16f69cb9175e344a40454ebd171f",
+    "url_token": "ggapa",
+    "user_type": "people"
+  },
+  "biz_ext": {
+    "share_guide": {
+      "has_positive_bubble": false,
+      "has_time_bubble": false,
+      "hit_share_guide_cluster": false
+    }
+  },
+  "comment_count": 2,
+  "content": "<p data-pid=\"q-eQZkjm\">古典乐真的很长啊，动辄十多分钟，长则一个小时。</p><p data-pid=\"_Bjax4gn\">你循环一首一个小时交响乐的时间，都够听一首 3 分钟的流行乐 20 次了。</p><p data-pid=\"CXwcs-0t\">我觉得古典的魅力就体现在一张一弛当中，流行乐的高强度爆发使得人更容易疲劳，古典音乐则给予了人足够的休息时间，才没有那么容易腻。</p><p data-pid=\"zCpp2x24\">跟何况一些情感强烈的古典作品，如果一个人内心的情感依然存在的话，想必在每次听都能共情，情感强烈的流行乐我都听不腻，跟何况是古典了。</p><p></p>",
+  "content_need_truncated": false,
+  "created_time": 1772596920,
+  "extras": "",
+  "force_login_when_click_read_more": false,
+  "id": "2012498030549540952",
+  "is_collapsed": false,
+  "is_copyable": true,
+  "is_jump_native": false,
+  "podcast_audio_enter": {
+    "action_url": "zhihu://podcast/audio_player/0?contentId=2012498030549540952&contentType=answer&subType=&entrance=detail_page",
+    "sub_type": "",
+    "text": "听内容",
+    "text_color": "MapBrand",
+    "text_size": 13
+  },
+  "question": {
+    "created": 1744259365,
+    "id": "1893641706957693029",
+    "question_type": "normal",
+    "relationship": {},
+    "title": "为什么古典听不腻？",
+    "type": "question",
+    "updated_time": 1744259365,
+    "url": "https://www.zhihu.com/api/v4/questions/1893641706957693029"
+  },
+  "relationship": {
+    "upvoted_followees": []
+  },
+  "type": "answer",
+  "updated_time": 1772596920,
+  "url": "https://www.zhihu.com/api/v4/answers/2012498030549540952",
+  "voteup_count": 21
+}

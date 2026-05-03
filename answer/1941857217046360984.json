@@ -1,0 +1,68 @@
+{
+  "allow_segment_interaction": 1,
+  "answer_type": "normal",
+  "author": {
+    "avatar_url": "https://pic1.zhimg.com/v2-b3a4dcfac9d6fd77cf585196c612d5c8_l.jpg?source=2c26e567",
+    "avatar_url_template": "https://picx.zhimg.com/v2-b3a4dcfac9d6fd77cf585196c612d5c8.jpg?source=2c26e567",
+    "badge": [],
+    "badge_v2": {
+      "detail_badges": [],
+      "icon": "",
+      "merged_badges": [],
+      "night_icon": "",
+      "title": "ヾ(≧▽≦*)o"
+    },
+    "gender": 0,
+    "headline": "ヾ(≧▽≦*)o",
+    "id": "bd3c16f69cb9175e344a40454ebd171f",
+    "is_advertiser": false,
+    "is_org": false,
+    "is_privacy": false,
+    "name": "GGapa",
+    "type": "people",
+    "url": "https://www.zhihu.com/api/v4/people/bd3c16f69cb9175e344a40454ebd171f",
+    "url_token": "ggapa",
+    "user_type": "people"
+  },
+  "biz_ext": {
+    "share_guide": {
+      "has_positive_bubble": false,
+      "has_time_bubble": false,
+      "hit_share_guide_cluster": false
+    }
+  },
+  "comment_count": 0,
+  "content": "<p data-pid=\"ebGJA-MV\">参考 edmond 的那篇关于<a href=\"https://www.zhihu.com/question/19888447/answer/1930799480401293785\" class=\"internal\" target=\"_blank\">自制力</a>的文章。</p><p data-pid=\"A-D1wY_Y\">如果没有耐心读完那片文章的话，建议不要在家里学，如果实在要在家里的话可以将玩耍和学习的地方分开，习惯之后然后再去读那篇文章。</p><p data-pid=\"I4DNH6rd\">可以结合自己的实际情况优化文章中的方法。</p><p data-pid=\"RYR-Ouz3\"></p>",
+  "content_need_truncated": false,
+  "created_time": 1755754838,
+  "extras": "",
+  "force_login_when_click_read_more": false,
+  "id": "1941857217046360984",
+  "is_collapsed": false,
+  "is_copyable": true,
+  "is_jump_native": false,
+  "podcast_audio_enter": {
+    "action_url": "zhihu://podcast/audio_player/0?contentId=1941857217046360984&contentType=answer&subType=&entrance=detail_page",
+    "sub_type": "",
+    "text": "听内容",
+    "text_color": "MapBrand",
+    "text_size": 13
+  },
+  "question": {
+    "created": 1755079960,
+    "id": "1939026572423173958",
+    "question_type": "normal",
+    "relationship": {},
+    "title": "初中生一个人在家里写作业怎么让自己认真下来?",
+    "type": "question",
+    "updated_time": 1755079960,
+    "url": "https://www.zhihu.com/api/v4/questions/1939026572423173958"
+  },
+  "relationship": {
+    "upvoted_followees": []
+  },
+  "type": "answer",
+  "updated_time": 1755754958,
+  "url": "https://www.zhihu.com/api/v4/answers/1941857217046360984",
+  "voteup_count": 4
+}

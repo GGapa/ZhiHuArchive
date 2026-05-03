@@ -1,0 +1,68 @@
+{
+  "allow_segment_interaction": 1,
+  "answer_type": "normal",
+  "author": {
+    "avatar_url": "https://picx.zhimg.com/v2-b3a4dcfac9d6fd77cf585196c612d5c8_l.jpg?source=2c26e567",
+    "avatar_url_template": "https://pica.zhimg.com/v2-b3a4dcfac9d6fd77cf585196c612d5c8.jpg?source=2c26e567",
+    "badge": [],
+    "badge_v2": {
+      "detail_badges": [],
+      "icon": "",
+      "merged_badges": [],
+      "night_icon": "",
+      "title": "ヾ(≧▽≦*)o"
+    },
+    "gender": 0,
+    "headline": "ヾ(≧▽≦*)o",
+    "id": "bd3c16f69cb9175e344a40454ebd171f",
+    "is_advertiser": false,
+    "is_org": false,
+    "is_privacy": false,
+    "name": "GGapa",
+    "type": "people",
+    "url": "https://www.zhihu.com/api/v4/people/bd3c16f69cb9175e344a40454ebd171f",
+    "url_token": "ggapa",
+    "user_type": "people"
+  },
+  "biz_ext": {
+    "share_guide": {
+      "has_positive_bubble": false,
+      "has_time_bubble": false,
+      "hit_share_guide_cluster": false
+    }
+  },
+  "comment_count": 0,
+  "content": "<p data-pid=\"Ze_OctlG\">抛开剂量谈毒性就是耍流氓。</p><p data-pid=\"h84vkCXG\">这取决于你玩游戏的目的和游戏的设计。如果你玩游戏是为了挑战谜题，那自然应该少看攻略。</p><p data-pid=\"6rkLEthk\">如果你玩游戏的目的是为了欣赏看故事，还遇见了抽象制作者所布置的困难挑战，那么看攻略是天经地义的事情，甚至就不要亲自玩这个游戏，看解说就好了。</p><p data-pid=\"CxRJz5B2\">普通玩家就不应该接触硬核游戏，这是错配，不要给自己找罪受。</p>",
+  "content_need_truncated": false,
+  "created_time": 1771043643,
+  "extras": "",
+  "force_login_when_click_read_more": false,
+  "id": "2005983111897449924",
+  "is_collapsed": false,
+  "is_copyable": true,
+  "is_jump_native": false,
+  "podcast_audio_enter": {
+    "action_url": "zhihu://podcast/audio_player/0?contentId=2005983111897449924&contentType=answer&subType=&entrance=detail_page",
+    "sub_type": "",
+    "text": "听内容",
+    "text_color": "MapBrand",
+    "text_size": 13
+  },
+  "question": {
+    "created": 1768285765,
+    "id": "1994415735636788804",
+    "question_type": "normal",
+    "relationship": {},
+    "title": "玩游戏前先看攻略，究竟是帮我们规避了挫败感的“良药”，还是剥夺了探索乐趣的“毒药”？",
+    "type": "question",
+    "updated_time": 1768285765,
+    "url": "https://www.zhihu.com/api/v4/questions/1994415735636788804"
+  },
+  "relationship": {
+    "upvoted_followees": []
+  },
+  "type": "answer",
+  "updated_time": 1771043643,
+  "url": "https://www.zhihu.com/api/v4/answers/2005983111897449924",
+  "voteup_count": 1
+}

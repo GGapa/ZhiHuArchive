@@ -1,0 +1,68 @@
+{
+  "allow_segment_interaction": 1,
+  "answer_type": "normal",
+  "author": {
+    "avatar_url": "https://pica.zhimg.com/v2-b3a4dcfac9d6fd77cf585196c612d5c8_l.jpg?source=2c26e567",
+    "avatar_url_template": "https://pic1.zhimg.com/v2-b3a4dcfac9d6fd77cf585196c612d5c8.jpg?source=2c26e567",
+    "badge": [],
+    "badge_v2": {
+      "detail_badges": [],
+      "icon": "",
+      "merged_badges": [],
+      "night_icon": "",
+      "title": "ヾ(≧▽≦*)o"
+    },
+    "gender": 0,
+    "headline": "ヾ(≧▽≦*)o",
+    "id": "bd3c16f69cb9175e344a40454ebd171f",
+    "is_advertiser": false,
+    "is_org": false,
+    "is_privacy": false,
+    "name": "GGapa",
+    "type": "people",
+    "url": "https://www.zhihu.com/api/v4/people/bd3c16f69cb9175e344a40454ebd171f",
+    "url_token": "ggapa",
+    "user_type": "people"
+  },
+  "biz_ext": {
+    "share_guide": {
+      "has_positive_bubble": false,
+      "has_time_bubble": false,
+      "hit_share_guide_cluster": false
+    }
+  },
+  "comment_count": 0,
+  "content": "<p data-pid=\"4yJ0QmM7\">坏了，这么一说好像还没有真正意义上的打过龙。</p><p data-pid=\"FHs9vOFT\">之前尝试玩速通，不知道在哪个矿洞里就莫名其妙死掉了，然后东西找不回来了QAQ 直接爆炸了，就没怎么玩了。如果这个档能够成功打完龙的话，那可能也是放在一旁晾着了。。</p><p data-pid=\"c36h3cs-\">后来尝试和朋友们一起玩，就慢慢的在发育，建立了一个经验熔炉，但是不知道怎么滴当前好像就被经验熔炉卡坏了，没有备份。如果这个档继续玩下去的话，可能会回来搞点简单的小机器吧，把凋零打了做个信标什么的，似乎还有挺多事可以做的。</p><p data-pid=\"pK6NZuD7\">不过这些都已经不再能够让我完成了，后来还是服务器或者是创造玩的比较多。</p><p data-pid=\"VV1FT5qa\">似乎有点偏题了qwq</p>",
+  "content_need_truncated": false,
+  "created_time": 1753973062,
+  "extras": "",
+  "force_login_when_click_read_more": false,
+  "id": "1934383908163654288",
+  "is_collapsed": false,
+  "is_copyable": true,
+  "is_jump_native": false,
+  "podcast_audio_enter": {
+    "action_url": "zhihu://podcast/audio_player/0?contentId=1934383908163654288&contentType=answer&subType=&entrance=detail_page",
+    "sub_type": "",
+    "text": "听内容",
+    "text_color": "MapBrand",
+    "text_size": 13
+  },
+  "question": {
+    "created": 1746782368,
+    "id": "1904223949342106287",
+    "question_type": "normal",
+    "relationship": {},
+    "title": "我的世界打完龙后你们都会干什么？",
+    "type": "question",
+    "updated_time": 1746782368,
+    "url": "https://www.zhihu.com/api/v4/questions/1904223949342106287"
+  },
+  "relationship": {
+    "upvoted_followees": []
+  },
+  "type": "answer",
+  "updated_time": 1754731959,
+  "url": "https://www.zhihu.com/api/v4/answers/1934383908163654288",
+  "voteup_count": 0
+}

@@ -1,0 +1,68 @@
+{
+  "allow_segment_interaction": 1,
+  "answer_type": "normal",
+  "author": {
+    "avatar_url": "https://picx.zhimg.com/v2-b3a4dcfac9d6fd77cf585196c612d5c8_l.jpg?source=2c26e567",
+    "avatar_url_template": "https://picx.zhimg.com/v2-b3a4dcfac9d6fd77cf585196c612d5c8.jpg?source=2c26e567",
+    "badge": [],
+    "badge_v2": {
+      "detail_badges": [],
+      "icon": "",
+      "merged_badges": [],
+      "night_icon": "",
+      "title": "ヾ(≧▽≦*)o"
+    },
+    "gender": 0,
+    "headline": "ヾ(≧▽≦*)o",
+    "id": "bd3c16f69cb9175e344a40454ebd171f",
+    "is_advertiser": false,
+    "is_org": false,
+    "is_privacy": false,
+    "name": "GGapa",
+    "type": "people",
+    "url": "https://www.zhihu.com/api/v4/people/bd3c16f69cb9175e344a40454ebd171f",
+    "url_token": "ggapa",
+    "user_type": "people"
+  },
+  "biz_ext": {
+    "share_guide": {
+      "has_positive_bubble": false,
+      "has_time_bubble": false,
+      "hit_share_guide_cluster": false
+    }
+  },
+  "comment_count": 0,
+  "content": "<p data-pid=\"B70ZDwEY\">我觉得高中生双休是一个非常正确的行为，能够让学生有更多自主学习的时间，而不是被老师牵着鼻子走。</p><p data-pid=\"79T0DLAV\">但是事实呢？根据身边统计学统计，双休之后几乎只会有非常少的学生会拿多出来的周六写作业或者拓展，大部分还是耍过去然后等到周天或者周一返校开始抄作业。</p><p data-pid=\"f0P0Xxu2\">如果一个学生因为被学校压着考出了成绩，那么等他上了大学呢？谁来继续压着他？似乎这种人并不是国家所看重的。</p><p data-pid=\"9E5vlO1i\">现在互联网上的资源这么丰富，对于大部分学生来说补习班其实是约等于毫无作用的，因为真真会学习的人有较大概率不会选择上补习班，而不会学习的人上补习班不一定会认真。根据不完全身边统计学统计，往往只有成绩中等偏上的学生抱有补习班。</p><p data-pid=\"eutn-yT5\">题主说没有自制力，在学校上自习效率高，那么为什么不去图书馆呢？我认为我也是自制力非常差的学生，在家根本学不进去，于是我依然每周六坚持去学校的图书馆或者是附近的公共图书馆。</p><p data-pid=\"-pjK7b03\">知乎上为什么又这么多人支持高中生双休？可能你遇到的回答都是学生吧，就比如说我我就很支持双休，家长们还是挺希望单休的。</p><p data-pid=\"eMvUKRfP\">而且还可能拥有幸存者效应，不支持双休的都是卷王，他们很少有时间在互联网上发表自己的看法。</p><p></p><p></p>",
+  "content_need_truncated": false,
+  "created_time": 1744472450,
+  "extras": "",
+  "force_login_when_click_read_more": false,
+  "id": "1894535450938554246",
+  "is_collapsed": false,
+  "is_copyable": true,
+  "is_jump_native": false,
+  "podcast_audio_enter": {
+    "action_url": "zhihu://podcast/audio_player/0?contentId=1894535450938554246&contentType=answer&subType=&entrance=detail_page",
+    "sub_type": "",
+    "text": "听内容",
+    "text_color": "MapBrand",
+    "text_size": 13
+  },
+  "question": {
+    "created": 1743172054,
+    "id": "1889081197797291741",
+    "question_type": "normal",
+    "relationship": {},
+    "title": "为什么知乎上大多数人都支持高中生双休？",
+    "type": "question",
+    "updated_time": 1743172054,
+    "url": "https://www.zhihu.com/api/v4/questions/1889081197797291741"
+  },
+  "relationship": {
+    "upvoted_followees": []
+  },
+  "type": "answer",
+  "updated_time": 1744472626,
+  "url": "https://www.zhihu.com/api/v4/answers/1894535450938554246",
+  "voteup_count": 2
+}

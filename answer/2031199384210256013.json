@@ -1,0 +1,68 @@
+{
+  "allow_segment_interaction": 1,
+  "answer_type": "normal",
+  "author": {
+    "avatar_url": "https://picx.zhimg.com/v2-b3a4dcfac9d6fd77cf585196c612d5c8_l.jpg?source=2c26e567",
+    "avatar_url_template": "https://pica.zhimg.com/v2-b3a4dcfac9d6fd77cf585196c612d5c8.jpg?source=2c26e567",
+    "badge": [],
+    "badge_v2": {
+      "detail_badges": [],
+      "icon": "",
+      "merged_badges": [],
+      "night_icon": "",
+      "title": "ヾ(≧▽≦*)o"
+    },
+    "gender": 0,
+    "headline": "ヾ(≧▽≦*)o",
+    "id": "bd3c16f69cb9175e344a40454ebd171f",
+    "is_advertiser": false,
+    "is_org": false,
+    "is_privacy": false,
+    "name": "GGapa",
+    "type": "people",
+    "url": "https://www.zhihu.com/api/v4/people/bd3c16f69cb9175e344a40454ebd171f",
+    "url_token": "ggapa",
+    "user_type": "people"
+  },
+  "biz_ext": {
+    "share_guide": {
+      "has_positive_bubble": false,
+      "has_time_bubble": false,
+      "hit_share_guide_cluster": false
+    }
+  },
+  "comment_count": 0,
+  "content": "<p data-pid=\"U_W8tUyv\">一个很简单的道理：<b>想要提升自己的某一方面，就去和那一方面强的人打交道。如果他们不愿意和你打交道，那你也要想办法去旁观他们。</b></p><p data-pid=\"ykFs3du0\">想要学习好，就去多和学霸相处，和他们交朋友甚至是耍朋友。不会有人以为学霸成绩好全是硬件的原因吧，他们的作风和思想与普通的学生就不一样，而对成绩起决定性作用的就是这些能力层的东西，什么学习方法只是起到锦上添花的作用。一个人有能力，自己就能够摸索出来一大堆适合自己的学习方法，根本就不再需要请教他人。要请教也应当是请教一些更加高深的东西。</p><p data-pid=\"e_1zDCUf\">只要<b>不是身体硬件层面的限制</b>，这个道理都适用。显然你记忆力差去和记忆力好的人一起玩对你的记忆力不会有任何帮助；身高长得矮去和身高长得高的人一起相处也不会促使你长高。</p><p data-pid=\"5upXHYVD\">在重点班垫底，只要心态不崩，那学习的机会简直是多的是。只要班里面不全都是那种令人难以理解的天赋哥，你就能从他们身上学到很多东西。</p><p data-pid=\"14r4lviU\">更何况一个人自身往往不能够认识到自己为什么如此优秀，<b>只凭文字很难传达出来一个人的核心</b>。</p><p data-pid=\"GEuUQ-LB\">我中考前不久，就认识了一群我们学校年级前列的人，成功地成为了他们的好友。那段时间我就疯狂向他们学习，成绩突飞猛进，好歹混上了 600 分，虽然也不怎么样，但对我来说这就是彻彻底底的大胜利，如果没有遇见他们我不可能考上这个分数。</p><p data-pid=\"kckHhpi0\">当然，在普通班并不意味着其他人都不如你，只是这一概率远小于在重点班垫底。而且你有极大的概率遇见神人同学天天打扰你，能不能出淤泥而不染非常考验个人的能力。</p><p data-pid=\"k9alqF9u\">而且，我觉得是个人都能够分辨出来一个人和你交朋友是否真心，对于高手更是这样。我劝那些自私自利的极端功利主义者小心，<b>不要用完即弃</b>；有可能你在短时间内得到了大佬们的帮助，但却败坏了自己的名声，这就有点目光短浅了。</p><p data-pid=\"_mWbT0mA\">那肯定不是只有向一个更强的人学习才能够进步，总有有能力的人善于创新，能够无师自通。<b>而向他人学习的终极造诣就是自己向过去的自己学习</b>，从过去的自己反思不足并加以改进，这才是最行之有效的方法，不过也要困难得多。总的来说，向他人学习才是轻松且容易成功的。</p>",
+  "content_need_truncated": false,
+  "created_time": 1777055671,
+  "extras": "",
+  "force_login_when_click_read_more": false,
+  "id": "2031199384210256013",
+  "is_collapsed": false,
+  "is_copyable": true,
+  "is_jump_native": false,
+  "podcast_audio_enter": {
+    "action_url": "zhihu://podcast/audio_player/0?contentId=2031199384210256013&contentType=answer&subType=&entrance=detail_page",
+    "sub_type": "",
+    "text": "听内容",
+    "text_color": "MapBrand",
+    "text_size": 13
+  },
+  "question": {
+    "created": 1776954681,
+    "id": "2030775802384622677",
+    "question_type": "normal",
+    "relationship": {},
+    "title": "高中生,是在重点班当垫底，还是在普通班当第一？",
+    "type": "question",
+    "updated_time": 1776954681,
+    "url": "https://www.zhihu.com/api/v4/questions/2030775802384622677"
+  },
+  "relationship": {
+    "upvoted_followees": []
+  },
+  "type": "answer",
+  "updated_time": 1777055769,
+  "url": "https://www.zhihu.com/api/v4/answers/2031199384210256013",
+  "voteup_count": 4
+}

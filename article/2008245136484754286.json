@@ -1,0 +1,227 @@
+{
+  "trackUrl": [
+    "https://sugar.zhihu.com/plutus_adreaper/content_monitor_log?si=__SESSIONID__&ti=__ATOKEN__&at=view&pf=__OS__&ed=BiBUKF0xBSkqGGNXBmN0AVJ1CH2xkCtVpil58A==&idfa=__IDFA__&imei=__IMEI__&androidid=__ANDROIDID__&oaid=__OAID__&ci=__CREATIVEID__&zid=__ZONEID__"
+  ],
+  "entityWords": [
+    {
+      "name": "NVIDIA App",
+      "mention": "NVIDIA App",
+      "matchorder": 1,
+      "begin": 516,
+      "end": 526,
+      "entityid": 8431966744977233000,
+      "isBookMark": false,
+      "link": {
+        "linkType": 10,
+        "linkUrl": "https://zhida.zhihu.com/search?content_id=270476263&content_type=Article&match_order=1&q=NVIDIA+App&zhida_source=entity",
+        "docType": "",
+        "topicToken": ""
+      },
+      "entityClass": "Unknown",
+      "score": 0.015484574289189368,
+      "attachedInfoBytes": "sgJdCgpOVklESUEgQXBwEgdVbmtub3duGIQEII4EKAE1A7N9PDoHYXJ0aWNsZUD5qZmCyKKXgnVIClIkZjU3MTBkOTgtNzgxZi00ZmE3LWI3YzgtODA0OWVhZGYyNDVk8gLOAQokZjU3MTBkOTgtNzgxZi00ZmE3LWI3YzgtODA0OWVhZGYyNDVkGgdhcnRpY2xlIgkyNzA0NzYyNjM6Ck5WSURJQSBBcHBA+amZgsiil4J1SAJSFmFpX2VudGl0eV9sbG1fcmVjYWxsZXJdA7N9PGJdCgpOVklESUEgQXBwEgdVbmtub3duGIQEII4EKAE1A7N9PDoHYXJ0aWNsZUD5qZmCyKKXgnVIClIkZjU3MTBkOTgtNzgxZi00ZmE3LWI3YzgtODA0OWVhZGYyNDVk",
+      "isOnAB": false,
+      "isNatural": 1,
+      "isDelete": false,
+      "contentType": "",
+      "contentId": "",
+      "contentToken": ""
+    }
+  ],
+  "id": "2008245136484754286",
+  "title": "解决 Windows11下任务栏被遮挡的问题",
+  "type": "article",
+  "articleType": "normal",
+  "excerptTitle": "",
+  "url": "https://zhuanlan.zhihu.com/p/2008245136484754286",
+  "imageUrl": "",
+  "titleImage": "",
+  "excerpt": "<img src=\"https://pic2.zhimg.com/v2-0075864151f55ce310616c983276f37f_200x112.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"1440\" data-rawheight=\"351\" data-watermark=\"watermark\" data-original-src=\"v2-0075864151f55ce310616c983276f37f\" data-watermark-src=\"v2-b06a291bee910d4b973d290aa7ac4f3e\" data-private-watermark-src=\"\" class=\"origin_image inline-img zh-lightbox-thumb\" data-original=\"https://pic2.zhimg.com/v2-0075864151f55ce310616c983276f37f_r.jpg\"/><b>问题描述： </b>在 Windows 11 中，窗口化应用会遮挡任务栏。如下图所示： <b>解决方法：</b>如果你使用的是 NVIDIA 显卡，这可能是 NVIDIA App/GeForce Experience 的游戏内覆盖（Overlay）功能冲突导致的。可以尝试以下操作：打开 NVIDIA App（或 GeForce Experience…",
+  "created": 1771586596,
+  "updated": 1771586657,
+  "author": {
+    "isFollowed": false,
+    "avatarUrlTemplate": "https://picx.zhimg.com/v2-b3a4dcfac9d6fd77cf585196c612d5c8.jpg?source=172ae18b",
+    "uid": "1572195336499671040",
+    "userType": "people",
+    "isFollowing": false,
+    "urlToken": "ggapa",
+    "id": "bd3c16f69cb9175e344a40454ebd171f",
+    "description": "ggapa.net",
+    "name": "GGapa",
+    "isAdvertiser": false,
+    "headline": "ヾ(≧▽≦*)o",
+    "gender": 0,
+    "url": "https://www.zhihu.com/people/bd3c16f69cb9175e344a40454ebd171f",
+    "avatarUrl": "https://pic1.zhimg.com/v2-b3a4dcfac9d6fd77cf585196c612d5c8_l.jpg?source=172ae18b",
+    "isOrg": false,
+    "type": "people",
+    "badge": [],
+    "badgeV2": {
+      "title": "ヾ(≧▽≦*)o",
+      "mergedBadges": [],
+      "detailBadges": [],
+      "icon": "",
+      "nightIcon": ""
+    },
+    "exposedMedal": {
+      "medalId": "0",
+      "medalName": "",
+      "avatarUrl": "",
+      "miniAvatarUrl": "",
+      "description": "",
+      "medalAvatarFrame": null
+    },
+    "avatar_url": "https://pic1.zhimg.com/v2-b3a4dcfac9d6fd77cf585196c612d5c8_l.jpg?source=172ae18b"
+  },
+  "commentPermission": "all",
+  "copyrightPermission": "need_review",
+  "state": "published",
+  "ipInfo": "四川",
+  "imageWidth": 0,
+  "imageHeight": 0,
+  "content": "<p data-pid=\"DbaMPwtM\"><b>问题描述： </b>在 Windows 11 中，窗口化应用会遮挡任务栏。如下图所示：</p><figure data-size=\"normal\"><img src=\"https://pic1.zhimg.com/v2-b06a291bee910d4b973d290aa7ac4f3e_1440w.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"1440\" data-rawheight=\"351\" data-original-token=\"v2-0075864151f55ce310616c983276f37f\" class=\"origin_image zh-lightbox-thumb\" width=\"1440\" data-original=\"https://pic1.zhimg.com/v2-b06a291bee910d4b973d290aa7ac4f3e_r.jpg\"/></figure><p data-pid=\"9svcH-g1\"><b>解决方法：</b>如果你使用的是 NVIDIA 显卡，这可能是 NVIDIA App/GeForce Experience 的游戏内覆盖（Overlay）功能冲突导致的。可以尝试以下操作：</p><p data-pid=\"1Q3EmJgW\">打开 NVIDIA App（或 GeForce Experience）。</p><p data-pid=\"clHwDCdx\">进入设置界面。</p><p data-pid=\"Zq872iK-\">找到 “英伟达游戏内覆盖” (NVIDIA Overlay) 选项。如下图所示：</p><figure data-size=\"normal\"><img src=\"https://pic3.zhimg.com/v2-1b9c7f778675770d4cf207fe668257d8_1440w.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"1440\" data-rawheight=\"1039\" data-original-token=\"v2-f7aa5a695d5a58725eb91325adb5bf34\" class=\"origin_image zh-lightbox-thumb\" width=\"1440\" data-original=\"https://pic3.zhimg.com/v2-1b9c7f778675770d4cf207fe668257d8_r.jpg\"/></figure><p data-pid=\"QnC-9cRF\">将其关闭即可。关闭后，窗口遮挡任务栏的问题通常会立即消失。</p>",
+  "contentNeedTruncated": false,
+  "forceLoginWhenClickReadMore": false,
+  "adminClosedComment": false,
+  "topics": [],
+  "voteupCount": 0,
+  "voting": 0,
+  "heavyUpStatus": "allow_heavy_up",
+  "commentCount": 0,
+  "contributions": [],
+  "isTitleImageFullScreen": false,
+  "upvotedFollowees": [],
+  "commercialInfo": {
+    "isCommercial": false,
+    "plugin": {}
+  },
+  "suggestEdit": {
+    "status": false,
+    "reason": "",
+    "tip": "",
+    "url": "",
+    "title": ""
+  },
+  "reason": "",
+  "annotationAction": [],
+  "canTip": false,
+  "canOpenTipjar": true,
+  "tipjarorsCount": 0,
+  "isLabeled": false,
+  "hasPublishingDraft": false,
+  "isFavorited": false,
+  "favlistsCount": 0,
+  "isNormal": true,
+  "status": 0,
+  "activityToppingInfo": {
+    "state": "untopped"
+  },
+  "shareText": "解决 Windows11下任务栏被遮挡的问题 - 来自知乎专栏，作者: GGapa https://zhuanlan.zhihu.com/p/2008245136484754286 （想看更多？下载 @知乎 App：http://weibo.com/p/100404711598 ）",
+  "canComment": {
+    "status": true,
+    "reason": ""
+  },
+  "mcnFpShow": -1,
+  "isVisible": true,
+  "isLiked": false,
+  "likedCount": 0,
+  "hasColumn": false,
+  "republishers": [],
+  "isNewLinkCard": true,
+  "emojiReaction": {
+    "likeCount": 0,
+    "likeHasSet": false
+  },
+  "abParam": {
+    "qaHiddenVoteup": "",
+    "rsInterest1": "",
+    "zpZhiStyle": ""
+  },
+  "attachedInfo": "kgIuCgkyNzA0NzYyNjMSEzIwMDgyNDUxMzY0ODQ3NTQyODYYByIKSU1BR0VfVEVYVA==",
+  "shareGuide": {
+    "hasPositiveBubble": false,
+    "hasTimeBubble": false,
+    "hitShareGuideCluster": false
+  },
+  "settings": {
+    "tableOfContents": {
+      "enabled": false
+    }
+  },
+  "canReference": false,
+  "reactionInstruction": {},
+  "reaction": {
+    "statistics": {
+      "upVoteCount": 0,
+      "downVoteCount": 0,
+      "likeCount": 0,
+      "commentCount": 0,
+      "shareCount": 0,
+      "playCount": 0,
+      "interestPlayCount": 0,
+      "favorites": 0,
+      "pvCount": 0,
+      "bulletCount": 0,
+      "applaudCount": 0,
+      "questionFollowerCount": 0,
+      "questionAnswerCount": 0,
+      "plaincontentVoteUpCount": 0,
+      "plaincontentLikeCount": 0,
+      "imgLikeCount": {
+        "v20075864151f55ce310616c983276f37f": 0,
+        "v2F7aa5a695d5a58725eb91325adb5bf34": 0
+      },
+      "subscribeCount": 0,
+      "republishers": []
+    },
+    "relation": {
+      "isAuthor": true,
+      "vote": "Neutral",
+      "liked": false,
+      "imgLiked": {
+        "v20075864151f55ce310616c983276f37f": false,
+        "v2F7aa5a695d5a58725eb91325adb5bf34": false
+      },
+      "faved": false,
+      "following": false,
+      "subcribed": false,
+      "isNavigatorVote": false,
+      "currentUserIsNavigator": false,
+      "voteNextStep": ""
+    },
+    "imageReactions": {
+      "v20075864151f55ce310616c983276f37f": {
+        "likeCount": 0,
+        "isLiked": false
+      },
+      "v2F7aa5a695d5a58725eb91325adb5bf34": {
+        "likeCount": 0,
+        "isLiked": false
+      }
+    }
+  },
+  "interactionBarPlugins": [
+    {
+      "type": "comment",
+      "comment": {
+        "enable": true,
+        "placeholder": "发条带图评论"
+      }
+    }
+  ],
+  "barPluginsFlipTime": 3000,
+  "podcastAudioEnter": {
+    "text": "听内容",
+    "textColor": "MapBrand",
+    "textSize": 13,
+    "actionUrl": "zhihu://podcast/audio_player/0?contentId=2008245136484754286&contentType=article"
+  },
+  "allowSegmentInteraction": 1,
+  "isNavigator": false,
+  "navigatorVote": false,
+  "voteNextStep": "vote",
+  "image_url": "",
+  "voteup_count": 0,
+  "comment_count": 0
+}

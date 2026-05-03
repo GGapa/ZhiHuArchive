@@ -1,0 +1,68 @@
+{
+  "allow_segment_interaction": 1,
+  "answer_type": "normal",
+  "author": {
+    "avatar_url": "https://pic1.zhimg.com/v2-b3a4dcfac9d6fd77cf585196c612d5c8_l.jpg?source=2c26e567",
+    "avatar_url_template": "https://pic1.zhimg.com/v2-b3a4dcfac9d6fd77cf585196c612d5c8.jpg?source=2c26e567",
+    "badge": [],
+    "badge_v2": {
+      "detail_badges": [],
+      "icon": "",
+      "merged_badges": [],
+      "night_icon": "",
+      "title": "ヾ(≧▽≦*)o"
+    },
+    "gender": 0,
+    "headline": "ヾ(≧▽≦*)o",
+    "id": "bd3c16f69cb9175e344a40454ebd171f",
+    "is_advertiser": false,
+    "is_org": false,
+    "is_privacy": false,
+    "name": "GGapa",
+    "type": "people",
+    "url": "https://www.zhihu.com/api/v4/people/bd3c16f69cb9175e344a40454ebd171f",
+    "url_token": "ggapa",
+    "user_type": "people"
+  },
+  "biz_ext": {
+    "share_guide": {
+      "has_positive_bubble": false,
+      "has_time_bubble": false,
+      "hit_share_guide_cluster": false
+    }
+  },
+  "comment_count": 1,
+  "content": "<p data-pid=\"NdOjh-5Z\">二千五百五十万美元的大单，有需要的朋友吗？</p><figure data-size=\"normal\"><noscript><img src=\"https://pic1.zhimg.com/50/v2-ff6ddcbeaa51b2ccef5b6dd29487b32a_720w.jpg?source=2c26e567\" data-size=\"normal\" data-rawwidth=\"1919\" data-rawheight=\"899\" data-original-token=\"v2-69e522af5a600b2ab62a1edcd1e7051f\" data-default-watermark-src=\"https://picx.zhimg.com/50/v2-d08b549ef6310393ee710d39aa79ff29_720w.jpg?source=2c26e567\" class=\"origin_image zh-lightbox-thumb\" width=\"1919\" data-original=\"https://picx.zhimg.com/v2-ff6ddcbeaa51b2ccef5b6dd29487b32a_r.jpg?source=2c26e567\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;1919&#39; height=&#39;899&#39;&gt;&lt;/svg&gt;\" data-size=\"normal\" data-rawwidth=\"1919\" data-rawheight=\"899\" data-original-token=\"v2-69e522af5a600b2ab62a1edcd1e7051f\" data-default-watermark-src=\"https://picx.zhimg.com/50/v2-d08b549ef6310393ee710d39aa79ff29_720w.jpg?source=2c26e567\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"1919\" data-original=\"https://picx.zhimg.com/v2-ff6ddcbeaa51b2ccef5b6dd29487b32a_r.jpg?source=2c26e567\" data-actualsrc=\"https://pic1.zhimg.com/50/v2-ff6ddcbeaa51b2ccef5b6dd29487b32a_720w.jpg?source=2c26e567\"/><figcaption>二千五百五十万美元的大单！</figcaption></figure><p data-pid=\"-utq_yul\">参考翻译：</p><p data-pid=\"3xxhsOT0\">亲爱的朋友，</p><p data-pid=\"9Bl-11Jf\">我在浏览贵国信息交换时在线获得了您的电子邮件地址，之后我决定联系您，请求您协助处理这个需要信任和保密的紧急事务，因为您可能会在收件箱、垃圾邮件文件夹中收到此消息。</p><p data-pid=\"gsSvxN6X\">我叫罗伯特·卡尔多先生，是英国普罗维迪安国家银行 (PNB) 的高级经理，今年 62 岁，已婚，有三个孩子。我有一项非常紧急、保密且有利可图的业务，价值为 (2550 万美元)。</p><p data-pid=\"i9S4zFIS\">这笔资金超出了我担任高级经理的分行去年的利润。我已经向我们的总部提交了一份经批准的 2024 年年终报告，他们永远不会知道这笔超额款项。从那时起，我就将这笔金额（二千五百五十万美元）存入了没有受益人的暂记证券。作为银行的高级经理，我无法直接与这笔钱联系，因此我不得不请求您帮助我以资金受益人的身份接收这笔钱。</p><p data-pid=\"G4-DLtGw\">如果我们可以一起做这件事，我们将按照 50/50 的比例分享这些资金，并且此交易 100% 无风险，因为在交易期间或之后不会涉及任何风险。</p><p data-pid=\"1oDxHdRY\">我需要您成为这笔资金的原始存款人，并对我们之间的交易保密。如果您有兴趣，请回复此电子邮件地址（robert_c@att.net）以获取更多信息，我会在收到您的回复后立即详细解释。</p><p data-pid=\"zlmDDAE2\">感谢您的理解。</p><p class=\"ztext-empty-paragraph\"><br/></p><p data-pid=\"TlRWSJpp\">罗伯特·卡尔多先生</p><p data-pid=\"hTII7Rir\">个人银行业务。</p><p data-pid=\"wlptDi_7\">英国普罗维迪安国家银行 (PNB)</p>",
+  "content_need_truncated": false,
+  "created_time": 1736818023,
+  "extras": "",
+  "force_login_when_click_read_more": false,
+  "id": "78673469676",
+  "is_collapsed": false,
+  "is_copyable": true,
+  "is_jump_native": false,
+  "podcast_audio_enter": {
+    "action_url": "zhihu://podcast/audio_player/0?contentId=78673469676&contentType=answer&subType=&entrance=detail_page",
+    "sub_type": "",
+    "text": "听内容",
+    "text_color": "MapBrand",
+    "text_size": 13
+  },
+  "question": {
+    "created": 1692883255,
+    "id": "619005090",
+    "question_type": "normal",
+    "relationship": {},
+    "title": "网络诈骗你遇到过吗？",
+    "type": "question",
+    "updated_time": 1742733548,
+    "url": "https://www.zhihu.com/api/v4/questions/619005090"
+  },
+  "relationship": {
+    "upvoted_followees": []
+  },
+  "type": "answer",
+  "updated_time": 1736819050,
+  "url": "https://www.zhihu.com/api/v4/answers/78673469676",
+  "voteup_count": 2
+}

@@ -1,0 +1,68 @@
+{
+  "allow_segment_interaction": 1,
+  "answer_type": "normal",
+  "author": {
+    "avatar_url": "https://pica.zhimg.com/v2-b3a4dcfac9d6fd77cf585196c612d5c8_l.jpg?source=2c26e567",
+    "avatar_url_template": "https://pica.zhimg.com/v2-b3a4dcfac9d6fd77cf585196c612d5c8.jpg?source=2c26e567",
+    "badge": [],
+    "badge_v2": {
+      "detail_badges": [],
+      "icon": "",
+      "merged_badges": [],
+      "night_icon": "",
+      "title": "ヾ(≧▽≦*)o"
+    },
+    "gender": 0,
+    "headline": "ヾ(≧▽≦*)o",
+    "id": "bd3c16f69cb9175e344a40454ebd171f",
+    "is_advertiser": false,
+    "is_org": false,
+    "is_privacy": false,
+    "name": "GGapa",
+    "type": "people",
+    "url": "https://www.zhihu.com/api/v4/people/bd3c16f69cb9175e344a40454ebd171f",
+    "url_token": "ggapa",
+    "user_type": "people"
+  },
+  "biz_ext": {
+    "share_guide": {
+      "has_positive_bubble": false,
+      "has_time_bubble": false,
+      "hit_share_guide_cluster": false
+    }
+  },
+  "comment_count": 0,
+  "content": "<p data-pid=\"t9kBQux-\">ATRI</p><p data-pid=\"fIU9IeCT\">第一次在 Wallpaper Engine 上面看到的这个壁纸，然后就了解到了这个游戏了。</p><p data-pid=\"NoQ4h6I7\">还是全年龄的，真好。</p><figure data-size=\"normal\"><noscript><img src=\"https://picx.zhimg.com/50/v2-bde71d4f2e88b040cde29788356ffcf3_720w.jpg?source=2c26e567\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"536\" data-rawheight=\"302\" data-original-token=\"v2-9720aeca0e6d3f5cace00e8b4d263d59\" class=\"origin_image zh-lightbox-thumb\" width=\"536\" data-original=\"https://picx.zhimg.com/v2-bde71d4f2e88b040cde29788356ffcf3_r.jpg?source=2c26e567\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;536&#39; height=&#39;302&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"536\" data-rawheight=\"302\" data-original-token=\"v2-9720aeca0e6d3f5cace00e8b4d263d59\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"536\" data-original=\"https://picx.zhimg.com/v2-bde71d4f2e88b040cde29788356ffcf3_r.jpg?source=2c26e567\" data-actualsrc=\"https://picx.zhimg.com/50/v2-bde71d4f2e88b040cde29788356ffcf3_720w.jpg?source=2c26e567\"/></figure><p></p>",
+  "content_need_truncated": false,
+  "created_time": 1771265910,
+  "extras": "",
+  "force_login_when_click_read_more": false,
+  "id": "2006915366807427019",
+  "is_collapsed": false,
+  "is_copyable": true,
+  "is_jump_native": false,
+  "podcast_audio_enter": {
+    "action_url": "zhihu://podcast/audio_player/0?contentId=2006915366807427019&contentType=answer&subType=&entrance=detail_page",
+    "sub_type": "",
+    "text": "听内容",
+    "text_color": "MapBrand",
+    "text_size": 13
+  },
+  "question": {
+    "created": 1712280569,
+    "id": "651753806",
+    "question_type": "normal",
+    "relationship": {},
+    "title": "你认识的第一款galgame是什么？",
+    "type": "question",
+    "updated_time": 1712300013,
+    "url": "https://www.zhihu.com/api/v4/questions/651753806"
+  },
+  "relationship": {
+    "upvoted_followees": []
+  },
+  "type": "answer",
+  "updated_time": 1771265910,
+  "url": "https://www.zhihu.com/api/v4/answers/2006915366807427019",
+  "voteup_count": 2
+}
