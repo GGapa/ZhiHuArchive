@@ -93,6 +93,7 @@ def download_content() -> None:
     processed_links = set(answer_path.glob("*.json")) | set(article_path.glob("*.json"))
     processed_ids = set([file.stem for file in processed_links])
 
+    Path("not_found_paths.txt").touch(exist_ok=True)
     with open("not_found_paths.txt", "r", encoding="utf-8") as file:
         not_found_paths = set(file.read().splitlines())
 
