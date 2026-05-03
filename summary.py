@@ -400,16 +400,16 @@ html_content = (
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>GGapa 和 Jarrett Ye 的知乎备份</title>
+    <title>GGapa 的知乎备份</title>
     <meta property="og:type" content="website">
-    <meta property="og:title" content="GGapa 和 Jarrett Ye 的知乎备份">
+    <meta property="og:title" content="GGapa 的知乎备份">
     <meta property="og:site_name" content="ZhiHu Archive for GGapa and Jarrett Ye">
     <meta property="og:url" content="https://ggapa.github.io/ZhiHuArchive/">
-    <meta name="description" property="og:description" content="GGapa 和 Jarrett Ye 的知乎文章和回答备份目录">
+    <meta name="description" property="og:description" content="GGapa 的知乎文章和回答备份目录">
     <meta name="google-site-verification" content="U7ZAFUgGNK60mmMqaRygg5vy-k8pwbPbDFXNjDCu7Xk" />
     <meta property="twitter:card" content="summary">
-    <meta name="twitter:title" property="og:title" itemprop="name" content="GGapa 和 Jarrett Ye 的知乎备份">
-    <meta name="twitter:description" property="og:description" itemprop="description" content="GGapa 和 Jarrett Ye 的知乎文章和回答备份目录">
+    <meta name="twitter:title" property="og:title" itemprop="name" content="GGapa 的知乎备份">
+    <meta name="twitter:description" property="og:description" itemprop="description" content="GGapa 的知乎文章和回答备份目录">
     <style>
         body { max-width: 800px; margin: 0 auto; padding: 20px; }
         .item { margin: 10px 0; }
