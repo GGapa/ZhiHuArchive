@@ -6,6 +6,7 @@ on:
     paths:
       - '**.py'
       - '.github/workflows/build-and-deploy.yml'
+      - '.env.example'
 
 jobs:
   sync:
@@ -33,6 +34,10 @@ jobs:
           mkdir -p archiver/.github/workflows
           cp archive/.github/workflows/build-and-deploy.yml \
              archiver/.github/workflows/build-and-deploy.yml
+
+          cp archive/.env.example \
+             archiver/.env.example
+            
 
       - name: Commit and push
         working-directory: archiver
