@@ -1,0 +1,44 @@
+name: Sync to ZhiHuArchiver
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - '**.py'
+      - '.github/workflows/build-and-deploy.yml'
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout ZhiHuArchive
+        uses: actions/checkout@v4
+        with:
+          path: archive
+
+      - name: Checkout ZhiHuArchiver
+        uses: actions/checkout@v4
+        with:
+          repository: GGapa/ZhiHuArchiver
+          token: ${{ secrets.SYNC_TOKEN }}
+          path: archiver
+
+      - name: Sync code files to Archiver
+        run: |
+          # 同步所有 .py 文件
+          rsync -av --include='*/' --include='*.py' --exclude='*' \
+            archive/ archiver/
+          
+          # 同步 build-and-deploy.yml
+          mkdir -p archiver/.github/workflows
+          cp archive/.github/workflows/build-and-deploy.yml \
+             archiver/.github/workflows/build-and-deploy.yml
+
+      - name: Commit and push
+        working-directory: archiver
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add -A
+          git diff --staged --quiet || git commit -m "Sync from ZhiHuArchive @ ${{ github.sha }}"
+          git push
