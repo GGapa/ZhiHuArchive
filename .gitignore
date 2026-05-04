@@ -7,4 +7,9 @@
 .DS_Store
 /html
 /downloads
-uv.lock
+/__pycache__
+# /article
+# /answer
+# paths.json
+# censorship.json
+# not_found_paths.txt

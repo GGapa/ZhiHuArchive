@@ -8,14 +8,21 @@ from urllib.parse import unquote
 import dotenv
 import pandas as pd
 import requests
+import os
+import json
 
 URL_TEMPLATE = "https://www.zhihu.com/api/v4/creators/analysis/realtime/content/list?type={content_type}&format=csv"
 DEFAULT_FILENAME = "zhihu_realtime_content.xls"
 OUTPUT_DIR = Path("downloads")
-ACCOUNTS = (
-    {"name": "GGapa", "slug": "ggapa", "cookie_key": "COOKIE_A"},
-    # {"name": "Jarrett Ye", "slug": "jarrett", "cookie_key": "COOKIE_B"},
-)
+# ACCOUNTS = (
+#     {"name": "GGapa", "slug": "ggapa", "cookie_key": "COOKIE_A"},
+#     # {"name": "Jarrett Ye", "slug": "jarrett", "cookie_key": "COOKIE_B"},
+# )
+accounts_str = os.getenv("ACCOUNTS")
+if accounts_str:
+    ACCOUNTS = json.loads(accounts_str)
+else:
+    ACCOUNTS = []
 CONTENT_TYPES = ("article", "answer")
 
 
@@ -76,7 +83,13 @@ def save_csv(df: pd.DataFrame, path: Path) -> None:
 
 def download_for_account(account: dict, content_type: str, date_str: str) -> None:
     cookie = get_cookie_by_key(account["cookie_key"])
-    response = fetch_content(content_type, cookie)
+    try:
+        response = fetch_content(content_type, cookie)
+    except requests.exceptions.HTTPError as e:
+        if e.response.status_code == 401:
+            print(f"❌ {account['name']} 的 Cookie 已过期，请重新获取：")
+            return
+        raise
     server_filename = normalize_filename(
         resolve_filename(response.headers.get("Content-Disposition"))
     )
