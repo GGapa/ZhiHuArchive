@@ -11,6 +11,8 @@ on:
     branches:
       - main
       - dev
+    paths: 
+      - '**.json'
   workflow_dispatch:
 
 jobs:
