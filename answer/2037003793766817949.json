@@ -1,0 +1,68 @@
+{
+  "allow_segment_interaction": 1,
+  "answer_type": "normal",
+  "author": {
+    "avatar_url": "https://picx.zhimg.com/v2-b3a4dcfac9d6fd77cf585196c612d5c8_l.jpg?source=2c26e567",
+    "avatar_url_template": "https://picx.zhimg.com/v2-b3a4dcfac9d6fd77cf585196c612d5c8.jpg?source=2c26e567",
+    "badge": [],
+    "badge_v2": {
+      "detail_badges": [],
+      "icon": "",
+      "merged_badges": [],
+      "night_icon": "",
+      "title": "ヾ(≧▽≦*)o"
+    },
+    "gender": 0,
+    "headline": "ヾ(≧▽≦*)o",
+    "id": "bd3c16f69cb9175e344a40454ebd171f",
+    "is_advertiser": false,
+    "is_org": false,
+    "is_privacy": false,
+    "name": "GGapa",
+    "type": "people",
+    "url": "https://www.zhihu.com/api/v4/people/bd3c16f69cb9175e344a40454ebd171f",
+    "url_token": "ggapa",
+    "user_type": "people"
+  },
+  "biz_ext": {
+    "share_guide": {
+      "has_positive_bubble": false,
+      "has_time_bubble": false,
+      "hit_share_guide_cluster": false
+    }
+  },
+  "comment_count": 0,
+  "content": "<p data-pid=\"NYyCBnfX\">我只在高中的语文课堂上看过完整版的《我与地坛》，这是我唯一看过的史铁生的作品。一篇散文读起来有意思，就要求读者要能够读懂或者说理解作者的情感，要能够与作者共情，在这之后才可能从中感受到趣味。</p><p data-pid=\"e_6_N3-m\">对于《我与地坛》这篇文章，如果你觉得没意思，那么你可能满足下列两个特质：</p><ul><li data-pid=\"A48_3xqV\">顺风顺水，没有怎么经历过郁郁不得志的时期。</li><li data-pid=\"r97eQDbL\">生活幸福，拥有归属感并且能感受到爱。</li></ul><p data-pid=\"Udaubi_G\">如果你满足，那么你在读完《我与地坛》之后，可能就会如同我的同学一样：一头雾水，觉得史铁生还有点可笑，似乎有点“为赋新词强说愁”。就感觉莫名其妙的，不知道为什么史铁生会在地坛里面能够联想到这么多东西，也不能理解为什么史铁生要对他的母亲造成那么大的心里负担（指的是史铁生藏在草丛中让他母亲焦急的寻找）。</p><p data-pid=\"oUImpMmL\">我现在对他人的描述其实也是失真的，因为我很难在过去了这么久的情况下把我同学的反应丝毫不差地记录下来，所以我只能够根据模糊的印象推测，可是我个人对于史铁生的看法相较于其他人来说总归是不同的，推测也会有很大的偏差，有可能是过于丑化，也有可能没有这么离谱；出于负责的考虑，我不应该把我同学们的描述直接的继续下来，但是直觉告诉我，我应该这么做。</p><p data-pid=\"8XOKxsck\">看不懂的话也很正常了，没有必要强行让自己看动，甚至可以说，看不懂还是一件好事。说明你是一个实力强大的人，有着良好的环境，心理素质强大，不把失败当回事，笑笑也就过了。</p>",
+  "content_need_truncated": false,
+  "created_time": 1778439550,
+  "extras": "",
+  "force_login_when_click_read_more": false,
+  "id": "2037003793766817949",
+  "is_collapsed": false,
+  "is_copyable": true,
+  "is_jump_native": false,
+  "podcast_audio_enter": {
+    "action_url": "zhihu://podcast/audio_player/0?contentId=2037003793766817949&contentType=answer&subType=&entrance=detail_page",
+    "sub_type": "",
+    "text": "听内容",
+    "text_color": "MapBrand",
+    "text_size": 13
+  },
+  "question": {
+    "created": 1730254158,
+    "id": "2549357291",
+    "question_type": "normal",
+    "relationship": {},
+    "title": "为什么我看不下去《我与地坛》？",
+    "type": "question",
+    "updated_time": 1730254158,
+    "url": "https://www.zhihu.com/api/v4/questions/2549357291"
+  },
+  "relationship": {
+    "upvoted_followees": []
+  },
+  "type": "answer",
+  "updated_time": 1778439550,
+  "url": "https://www.zhihu.com/api/v4/answers/2037003793766817949",
+  "voteup_count": 3
+}

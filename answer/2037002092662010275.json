@@ -1,0 +1,68 @@
+{
+  "allow_segment_interaction": 1,
+  "answer_type": "normal",
+  "author": {
+    "avatar_url": "https://picx.zhimg.com/v2-b3a4dcfac9d6fd77cf585196c612d5c8_l.jpg?source=2c26e567",
+    "avatar_url_template": "https://pic1.zhimg.com/v2-b3a4dcfac9d6fd77cf585196c612d5c8.jpg?source=2c26e567",
+    "badge": [],
+    "badge_v2": {
+      "detail_badges": [],
+      "icon": "",
+      "merged_badges": [],
+      "night_icon": "",
+      "title": "ヾ(≧▽≦*)o"
+    },
+    "gender": 0,
+    "headline": "ヾ(≧▽≦*)o",
+    "id": "bd3c16f69cb9175e344a40454ebd171f",
+    "is_advertiser": false,
+    "is_org": false,
+    "is_privacy": false,
+    "name": "GGapa",
+    "type": "people",
+    "url": "https://www.zhihu.com/api/v4/people/bd3c16f69cb9175e344a40454ebd171f",
+    "url_token": "ggapa",
+    "user_type": "people"
+  },
+  "biz_ext": {
+    "share_guide": {
+      "has_positive_bubble": false,
+      "has_time_bubble": false,
+      "hit_share_guide_cluster": false
+    }
+  },
+  "comment_count": 0,
+  "content": "<p data-pid=\"8e5T27Gb\">我觉得啊，一个作者写散文，就不是为了读者的体验而服务的。</p><p data-pid=\"-y-44X80\">散文是用来抒发个人的理想的，作者把自己的情感注入其中，结合了自己的经历，浓缩着自己的体验，多为愤怒、悲伤、嫉妒和困苦。很多作者在创作散文的时候，能够获得一种豁达，与自己达成了和解。</p><p data-pid=\"3yuEcQsV\">所以作为一个读者，去读这些被用来抒发情感的散文，如果没有相似的经历，难以与作者共情，自然看不进去，这是很正常的。</p>",
+  "content_need_truncated": false,
+  "created_time": 1778439144,
+  "extras": "",
+  "force_login_when_click_read_more": false,
+  "id": "2037002092662010275",
+  "is_collapsed": false,
+  "is_copyable": true,
+  "is_jump_native": false,
+  "podcast_audio_enter": {
+    "action_url": "zhihu://podcast/audio_player/0?contentId=2037002092662010275&contentType=answer&subType=&entrance=detail_page",
+    "sub_type": "",
+    "text": "听内容",
+    "text_color": "MapBrand",
+    "text_size": 13
+  },
+  "question": {
+    "created": 1715682285,
+    "id": "655994690",
+    "question_type": "normal",
+    "relationship": {},
+    "title": "为什么我看不进散文？",
+    "type": "question",
+    "updated_time": 1715682285,
+    "url": "https://www.zhihu.com/api/v4/questions/655994690"
+  },
+  "relationship": {
+    "upvoted_followees": []
+  },
+  "type": "answer",
+  "updated_time": 1778439178,
+  "url": "https://www.zhihu.com/api/v4/answers/2037002092662010275",
+  "voteup_count": 2
+}
