@@ -1,0 +1,918 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>GGapa 的知乎备份</title>
+    <meta property="og:type" content="website">
+    <meta property="og:title" content="GGapa 的知乎备份">
+    <meta property="og:site_name" content="GGapa 的知乎备份">
+    <meta property="og:url" content="https://GGapa.github.io/ZhiHuArchive/">
+    <meta name="description" property="og:description" content="GGapa 的知乎文章和回答备份目录">
+    <meta property="twitter:card" content="summary">
+    <meta name="twitter:title" content="GGapa 的知乎备份">
+    <meta name="twitter:description" content="GGapa 的知乎文章和回答备份目录">
+    <style>
+        body { max-width: 800px; margin: 0 auto; padding: 20px; }
+        .item { margin: 10px 0; }
+        .votes { color: #666; font-size: 0.9em; }
+        .created_time { color: #999; font-size: 0.9em; }
+        #search { margin: 24px 0 20px; }
+        .search-label { display: block; font-size: 0.95em; color: #4b5563; margin-bottom: 6px; }
+        .search-input {
+            width: 100%; padding: 10px 12px; border: 1px solid #e5e7eb;
+            border-radius: 10px; font-size: 16px; outline: none; box-sizing: border-box;
+        }
+        .search-input:focus { border-color: #2563eb; box-shadow: 0 0 0 2px rgba(37, 99, 235, 0.15); }
+        .search-helper { margin-top: 6px; font-size: 0.85em; color: #6b7280; }
+        .search-meta { margin-top: 10px; font-size: 0.9em; color: #374151; }
+        .search-results { list-style: none; padding: 0; margin: 12px 0 0; }
+        .search-result { display: flex; gap: 12px; padding: 12px 0; border-bottom: 1px solid #f3f4f6; }
+        .search-result-thumb img { width: 64px; height: 64px; object-fit: cover; border-radius: 10px; }
+        .search-result-title { margin: 0 0 6px; font-size: 1em; }
+        .search-result-excerpt { margin: 0; color: #4b5563; font-size: 0.9em; line-height: 1.4; }
+        .search-more {
+            margin-top: 12px; padding: 8px 14px; border: 1px solid #e5e7eb;
+            border-radius: 999px; background: #fff; cursor: pointer; font-size: 0.9em;
+        }
+        .search-more:hover { border-color: #cbd5f5; background: #f8fafc; }
+        a {
+            color: #2563eb; text-decoration: none;
+            border-bottom: 1px solid rgba(37, 99, 235, 0.3);
+            border-radius: 4px; padding: 0 0.1em;
+            transition: color 0.2s ease, border-color 0.2s ease, background-color 0.2s ease;
+        }
+        a:hover, a:focus-visible {
+            color: #1d4ed8; border-bottom-color: rgba(29, 78, 216, 0.6);
+            background-color: rgba(37, 99, 235, 0.08);
+        }
+        a:focus-visible { outline: none; box-shadow: 0 0 0 2px rgba(37, 99, 235, 0.25); }
+        .censored { background-color: #fef08a; border-bottom-color: rgba(202, 138, 4, 0.6); color: #1f2937; }
+        .tabs { margin-bottom: 20px; }
+        .tab-button { padding: 10px 20px; border: none; background: #f0f0f0; cursor: pointer; font-size: 16px; }
+        .tab-button.active { background: #007bff; color: white; }
+        .tab-content { display: none; }
+        .tab-content.active { display: block; }
+    </style>
+    <script>
+        function openTab(evt, tabName) {
+            var tabContents = document.getElementsByClassName("tab-content");
+            for (var i = 0; i < tabContents.length; i++) tabContents[i].classList.remove("active");
+            var tabButtons = document.getElementsByClassName("tab-button");
+            for (var i = 0; i < tabButtons.length; i++) tabButtons[i].classList.remove("active");
+            document.getElementById(tabName).classList.add("active");
+            evt.currentTarget.classList.add("active");
+        }
+    </script>
+</head>
+<body data-pagefind-ignore="all">
+    <h1>GGapa 的知乎备份</h1>
+    <p>
+        <a href="https://github.com/GGapa/ZhiHuArchive" target="_blank" rel="noopener noreferrer">
+            <img src="https://img.shields.io/github/stars/GGapa/ZhiHuArchive?style=social" alt="GitHub stars">
+        </a>
+    </p>
+    <p>RSS: <a href="./feed.xml" target="_blank" rel="noopener noreferrer">Atom Feed</a></p>
+
+    <div id="search">
+        <label class="search-label" for="search-input">站内搜索</label>
+        <input id="search-input" class="search-input" type="search" placeholder="搜索文章和回答..." autocapitalize="none" enterkeyhint="search">
+        <div class="search-helper">提示：首次搜索会加载索引，中文搜索会加载分词库；也支持手动分词（例如：习得性 无助）。</div>
+        <div id="search-meta" class="search-meta"></div>
+        <ol id="search-results" class="search-results"></ol>
+        <button id="search-more" class="search-more" type="button" style="display: none;">加载更多结果</button>
+    </div>
+    <script type="module">
+    const input = document.getElementById("search-input");
+    const metaEl = document.getElementById("search-meta");
+    const resultsEl = document.getElementById("search-results");
+    const moreButton = document.getElementById("search-more");
+
+    const hasCJK = (text) => /[\u3040-\u30ff\u3400-\u9fff\uf900-\ufaff]/.test(text);
+
+    const getBasePath = () => {
+        const url = new URL(window.location.href);
+        let basePath = url.pathname;
+        if (!basePath.endsWith("/")) {
+            basePath = basePath.substring(0, basePath.lastIndexOf("/") + 1);
+        }
+        return basePath;
+    };
+
+    const basePath = getBasePath();
+    const indexUrl = basePath + "search-index.json";
+    const segmentitScript = basePath + "segmentit.js";
+
+    let segmenter = null;
+    let segmenterPromise = null;
+    let indexData = null;
+    let indexPromise = null;
+    let lastResults = [];
+    let lastRendered = 0;
+    let lastSearchToken = 0;
+    const pageSize = 10;
+    const maxResults = 200;
+    const minCjkLength = 2;
+
+    const shouldSegment = (term) =>
+        hasCJK(term) && !/\s/.test(term) && term.trim().length >= minCjkLength;
+
+    const initSegmenter = () => {
+        const lib = window.segmentit || window.Segmentit;
+        if (!lib) return null;
+        const Segment = lib.Segment || (lib.default && lib.default.Segment);
+        const useDefault = lib.useDefault || (lib.default && lib.default.useDefault);
+        if (!Segment || !useDefault) return null;
+        return useDefault(new Segment());
+    };
+
+    const loadSegmenter = () =>
+        new Promise((resolve) => {
+            const existing = initSegmenter();
+            if (existing) { resolve(existing); return; }
+            const script = document.createElement("script");
+            script.src = segmentitScript;
+            script.async = true;
+            script.onload = () => resolve(initSegmenter());
+            script.onerror = () => resolve(null);
+            document.head.appendChild(script);
+        });
+
+    const ensureSegmenter = (term) => {
+        if (!shouldSegment(term)) return null;
+        if (segmenter) return Promise.resolve(segmenter);
+        if (!segmenterPromise) {
+            segmenterPromise = loadSegmenter().then((loaded) => { segmenter = loaded; return loaded; });
+        }
+        return segmenterPromise;
+    };
+
+    const segmentText = (text) => {
+        if (!segmenter) return [];
+        try {
+            return segmenter.doSegment(text).map((token) => token.w || token.word || "").filter((token) => token && token.trim());
+        } catch (error) { return []; }
+    };
+
+    const ensureIndex = () => {
+        if (indexData) return Promise.resolve(indexData);
+        if (!indexPromise) {
+            indexPromise = fetch(indexUrl)
+                .then((response) => response.json())
+                .then((data) => {
+                    indexData = data.map((doc) => {
+                        const title = doc.title || "";
+                        const excerpt = doc.excerpt || "";
+                        const content = doc.content || "";
+                        return { ...doc, titleLower: title.toLowerCase(), searchText: (title + " " + excerpt + " " + content).toLowerCase() };
+                    });
+                    return indexData;
+                });
+        }
+        return indexPromise;
+    };
+
+    const escapeRegExp = (value) => value.replace(/[.*+?^${}()|[\]\\]/g, "\$&");
+    const escapeHtml = (value) =>
+        value.replace(/&/g, "&amp;").replace(/</g, "&lt;").replace(/>/g, "&gt;").replace(/"/g, "&quot;").replace(/'/g, "&#39;");
+
+    const buildQuery = (term) => {
+        const trimmed = term.trim();
+        const lower = trimmed.toLowerCase();
+        const phrases = [];
+        const phraseRegex = /"([^"]+)"/g;
+        let remaining = trimmed;
+        let match;
+        while ((match = phraseRegex.exec(trimmed)) !== null) {
+            if (match[1]) phrases.push(match[1]);
+        }
+        if (phrases.length) remaining = trimmed.replace(phraseRegex, " ").trim();
+        let tokens = remaining ? remaining.split(/\s+/).filter(Boolean) : [];
+        if (!tokens.length && shouldSegment(trimmed) && segmenter) tokens = segmentText(trimmed);
+        if (!tokens.length && trimmed) tokens = [trimmed];
+        const tokensLower = tokens.map((token) => token.toLowerCase());
+        const phrasesLower = phrases.map((phrase) => phrase.toLowerCase());
+        const highlightTerms = [...phrasesLower, ...tokensLower].filter((value) => value && value.length >= minCjkLength).slice(0, 8);
+        return { raw: trimmed, lower, tokens: tokensLower, phrases: phrasesLower, highlights: highlightTerms };
+    };
+
+    const matchesDoc = (doc, query) => {
+        const text = doc.searchText || "";
+        if (query.phrases.length && query.phrases.some((phrase) => !text.includes(phrase))) return false;
+        if (query.tokens.length && query.tokens.some((token) => !text.includes(token))) return false;
+        return true;
+    };
+
+    const scoreDoc = (doc, query) => {
+        let score = 0;
+        const title = doc.titleLower || "";
+        if (query.raw && title.includes(query.lower)) score += 100;
+        query.phrases.forEach((phrase) => { if (title.includes(phrase)) score += 60; else if (doc.searchText.includes(phrase)) score += 20; });
+        query.tokens.forEach((token) => { if (!token) return; if (title.includes(token)) score += 20; else if (doc.searchText.includes(token)) score += 4; });
+        return score;
+    };
+
+    const highlightText = (text, terms) => {
+        if (!terms.length) return escapeHtml(text);
+        let output = escapeHtml(text);
+        terms.forEach((term) => {
+            if (!term) return;
+            const regex = new RegExp(escapeRegExp(term), "gi");
+            output = output.replace(regex, "<mark>$&</mark>");
+        });
+        return output;
+    };
+
+    const clearResults = () => {
+        resultsEl.innerHTML = "";
+        metaEl.textContent = "";
+        moreButton.style.display = "none";
+        lastResults = [];
+        lastRendered = 0;
+    };
+
+    const renderBatch = () => {
+        const slice = lastResults.slice(lastRendered, lastRendered + pageSize);
+        slice.forEach((item) => {
+            const doc = item.doc;
+            const li = document.createElement("li");
+            li.className = "search-result";
+            const title = doc.title || doc.url || "未命名";
+            const thumb = doc.image ? `<div class="search-result-thumb"><img src="${doc.image}" alt="${title}"></div>` : "";
+            const snippetSource = doc.excerpt || doc.content || "";
+            const snippet = snippetSource.length > 220 ? snippetSource.slice(0, 220) + "..." : snippetSource;
+            const highlightedSnippet = highlightText(snippet, item.highlights);
+            li.innerHTML = `${thumb}<div class="search-result-body">
+                <p class="search-result-title"><a href="${doc.url}" target="_blank" rel="noopener noreferrer">${title}</a></p>
+                <p class="search-result-excerpt">${highlightedSnippet}</p>
+            </div>`;
+            resultsEl.appendChild(li);
+        });
+        lastRendered += slice.length;
+        if (lastRendered >= lastResults.length) moreButton.style.display = "none";
+        else moreButton.style.display = "inline-flex";
+    };
+
+    const searchAndRender = async (term) => {
+        const token = ++lastSearchToken;
+        const trimmed = term.trim();
+        if (!trimmed) { clearResults(); return; }
+        metaEl.textContent = "正在加载索引…";
+        const docs = await ensureIndex();
+        if (token !== lastSearchToken) return;
+        const segmentPromise = ensureSegmenter(trimmed);
+        const query = buildQuery(trimmed);
+        const matches = [];
+        for (const doc of docs) {
+            if (matchesDoc(doc, query)) matches.push({ doc, score: scoreDoc(doc, query), highlights: query.highlights });
+        }
+        matches.sort((a, b) => (b.score - a.score) || (b.doc.created - a.doc.created));
+        lastResults = matches.slice(0, maxResults);
+        lastRendered = 0;
+        resultsEl.innerHTML = "";
+        if (!lastResults.length) {
+            metaEl.textContent = `没有找到与"${trimmed}"相关的结果`;
+            moreButton.style.display = "none";
+        } else {
+            metaEl.textContent = `找到 ${lastResults.length} 个与"${trimmed}"相关的结果`;
+            renderBatch();
+        }
+        if (segmentPromise && !segmenter) {
+            segmentPromise.then((loaded) => {
+                if (!loaded || token !== lastSearchToken) return;
+                if (input.value.trim() === trimmed) searchAndRender(trimmed);
+            });
+        }
+    };
+
+    const debounce = (fn, delay = 300) => {
+        let timer;
+        return (...args) => { clearTimeout(timer); timer = setTimeout(() => fn(...args), delay); };
+    };
+
+    const init = () => {
+        input.addEventListener("input", debounce((event) => { searchAndRender(event.target.value); }));
+        moreButton.addEventListener("click", renderBatch);
+    };
+
+    init();
+</script>
+
+
+    <div class="tabs">
+        <button class="tab-button active" onclick="openTab(event, 'articles-tab')">文章 (3)</button>
+        <button class="tab-button" onclick="openTab(event, 'answers-tab')">回答 (96)</button>
+    </div>
+
+    <div id="articles-tab" class="tab-content active">
+        <h2>文章</h2>
+
+        <div class="item">
+            <a href="./2018728863614661058.html" class="" target="_blank" rel="noopener noreferrer">1 前言</a>
+            <span class="votes">(2 赞同)</span>
+            <span class="created_time">(2026-03-21)</span>
+        </div>
+
+        <div class="item">
+            <a href="./2018729282378167892.html" class="" target="_blank" rel="noopener noreferrer">2 选择学习方法的原则</a>
+            <span class="votes">(0 赞同)</span>
+            <span class="created_time">(2026-03-21)</span>
+        </div>
+
+        <div class="item">
+            <a href="./2008245136484754286.html" class="" target="_blank" rel="noopener noreferrer">解决 Windows11下任务栏被遮挡的问题</a>
+            <span class="votes">(0 赞同)</span>
+            <span class="created_time">(2026-02-20)</span>
+        </div>
+
+    </div>
+
+    <div id="answers-tab" class="tab-content">
+        <h2>回答</h2>
+
+        <div class="item">
+            <a href="./95109583080.html" class="" target="_blank" rel="noopener noreferrer">SCP基金会中有哪些惊艳的语句/语段？</a>
+            <span class="votes">(22 赞同)</span>
+            <span class="created_time">(2025-02-07)</span>
+        </div>
+
+        <div class="item">
+            <a href="./2012498030549540952.html" class="" target="_blank" rel="noopener noreferrer">为什么古典听不腻？</a>
+            <span class="votes">(21 赞同)</span>
+            <span class="created_time">(2026-03-04)</span>
+        </div>
+
+        <div class="item">
+            <a href="./2029593099203016172.html" class="" target="_blank" rel="noopener noreferrer">我急迫想知道2026年6月份参加高考的孩子目前是一种什么状态？</a>
+            <span class="votes">(16 赞同)</span>
+            <span class="created_time">(2026-04-20)</span>
+        </div>
+
+        <div class="item">
+            <a href="./1975863498950088311.html" class="" target="_blank" rel="noopener noreferrer">现在的游戏让人越玩越激动，那么有没有游戏让人越玩越平静的？</a>
+            <span class="votes">(11 赞同)</span>
+            <span class="created_time">(2025-11-23)</span>
+        </div>
+
+        <div class="item">
+            <a href="./2012166477336305980.html" class="" target="_blank" rel="noopener noreferrer">是早恋造成的成绩下降还是拆散早恋造成的？</a>
+            <span class="votes">(11 赞同)</span>
+            <span class="created_time">(2026-03-03)</span>
+        </div>
+
+        <div class="item">
+            <a href="./1998544504626640415.html" class="" target="_blank" rel="noopener noreferrer">你觉得李新野是时代楷模吗？</a>
+            <span class="votes">(10 赞同)</span>
+            <span class="created_time">(2026-01-24)</span>
+        </div>
+
+        <div class="item">
+            <a href="./2018729372572464822.html" class="" target="_blank" rel="noopener noreferrer">怎么样找到适合自己的正确学习方法?</a>
+            <span class="votes">(9 赞同)</span>
+            <span class="created_time">(2026-03-21)</span>
+        </div>
+
+        <div class="item">
+            <a href="./2031906000349959611.html" class="" target="_blank" rel="noopener noreferrer">你在知乎上得到了什么？</a>
+            <span class="votes">(9 赞同)</span>
+            <span class="created_time">(2026-04-26)</span>
+        </div>
+
+        <div class="item">
+            <a href="./1978489104468563780.html" class="" target="_blank" rel="noopener noreferrer">如何评价NOIP2025的难度？</a>
+            <span class="votes">(7 赞同)</span>
+            <span class="created_time">(2025-11-30)</span>
+        </div>
+
+        <div class="item">
+            <a href="./2033527946372179563.html" class="" target="_blank" rel="noopener noreferrer">为什么我不喜欢虚拟歌姬的声音？喜欢听虚拟歌姬的人是什么心态？</a>
+            <span class="votes">(7 赞同)</span>
+            <span class="created_time">(2026-05-01)</span>
+        </div>
+
+        <div class="item">
+            <a href="./2016676352368075053.html" class="" target="_blank" rel="noopener noreferrer">高中生陷入虚无主义怎么办？</a>
+            <span class="votes">(6 赞同)</span>
+            <span class="created_time">(2026-03-15)</span>
+        </div>
+
+        <div class="item">
+            <a href="./2007428135180842665.html" class="" target="_blank" rel="noopener noreferrer">求问玩galgame的男生怎么追？</a>
+            <span class="votes">(6 赞同)</span>
+            <span class="created_time">(2026-02-18)</span>
+        </div>
+
+        <div class="item">
+            <a href="./2008584856762880018.html" class="" target="_blank" rel="noopener noreferrer">如何看待现在的钢琴更适配女性而不利于男性?</a>
+            <span class="votes">(6 赞同)</span>
+            <span class="created_time">(2026-02-21)</span>
+        </div>
+
+        <div class="item">
+            <a href="./2010501879352816077.html" class="" target="_blank" rel="noopener noreferrer">说说你为什么没有早恋的想法？</a>
+            <span class="votes">(5 赞同)</span>
+            <span class="created_time">(2026-02-26)</span>
+        </div>
+
+        <div class="item">
+            <a href="./1957509902537844260.html" class="" target="_blank" rel="noopener noreferrer">科大讯飞学习机到底怎么样？</a>
+            <span class="votes">(5 赞同)</span>
+            <span class="created_time">(2025-10-03)</span>
+        </div>
+
+        <div class="item">
+            <a href="./2021720024721760422.html" class="" target="_blank" rel="noopener noreferrer">anki 的使用误区有哪些？</a>
+            <span class="votes">(5 赞同)</span>
+            <span class="created_time">(2026-03-29)</span>
+        </div>
+
+        <div class="item">
+            <a href="./2006131591940940599.html" class="" target="_blank" rel="noopener noreferrer">高中生，成绩中等，一方面想爬到更高的位置，同时也想培养很多兴趣爱好，无奈于时间紧张，何解？</a>
+            <span class="votes">(4 赞同)</span>
+            <span class="created_time">(2026-02-14)</span>
+        </div>
+
+        <div class="item">
+            <a href="./2036282994009318000.html" class="" target="_blank" rel="noopener noreferrer">为何中国人都喜欢“草根逆袭”的故事？</a>
+            <span class="votes">(4 赞同)</span>
+            <span class="created_time">(2026-05-08)</span>
+        </div>
+
+        <div class="item">
+            <a href="./2007155400013808473.html" class="" target="_blank" rel="noopener noreferrer">被人喜欢会感到害怕吗？</a>
+            <span class="votes">(4 赞同)</span>
+            <span class="created_time">(2026-02-17)</span>
+        </div>
+
+        <div class="item">
+            <a href="./1941857217046360984.html" class="" target="_blank" rel="noopener noreferrer">初中生一个人在家里写作业怎么让自己认真下来?</a>
+            <span class="votes">(4 赞同)</span>
+            <span class="created_time">(2025-08-21)</span>
+        </div>
+
+        <div class="item">
+            <a href="./2005671070435407060.html" class="" target="_blank" rel="noopener noreferrer">你怎么看待“木秀于林，风必摧之”这句话？</a>
+            <span class="votes">(4 赞同)</span>
+            <span class="created_time">(2026-02-13)</span>
+        </div>
+
+        <div class="item">
+            <a href="./2031199384210256013.html" class="" target="_blank" rel="noopener noreferrer">高中生,是在重点班当垫底，还是在普通班当第一？</a>
+            <span class="votes">(4 赞同)</span>
+            <span class="created_time">(2026-04-24)</span>
+        </div>
+
+        <div class="item">
+            <a href="./2009290811943191198.html" class="" target="_blank" rel="noopener noreferrer">如何评价四川某 OI 大佬 Genius_Star？</a>
+            <span class="votes">(3 赞同)</span>
+            <span class="created_time">(2026-02-23)</span>
+        </div>
+
+        <div class="item">
+            <a href="./2016217679455876173.html" class="" target="_blank" rel="noopener noreferrer">为什么有人连听都不想听中文歌曲?</a>
+            <span class="votes">(3 赞同)</span>
+            <span class="created_time">(2026-03-14)</span>
+        </div>
+
+        <div class="item">
+            <a href="./1956633975226360140.html" class="" target="_blank" rel="noopener noreferrer">竞赛结束的那一刻你在想什么？或者说有什么感想？</a>
+            <span class="votes">(3 赞同)</span>
+            <span class="created_time">(2025-10-01)</span>
+        </div>
+
+        <div class="item">
+            <a href="./2029553683118004027.html" class="" target="_blank" rel="noopener noreferrer">「成功学」有哪些潜在的陷阱或负面影响？</a>
+            <span class="votes">(3 赞同)</span>
+            <span class="created_time">(2026-04-20)</span>
+        </div>
+
+        <div class="item">
+            <a href="./2037003793766817949.html" class="" target="_blank" rel="noopener noreferrer">为什么我看不下去《我与地坛》？</a>
+            <span class="votes">(3 赞同)</span>
+            <span class="created_time">(2026-05-10)</span>
+        </div>
+
+        <div class="item">
+            <a href="./1941854814662300521.html" class="" target="_blank" rel="noopener noreferrer">你好，可以留下一首你单曲循环很久的歌吗??</a>
+            <span class="votes">(3 赞同)</span>
+            <span class="created_time">(2025-08-21)</span>
+        </div>
+
+        <div class="item">
+            <a href="./1982971791015183876.html" class="" target="_blank" rel="noopener noreferrer">什么样的行为极大的改善了你的心理健康？</a>
+            <span class="votes">(3 赞同)</span>
+            <span class="created_time">(2025-12-12)</span>
+        </div>
+
+        <div class="item">
+            <a href="./1983171476195653141.html" class="" target="_blank" rel="noopener noreferrer">还记得自己最早玩的游戏是什么吗?</a>
+            <span class="votes">(3 赞同)</span>
+            <span class="created_time">(2025-12-13)</span>
+        </div>
+
+        <div class="item">
+            <a href="./1977535317876708129.html" class="" target="_blank" rel="noopener noreferrer">存在预知梦吗？</a>
+            <span class="votes">(3 赞同)</span>
+            <span class="created_time">(2025-11-27)</span>
+        </div>
+
+        <div class="item">
+            <a href="./2034798525196783956.html" class="" target="_blank" rel="noopener noreferrer">饶毅发文《年轻人应该怎么度假》，称研究生但凡有假期就应该看文献，否则是耽误自己，如何看待这一观点？</a>
+            <span class="votes">(3 赞同)</span>
+            <span class="created_time">(2026-05-04)</span>
+        </div>
+
+        <div class="item">
+            <a href="./2006915366807427019.html" class="" target="_blank" rel="noopener noreferrer">你认识的第一款galgame是什么？</a>
+            <span class="votes">(2 赞同)</span>
+            <span class="created_time">(2026-02-16)</span>
+        </div>
+
+        <div class="item">
+            <a href="./1998749312990085823.html" class="" target="_blank" rel="noopener noreferrer">如何评价有的人会对李新野感兴趣？该怎么克制？</a>
+            <span class="votes">(2 赞同)</span>
+            <span class="created_time">(2026-01-25)</span>
+        </div>
+
+        <div class="item">
+            <a href="./78673469676.html" class="" target="_blank" rel="noopener noreferrer">网络诈骗你遇到过吗？</a>
+            <span class="votes">(2 赞同)</span>
+            <span class="created_time">(2025-01-14)</span>
+        </div>
+
+        <div class="item">
+            <a href="./1894530740391224445.html" class="" target="_blank" rel="noopener noreferrer">如何评价网络观点「论教材的『防自学』设计」?</a>
+            <span class="votes">(2 赞同)</span>
+            <span class="created_time">(2025-04-12)</span>
+        </div>
+
+        <div class="item">
+            <a href="./1894535450938554246.html" class="" target="_blank" rel="noopener noreferrer">为什么知乎上大多数人都支持高中生双休？</a>
+            <span class="votes">(2 赞同)</span>
+            <span class="created_time">(2025-04-12)</span>
+        </div>
+
+        <div class="item">
+            <a href="./2006915006202156297.html" class="" target="_blank" rel="noopener noreferrer">高中生理科低级错误要整理错题吗?</a>
+            <span class="votes">(2 赞同)</span>
+            <span class="created_time">(2026-02-16)</span>
+        </div>
+
+        <div class="item">
+            <a href="./1932063125751992482.html" class="" target="_blank" rel="noopener noreferrer">有没有什么笔记APP能把一篇笔记超链接到另一篇里？</a>
+            <span class="votes">(2 赞同)</span>
+            <span class="created_time">(2025-07-25)</span>
+        </div>
+
+        <div class="item">
+            <a href="./1941858650760156365.html" class="" target="_blank" rel="noopener noreferrer">如果平行世界的你过得特别好，你会嫉妒吗?</a>
+            <span class="votes">(2 赞同)</span>
+            <span class="created_time">(2025-08-21)</span>
+        </div>
+
+        <div class="item">
+            <a href="./2030458530138998767.html" class="" target="_blank" rel="noopener noreferrer">如何评价 迷你世界 这款游戏?</a>
+            <span class="votes">(2 赞同)</span>
+            <span class="created_time">(2026-04-22)</span>
+        </div>
+
+        <div class="item">
+            <a href="./2037002092662010275.html" class="" target="_blank" rel="noopener noreferrer">为什么我看不进散文？</a>
+            <span class="votes">(2 赞同)</span>
+            <span class="created_time">(2026-05-10)</span>
+        </div>
+
+        <div class="item">
+            <a href="./2028454859628619427.html" class="" target="_blank" rel="noopener noreferrer">自己成绩一般般被学霸喜欢上了，感觉很自卑但是又是优绩主义也不自觉被对方吸引怎么办（高中生）?</a>
+            <span class="votes">(2 赞同)</span>
+            <span class="created_time">(2026-04-17)</span>
+        </div>
+
+        <div class="item">
+            <a href="./2025000064402113647.html" class="" target="_blank" rel="noopener noreferrer">教育部发布通知，义务教育学校严禁设立或变相设立重点班、实验班、快慢班，这一政策有何影响？</a>
+            <span class="votes">(2 赞同)</span>
+            <span class="created_time">(2026-04-07)</span>
+        </div>
+
+        <div class="item">
+            <a href="./1975860028163527828.html" class="" target="_blank" rel="noopener noreferrer">圆锥曲线算错之后，应该从前往后检查还是从后往前检查?</a>
+            <span class="votes">(2 赞同)</span>
+            <span class="created_time">(2025-11-23)</span>
+        </div>
+
+        <div class="item">
+            <a href="./2007245958942069302.html" class="" target="_blank" rel="noopener noreferrer">单听钢琴乐是可以听出感情的吗?</a>
+            <span class="votes">(1 赞同)</span>
+            <span class="created_time">(2026-02-17)</span>
+        </div>
+
+        <div class="item">
+            <a href="./2005983111897449924.html" class="" target="_blank" rel="noopener noreferrer">玩游戏前先看攻略，究竟是帮我们规避了挫败感的“良药”，还是剥夺了探索乐趣的“毒药”？</a>
+            <span class="votes">(1 赞同)</span>
+            <span class="created_time">(2026-02-14)</span>
+        </div>
+
+        <div class="item">
+            <a href="./2030050032553046864.html" class="" target="_blank" rel="noopener noreferrer">有哪些常用获取ACG乐谱的网站？</a>
+            <span class="votes">(1 赞同)</span>
+            <span class="created_time">(2026-04-21)</span>
+        </div>
+
+        <div class="item">
+            <a href="./2025357100507735871.html" class="" target="_blank" rel="noopener noreferrer">为什么很多学霸宣称“从不努力”，真相是天赋还是人设？</a>
+            <span class="votes">(1 赞同)</span>
+            <span class="created_time">(2026-04-08)</span>
+        </div>
+
+        <div class="item">
+            <a href="./2012205475647739293.html" class="" target="_blank" rel="noopener noreferrer">为什么知乎人均985?</a>
+            <span class="votes">(1 赞同)</span>
+            <span class="created_time">(2026-03-03)</span>
+        </div>
+
+        <div class="item">
+            <a href="./1928048838796620765.html" class="" target="_blank" rel="noopener noreferrer">如果在高中，你的同桌成绩一直是班第一 但是你每次都是班十名往后，即使你很努力，你心里会不平衡吗？</a>
+            <span class="votes">(1 赞同)</span>
+            <span class="created_time">(2025-07-14)</span>
+        </div>
+
+        <div class="item">
+            <a href="./1934378847551362717.html" class="" target="_blank" rel="noopener noreferrer">请问在学校写自己买的练习题，如何不被同学发现？</a>
+            <span class="votes">(1 赞同)</span>
+            <span class="created_time">(2025-07-31)</span>
+        </div>
+
+        <div class="item">
+            <a href="./2020319655105938896.html" class="" target="_blank" rel="noopener noreferrer">如何评价Mili的歌曲《Fly, My Wings》？</a>
+            <span class="votes">(1 赞同)</span>
+            <span class="created_time">(2026-03-25)</span>
+        </div>
+
+        <div class="item">
+            <a href="./2012501054361710948.html" class="" target="_blank" rel="noopener noreferrer">禁止早恋有什么好处吗？</a>
+            <span class="votes">(1 赞同)</span>
+            <span class="created_time">(2026-03-04)</span>
+        </div>
+
+        <div class="item">
+            <a href="./1940835457857479143.html" class="" target="_blank" rel="noopener noreferrer">typora不显示图片咋办啊?</a>
+            <span class="votes">(1 赞同)</span>
+            <span class="created_time">(2025-08-18)</span>
+        </div>
+
+        <div class="item">
+            <a href="./1935002926042023462.html" class="" target="_blank" rel="noopener noreferrer">感觉自己是坨屎的时候你会怎么办?</a>
+            <span class="votes">(1 赞同)</span>
+            <span class="created_time">(2025-08-02)</span>
+        </div>
+
+        <div class="item">
+            <a href="./2032234793241425782.html" class="" target="_blank" rel="noopener noreferrer">你认为知乎网页端好用，还是手机端好用，为什么？</a>
+            <span class="votes">(1 赞同)</span>
+            <span class="created_time">(2026-04-27)</span>
+        </div>
+
+        <div class="item">
+            <a href="./1912473779466146651.html" class="" target="_blank" rel="noopener noreferrer">有人说，高考的失败要用一辈子来偿还，以前是这样，现在还是这样吗？</a>
+            <span class="votes">(1 赞同)</span>
+            <span class="created_time">(2025-06-01)</span>
+        </div>
+
+        <div class="item">
+            <a href="./1934380425540789651.html" class="" target="_blank" rel="noopener noreferrer">如何看待「胖就是不自律」这种观点？</a>
+            <span class="votes">(1 赞同)</span>
+            <span class="created_time">(2025-07-31)</span>
+        </div>
+
+        <div class="item">
+            <a href="./1975861860810109997.html" class="" target="_blank" rel="noopener noreferrer">都说deepseek被降智了，那现在再让它帮着整理高中学科笔记会有问题吗？</a>
+            <span class="votes">(1 赞同)</span>
+            <span class="created_time">(2025-11-23)</span>
+        </div>
+
+        <div class="item">
+            <a href="./1984042569332721434.html" class="" target="_blank" rel="noopener noreferrer">我的随笔？</a>
+            <span class="votes">(1 赞同)</span>
+            <span class="created_time">(2025-12-15)</span>
+        </div>
+
+        <div class="item">
+            <a href="./1998686480722330779.html" class="" target="_blank" rel="noopener noreferrer">如何看待目前初高中普遍的早恋现象?</a>
+            <span class="votes">(1 赞同)</span>
+            <span class="created_time">(2026-01-25)</span>
+        </div>
+
+        <div class="item">
+            <a href="./1973543180529054975.html" class="" target="_blank" rel="noopener noreferrer">看见比自己年龄小的却比自己优秀，特别难受 ，怎么办？</a>
+            <span class="votes">(1 赞同)</span>
+            <span class="created_time">(2025-11-16)</span>
+        </div>
+
+        <div class="item">
+            <a href="./1981878449623814899.html" class="" target="_blank" rel="noopener noreferrer">在羡慕别人的生活的时候，但是自己又没有这个能力改变现状，该如何是好？</a>
+            <span class="votes">(1 赞同)</span>
+            <span class="created_time">(2025-12-09)</span>
+        </div>
+
+        <div class="item">
+            <a href="./2004692357413626023.html" class="" target="_blank" rel="noopener noreferrer">你还记得你自己玩过的第一款游戏是什么吗？</a>
+            <span class="votes">(1 赞同)</span>
+            <span class="created_time">(2026-02-10)</span>
+        </div>
+
+        <div class="item">
+            <a href="./2011961623338828207.html" class="" target="_blank" rel="noopener noreferrer">为何许多人觉得古典音乐枯燥无味，难以欣赏？</a>
+            <span class="votes">(0 赞同)</span>
+            <span class="created_time">(2026-03-02)</span>
+        </div>
+
+        <div class="item">
+            <a href="./1934992666199848102.html" class="" target="_blank" rel="noopener noreferrer">通过长期记录梦境能发现什么？</a>
+            <span class="votes">(0 赞同)</span>
+            <span class="created_time">(2025-08-02)</span>
+        </div>
+
+        <div class="item">
+            <a href="./2030047676633462242.html" class="" target="_blank" rel="noopener noreferrer">a叔的鸟之诗钢琴谱谁有！！！?</a>
+            <span class="votes">(0 赞同)</span>
+            <span class="created_time">(2026-04-21)</span>
+        </div>
+
+        <div class="item">
+            <a href="./1984428413960873646.html" class="" target="_blank" rel="noopener noreferrer">对于＂无用之用＂有什么见解？</a>
+            <span class="votes">(0 赞同)</span>
+            <span class="created_time">(2025-12-16)</span>
+        </div>
+
+        <div class="item">
+            <a href="./2008260430540325379.html" class="" target="_blank" rel="noopener noreferrer">Windows 11任务栏被其它窗口遮挡，怎么解决？</a>
+            <span class="votes">(0 赞同)</span>
+            <span class="created_time">(2026-02-20)</span>
+        </div>
+
+        <div class="item">
+            <a href="./2004332897319026873.html" class="" target="_blank" rel="noopener noreferrer">那些从来不发朋友圈的人到底是在害怕什么呢？</a>
+            <span class="votes">(0 赞同)</span>
+            <span class="created_time">(2026-02-09)</span>
+        </div>
+
+        <div class="item">
+            <a href="./2037282409276814447.html" class="" target="_blank" rel="noopener noreferrer">为什么在洛谷上P11831《追忆》这么出名？</a>
+            <span class="votes">(0 赞同)</span>
+            <span class="created_time">(2026-05-11)</span>
+        </div>
+
+        <div class="item">
+            <a href="./2016148598228799727.html" class="" target="_blank" rel="noopener noreferrer">政协委员建议将网络游戏防沉迷管控从 18 岁延长至 22 岁，这一建议可行吗？能否防范大学生游戏成瘾？</a>
+            <span class="votes">(0 赞同)</span>
+            <span class="created_time">(2026-03-14)</span>
+        </div>
+
+        <div class="item">
+            <a href="./2033329709258368759.html" class="" target="_blank" rel="noopener noreferrer">音乐会上的指挥家作用很大吗？</a>
+            <span class="votes">(0 赞同)</span>
+            <span class="created_time">(2026-04-30)</span>
+        </div>
+
+        <div class="item">
+            <a href="./1927664886479062636.html" class="" target="_blank" rel="noopener noreferrer">不说名字，一句台词就能知道是什么角色？</a>
+            <span class="votes">(0 赞同)</span>
+            <span class="created_time">(2025-07-13)</span>
+        </div>
+
+        <div class="item">
+            <a href="./2030634461264660334.html" class="" target="_blank" rel="noopener noreferrer">Animenz 为什么要删除其在 Sheet.host 上的账号？</a>
+            <span class="votes">(0 赞同)</span>
+            <span class="created_time">(2026-04-23)</span>
+        </div>
+
+        <div class="item">
+            <a href="./1941856774115268100.html" class="" target="_blank" rel="noopener noreferrer">别人打游戏是赚钱，你打游戏是为了什么?</a>
+            <span class="votes">(0 赞同)</span>
+            <span class="created_time">(2025-08-21)</span>
+        </div>
+
+        <div class="item">
+            <a href="./2012159592201749715.html" class="" target="_blank" rel="noopener noreferrer">OI学习过程中如何防止颓废？</a>
+            <span class="votes">(0 赞同)</span>
+            <span class="created_time">(2026-03-03)</span>
+        </div>
+
+        <div class="item">
+            <a href="./2008944652024300210.html" class="" target="_blank" rel="noopener noreferrer">男孩子会弹钢琴的话会有吸引力吗？</a>
+            <span class="votes">(0 赞同)</span>
+            <span class="created_time">(2026-02-22)</span>
+        </div>
+
+        <div class="item">
+            <a href="./1934383908163654288.html" class="" target="_blank" rel="noopener noreferrer">我的世界打完龙后你们都会干什么？</a>
+            <span class="votes">(0 赞同)</span>
+            <span class="created_time">(2025-07-31)</span>
+        </div>
+
+        <div class="item">
+            <a href="./1954529134517658925.html" class="" target="_blank" rel="noopener noreferrer">五水硫酸铜晶体是热饱和溶液冷却析晶好还是蒸发析晶好？</a>
+            <span class="votes">(0 赞同)</span>
+            <span class="created_time">(2025-09-25)</span>
+        </div>
+
+        <div class="item">
+            <a href="./2013788866851677150.html" class="" target="_blank" rel="noopener noreferrer">你们学校怎么处理早恋?</a>
+            <span class="votes">(0 赞同)</span>
+            <span class="created_time">(2026-03-07)</span>
+        </div>
+
+        <div class="item">
+            <a href="./2012712680562111266.html" class="" target="_blank" rel="noopener noreferrer">现在高中学科竞赛已经没有性价比了吗？</a>
+            <span class="votes">(0 赞同)</span>
+            <span class="created_time">(2026-03-04)</span>
+        </div>
+
+        <div class="item">
+            <a href="./1980635335194083865.html" class="" target="_blank" rel="noopener noreferrer">你会因为自己玩某个游戏的水平很差，因此放弃这个游戏吗？</a>
+            <span class="votes">(0 赞同)</span>
+            <span class="created_time">(2025-12-06)</span>
+        </div>
+
+        <div class="item">
+            <a href="./2005360390742242497.html" class="" target="_blank" rel="noopener noreferrer">如何看待在地铁上看书的人？</a>
+            <span class="votes">(0 赞同)</span>
+            <span class="created_time">(2026-02-12)</span>
+        </div>
+
+        <div class="item">
+            <a href="./2026047192931016824.html" class="" target="_blank" rel="noopener noreferrer">为什么上课的时候特别困，但是一下课就不困了呢，在线等，急？</a>
+            <span class="votes">(0 赞同)</span>
+            <span class="created_time">(2026-04-10)</span>
+        </div>
+
+        <div class="item">
+            <a href="./1947970462572315238.html" class="" target="_blank" rel="noopener noreferrer">如果将每次做的梦及时记录下来会有什么发现？</a>
+            <span class="votes">(0 赞同)</span>
+            <span class="created_time">(2025-09-07)</span>
+        </div>
+
+        <div class="item">
+            <a href="./1949993523270095789.html" class="" target="_blank" rel="noopener noreferrer">以前参与过我的世界和迷你世界大战的人现在在干嘛？</a>
+            <span class="votes">(0 赞同)</span>
+            <span class="created_time">(2025-09-12)</span>
+        </div>
+
+        <div class="item">
+            <a href="./1927663497786916919.html" class="" target="_blank" rel="noopener noreferrer">高一下学期纯理赋分成绩508 985还有希望吗?</a>
+            <span class="votes">(0 赞同)</span>
+            <span class="created_time">(2025-07-13)</span>
+        </div>
+
+        <div class="item">
+            <a href="./1936027199506478096.html" class="" target="_blank" rel="noopener noreferrer">哪个角色不说名字，一句台词就能知道？</a>
+            <span class="votes">(0 赞同)</span>
+            <span class="created_time">(2025-08-05)</span>
+        </div>
+
+        <div class="item">
+            <a href="./1912858302032876176.html" class="" target="_blank" rel="noopener noreferrer">为什么ICPC会有高中生来参加？</a>
+            <span class="votes">(0 赞同)</span>
+            <span class="created_time">(2025-06-02)</span>
+        </div>
+
+        <div class="item">
+            <a href="./2033528623857133303.html" class="" target="_blank" rel="noopener noreferrer">对一名优秀的音乐家而言，天赋和努力哪个更重要？</a>
+            <span class="votes">(0 赞同)</span>
+            <span class="created_time">(2026-05-01)</span>
+        </div>
+
+        <div class="item">
+            <a href="./2031167620184020766.html" class="" target="_blank" rel="noopener noreferrer">26届44天求提分建议？</a>
+            <span class="votes">(0 赞同)</span>
+            <span class="created_time">(2026-04-24)</span>
+        </div>
+
+        <div class="item">
+            <a href="./1912473031567209253.html" class="" target="_blank" rel="noopener noreferrer">新课标卷背景下，《新高掌》圆锥曲线篇是否值得一看？</a>
+            <span class="votes">(0 赞同)</span>
+            <span class="created_time">(2025-06-01)</span>
+        </div>
+
+        <div class="item">
+            <a href="./1927662501648135474.html" class="" target="_blank" rel="noopener noreferrer">你觉得单看这张照片能够看出高中成绩高低和未来潜力吗？</a>
+            <span class="votes">(0 赞同)</span>
+            <span class="created_time">(2025-07-13)</span>
+        </div>
+
+        <div class="item">
+            <a href="./1937468504388383254.html" class="" target="_blank" rel="noopener noreferrer">高中化学中氯气和水的反应是可逆反应吗？</a>
+            <span class="votes">(0 赞同)</span>
+            <span class="created_time">(2025-08-09)</span>
+        </div>
+
+    </div>
+</body>
+<footer>
+    <p style="color: #999; font-size: 0.85em; text-align: center; margin-top: 2em;">
+        本站由 <a href="https://github.com/GGapa/ZhiHuArchiver" target="_blank" rel="noopener noreferrer">ZhiHuArchiver</a> 渲染，模板参考 <a href="https://github.com/frostming/fxzhihu" target="_blank" rel="noopener noreferrer">FxZhihu</a>；
+        <br>
+        相关内容归档储存于 <a href="https://github.com/GGapa/ZhiHuArchive" target="_blank" rel="noopener noreferrer">ZhiHuArchive</a> 当中。
+    </p>
+</footer>
+</html>
