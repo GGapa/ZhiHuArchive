@@ -26,8 +26,8 @@ jobs:
 
       - name: Sync code files to Archiver
         run: |
-          # 同步所有 .py 文件
-          rsync -av --include='*/' --include='*.py' --exclude='*' \
+          # 同步所有 .py 文件（排除 personal_tags.py，这是用户个人配置）
+          rsync -av --include='*/' --include='*.py' --exclude='personal_tags.py' --exclude='*' \
             archive/ archiver/
           
           # 同步 build-and-deploy.yml
