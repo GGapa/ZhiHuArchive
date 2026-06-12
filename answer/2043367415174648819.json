@@ -1,0 +1,68 @@
+{
+  "allow_segment_interaction": 1,
+  "answer_type": "normal",
+  "author": {
+    "avatar_url": "https://pica.zhimg.com/v2-b3a4dcfac9d6fd77cf585196c612d5c8_l.jpg?source=2c26e567",
+    "avatar_url_template": "https://picx.zhimg.com/v2-b3a4dcfac9d6fd77cf585196c612d5c8.jpg?source=2c26e567",
+    "badge": [],
+    "badge_v2": {
+      "detail_badges": [],
+      "icon": "",
+      "merged_badges": [],
+      "night_icon": "",
+      "title": "ヾ(≧▽≦*)o"
+    },
+    "gender": 0,
+    "headline": "ヾ(≧▽≦*)o",
+    "id": "bd3c16f69cb9175e344a40454ebd171f",
+    "is_advertiser": false,
+    "is_org": false,
+    "is_privacy": false,
+    "name": "GGapa",
+    "type": "people",
+    "url": "https://www.zhihu.com/api/v4/people/bd3c16f69cb9175e344a40454ebd171f",
+    "url_token": "ggapa",
+    "user_type": "people"
+  },
+  "biz_ext": {
+    "share_guide": {
+      "has_positive_bubble": false,
+      "has_time_bubble": false,
+      "hit_share_guide_cluster": false
+    }
+  },
+  "comment_count": 4,
+  "content": "<p data-pid=\"flmaCJtJ\">本质原因不就是女厕坑位数量少于男性，且女生们总是喜欢老老实实排队。</p><p data-pid=\"LGvD-Hw7\">什么衣装问题，月经问题都不是真正的问题，现实中大部分女性都是普通打扮，没有那么多的精致女性；而来月经的女性也始终是少数。</p><p data-pid=\"frVlvXvt\">中学校园里，女性不存在化妆的需求。也就说需要考虑的问题就是处理月经，但是这也是不可能的，因为女厕所门前排队是一个常见的现象，不可能每节课课间都有少女要去处理月经。</p><p data-pid=\"EV4coJAx\"><b>不要为了抹黑而去刻意抹黑，即使女性不化妆，不精致打扮，女厕一样要排队。</b></p><p data-pid=\"CungGq_-\">在高峰期，男厕一样也有很多人在排队。只不过你看不到，为什么看不到？因为男人们总是在厕所内部排队，大家都在厕所里面等待着，而不是在厕所外面排队，所以就夸大了女厕所排队远长于男厕所的幻觉。</p><p data-pid=\"WOYJ9pJT\">风气的不同就是由于男厕所拥有小便池造成的，如果女性也有小便专用坑位，那么自然就不可能在外面排成一条龙了。</p>",
+  "content_need_truncated": false,
+  "created_time": 1779956755,
+  "extras": "",
+  "force_login_when_click_read_more": false,
+  "id": "2043367415174648819",
+  "is_collapsed": false,
+  "is_copyable": true,
+  "is_jump_native": false,
+  "podcast_audio_enter": {
+    "action_url": "zhihu://podcast/audio_player/0?contentId=2043367415174648819&contentType=answer&subType=&entrance=detail_page",
+    "sub_type": "",
+    "text": "听内容",
+    "text_color": "MapBrand",
+    "text_size": 13
+  },
+  "question": {
+    "created": 1585056515,
+    "id": "382183567",
+    "question_type": "normal",
+    "relationship": {},
+    "title": "为什么女厕所永远都好多人排队？",
+    "type": "question",
+    "updated_time": 1585056515,
+    "url": "https://www.zhihu.com/api/v4/questions/382183567"
+  },
+  "relationship": {
+    "upvoted_followees": []
+  },
+  "type": "answer",
+  "updated_time": 1779956755,
+  "url": "https://www.zhihu.com/api/v4/answers/2043367415174648819",
+  "voteup_count": 4
+}

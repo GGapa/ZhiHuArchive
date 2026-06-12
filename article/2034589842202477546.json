@@ -1,0 +1,323 @@
+{
+  "trackUrl": [
+    "https://sugar.zhihu.com/plutus_adreaper/content_monitor_log?si=__SESSIONID__&ti=__ATOKEN__&at=view&pf=__OS__&ed=BiBUKF0xBSkqGGNXBmN0AVJ1CH2xkCtVpil58A==&idfa=__IDFA__&imei=__IMEI__&androidid=__ANDROIDID__&oaid=__OAID__&ci=__CREATIVEID__&zid=__ZONEID__"
+  ],
+  "entityWords": [
+    {
+      "name": "知乎备份站点",
+      "mention": "知乎备份站点",
+      "matchorder": 1,
+      "begin": 155,
+      "end": 161,
+      "entityid": 8126541176233373000,
+      "isBookMark": false,
+      "link": {
+        "linkType": 10,
+        "linkUrl": "https://zhida.zhihu.com/search?content_id=274215597&content_type=Article&match_order=1&q=%E7%9F%A5%E4%B9%8E%E5%A4%87%E4%BB%BD%E7%AB%99%E7%82%B9&zhida_source=entity",
+        "docType": "",
+        "topicToken": ""
+      },
+      "entityClass": "Unknown",
+      "score": 0.04626893773615848,
+      "attachedInfoBytes": "sgJlChLnn6XkuY7lpIfku73nq5nngrkSB1Vua25vd24YmwEgoQEoATV/hD09OgdhcnRpY2xlQNfU5u/LxNHjcEgKUiQ4MDkwNGExYS05ZmZhLTRjZjktOGNkNy1lNGY3MGQ4ODc0MjPyAt4BCiQ4MDkwNGExYS05ZmZhLTRjZjktOGNkNy1lNGY3MGQ4ODc0MjMaB2FydGljbGUiCTI3NDIxNTU5NzoS55+l5LmO5aSH5Lu956uZ54K5QNfU5u/LxNHjcEgAUhZhaV9lbnRpdHlfbGxtX3JlY2FsbGVyXX+EPT1iZQoS55+l5LmO5aSH5Lu956uZ54K5EgdVbmtub3duGJsBIKEBKAE1f4Q9PToHYXJ0aWNsZUDX1Obvy8TR43BIClIkODA5MDRhMWEtOWZmYS00Y2Y5LThjZDctZTRmNzBkODg3NDIz",
+      "isOnAB": false,
+      "isNatural": 1,
+      "isDelete": false,
+      "contentType": "",
+      "contentId": "",
+      "contentToken": ""
+    },
+    {
+      "name": "Fork",
+      "mention": "Fork",
+      "matchorder": 1,
+      "begin": 1084,
+      "end": 1088,
+      "entityid": 9029215550975261000,
+      "isBookMark": false,
+      "link": {
+        "linkType": 10,
+        "linkUrl": "https://zhida.zhihu.com/search?content_id=274215597&content_type=Article&match_order=1&q=Fork&zhida_source=entity",
+        "docType": "",
+        "topicToken": ""
+      },
+      "entityClass": "Unknown",
+      "score": 0.014647307217927619,
+      "attachedInfoBytes": "sgJXCgRGb3JrEgdVbmtub3duGLwIIMAIKAE1QvtvPDoHYXJ0aWNsZUDm7sDixvaNp31IClIkODA5MDRhMWEtOWZmYS00Y2Y5LThjZDctZTRmNzBkODg3NDIz8gLCAQokODA5MDRhMWEtOWZmYS00Y2Y5LThjZDctZTRmNzBkODg3NDIzGgdhcnRpY2xlIgkyNzQyMTU1OTc6BEZvcmtA5u7A4sb2jad9SAFSFmFpX2VudGl0eV9sbG1fcmVjYWxsZXJdQvtvPGJXCgRGb3JrEgdVbmtub3duGLwIIMAIKAE1QvtvPDoHYXJ0aWNsZUDm7sDixvaNp31IClIkODA5MDRhMWEtOWZmYS00Y2Y5LThjZDctZTRmNzBkODg3NDIz",
+      "isOnAB": false,
+      "isNatural": 1,
+      "isDelete": false,
+      "contentType": "",
+      "contentId": "",
+      "contentToken": ""
+    },
+    {
+      "name": "Python 环境",
+      "mention": "Python 环境",
+      "matchorder": 1,
+      "begin": 1042,
+      "end": 1051,
+      "entityid": 240709812778355100,
+      "isBookMark": false,
+      "link": {
+        "linkType": 10,
+        "linkUrl": "https://zhida.zhihu.com/search?content_id=274215597&content_type=Article&match_order=1&q=Python+%E7%8E%AF%E5%A2%83&zhida_source=entity",
+        "docType": "",
+        "topicToken": ""
+      },
+      "entityClass": "Unknown",
+      "score": 0.01255564375824747,
+      "attachedInfoBytes": "sgJgCg1QeXRob24g546v5aKDEgdVbmtub3duGJIIIJsIKAE1MLZNPDoHYXJ0aWNsZUCak+ukyonLqwNIClIkODA5MDRhMWEtOWZmYS00Y2Y5LThjZDctZTRmNzBkODg3NDIz8gLUAQokODA5MDRhMWEtOWZmYS00Y2Y5LThjZDctZTRmNzBkODg3NDIzGgdhcnRpY2xlIgkyNzQyMTU1OTc6DVB5dGhvbiDnjq/looNAmpPrpMqJy6sDSAJSFmFpX2VudGl0eV9sbG1fcmVjYWxsZXJdMLZNPGJgCg1QeXRob24g546v5aKDEgdVbmtub3duGJIIIJsIKAE1MLZNPDoHYXJ0aWNsZUCak+ukyonLqwNIClIkODA5MDRhMWEtOWZmYS00Y2Y5LThjZDctZTRmNzBkODg3NDIz",
+      "isOnAB": false,
+      "isNatural": 1,
+      "isDelete": false,
+      "contentType": "",
+      "contentId": "",
+      "contentToken": ""
+    },
+    {
+      "name": "Github Action",
+      "mention": "Github Action",
+      "matchorder": 1,
+      "begin": 1673,
+      "end": 1686,
+      "entityid": 6599640251325462000,
+      "isBookMark": false,
+      "link": {
+        "linkType": 10,
+        "linkUrl": "https://zhida.zhihu.com/search?content_id=274215597&content_type=Article&match_order=1&q=Github+Action&zhida_source=entity",
+        "docType": "",
+        "topicToken": ""
+      },
+      "entityClass": "Unknown",
+      "score": 0.012185425590189425,
+      "attachedInfoBytes": "sgJgCg1HaXRodWIgQWN0aW9uEgdVbmtub3duGIkNIJYNKAE1YaVHPDoHYXJ0aWNsZUCz6P7M+bqoy1tIClIkODA5MDRhMWEtOWZmYS00Y2Y5LThjZDctZTRmNzBkODg3NDIz8gLUAQokODA5MDRhMWEtOWZmYS00Y2Y5LThjZDctZTRmNzBkODg3NDIzGgdhcnRpY2xlIgkyNzQyMTU1OTc6DUdpdGh1YiBBY3Rpb25As+j+zPm6qMtbSANSFmFpX2VudGl0eV9sbG1fcmVjYWxsZXJdYaVHPGJgCg1HaXRodWIgQWN0aW9uEgdVbmtub3duGIkNIJYNKAE1YaVHPDoHYXJ0aWNsZUCz6P7M+bqoy1tIClIkODA5MDRhMWEtOWZmYS00Y2Y5LThjZDctZTRmNzBkODg3NDIz",
+      "isOnAB": false,
+      "isNatural": 1,
+      "isDelete": false,
+      "contentType": "",
+      "contentId": "",
+      "contentToken": ""
+    },
+    {
+      "name": "Cookie",
+      "mention": "Cookie",
+      "matchorder": 1,
+      "begin": 1316,
+      "end": 1322,
+      "entityid": 2208794379928197000,
+      "isBookMark": false,
+      "link": {
+        "linkType": 10,
+        "linkUrl": "https://zhida.zhihu.com/search?content_id=274215597&content_type=Article&match_order=1&q=Cookie&zhida_source=entity",
+        "docType": "",
+        "topicToken": ""
+      },
+      "entityClass": "Unknown",
+      "score": 0.007755346887648784,
+      "attachedInfoBytes": "sgJZCgZDb29raWUSB1Vua25vd24YpAogqgooATWRIP47OgdhcnRpY2xlQPKw/+uS2c3THkgKUiQ4MDkwNGExYS05ZmZhLTRjZjktOGNkNy1lNGY3MGQ4ODc0MjPyAsYBCiQ4MDkwNGExYS05ZmZhLTRjZjktOGNkNy1lNGY3MGQ4ODc0MjMaB2FydGljbGUiCTI3NDIxNTU5NzoGQ29va2llQPKw/+uS2c3THkgEUhZhaV9lbnRpdHlfbGxtX3JlY2FsbGVyXZEg/jtiWQoGQ29va2llEgdVbmtub3duGKQKIKoKKAE1kSD+OzoHYXJ0aWNsZUDysP/rktnN0x5IClIkODA5MDRhMWEtOWZmYS00Y2Y5LThjZDctZTRmNzBkODg3NDIz",
+      "isOnAB": false,
+      "isNatural": 1,
+      "isDelete": false,
+      "contentType": "",
+      "contentId": "",
+      "contentToken": ""
+    }
+  ],
+  "id": "2034589842202477546",
+  "title": "零成本创建属于自己的知乎备份网站/下载自己的所有回答和文章",
+  "type": "article",
+  "articleType": "normal",
+  "excerptTitle": "",
+  "url": "https://zhuanlan.zhihu.com/p/2034589842202477546",
+  "imageUrl": "https://picx.zhimg.com/v2-58ad9a3fa6ea66651144ff0de0491b53_720w.jpg?source=172ae18b",
+  "titleImage": "https://pic1.zhimg.com/v2-58ad9a3fa6ea66651144ff0de0491b53_720w.jpg?source=172ae18b",
+  "excerpt": "<img src=\"https://pic4.zhimg.com/v2-54b3ea0e0ed00dd5f91bf9535b560e79_200x112.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"898\" data-rawheight=\"1099\" data-watermark=\"watermark\" data-original-src=\"v2-54b3ea0e0ed00dd5f91bf9535b560e79\" data-watermark-src=\"v2-23d09fe4a861f4c13ce6bb2223d261dc\" data-private-watermark-src=\"\" class=\"origin_image inline-img zh-lightbox-thumb\" data-original=\"https://pic4.zhimg.com/v2-54b3ea0e0ed00dd5f91bf9535b560e79_r.jpg\"/>前不久看到了 <a href=\"https://www.zhihu.com/people/4c592f496dc33822b560b382907ff1d0\" class=\"internal\" target=\"_blank\">@Thoughts Memo</a> 的知乎备份站点，顿时觉得非常高级，还能把自己在知乎上的创作内容便捷地分享给没有知乎账号的朋友们，于是自己也想搞一个。但是原作者大大在写备份工具的时候，似乎没有考虑给其他人使用。于是我进行了一点小小的修改，这样你…",
+  "created": 1779958414,
+  "updated": 1779958415,
+  "author": {
+    "isFollowed": false,
+    "avatarUrlTemplate": "https://picx.zhimg.com/v2-b3a4dcfac9d6fd77cf585196c612d5c8.jpg?source=172ae18b",
+    "uid": "1572195336499671040",
+    "userType": "people",
+    "isFollowing": false,
+    "urlToken": "ggapa",
+    "id": "bd3c16f69cb9175e344a40454ebd171f",
+    "description": "ggapa.net",
+    "name": "GGapa",
+    "isAdvertiser": false,
+    "headline": "ヾ(≧▽≦*)o",
+    "gender": 0,
+    "url": "https://www.zhihu.com/people/bd3c16f69cb9175e344a40454ebd171f",
+    "avatarUrl": "https://picx.zhimg.com/v2-b3a4dcfac9d6fd77cf585196c612d5c8_l.jpg?source=172ae18b",
+    "isOrg": false,
+    "type": "people",
+    "badge": [],
+    "badgeV2": {
+      "title": "ヾ(≧▽≦*)o",
+      "mergedBadges": [],
+      "detailBadges": [],
+      "icon": "",
+      "nightIcon": ""
+    },
+    "exposedMedal": {
+      "medalId": "1104437667143585792",
+      "medalName": "众裁官",
+      "avatarUrl": "https://picx.zhimg.com/v2-19e523c65c7aa4074fb5430daaad295d_r.png?source=172ae18b",
+      "miniAvatarUrl": "https://pic1.zhimg.com/v2-19e523c65c7aa4074fb5430daaad295d_l.png?source=172ae18b",
+      "description": "完成 20 个众裁",
+      "medalAvatarFrame": ""
+    },
+    "avatar_url": "https://picx.zhimg.com/v2-b3a4dcfac9d6fd77cf585196c612d5c8_l.jpg?source=172ae18b"
+  },
+  "commentPermission": "all",
+  "copyrightPermission": "need_review",
+  "state": "published",
+  "ipInfo": "印度",
+  "imageWidth": 701,
+  "imageHeight": 496,
+  "content": "<p data-pid=\"k_5D9Uro\">前不久看到了 <a href=\"https://www.zhihu.com/people/4c592f496dc33822b560b382907ff1d0\" class=\"internal\" target=\"_blank\">@Thoughts Memo</a> 的知乎备份站点，顿时觉得非常高级，还能把自己在知乎上的创作内容便捷地分享给没有知乎账号的朋友们，于是自己也想搞一个。</p><p data-pid=\"4nZEFAs9\">但是原作者大大在写备份工具的时候，似乎没有考虑给其他人使用。于是我进行了一点小小的修改，这样你也可以十分方便的创建属于自己的只会备份网站了！</p><p data-pid=\"z6QgdUmB\">项目地址：<a href=\"https://link.zhihu.com/?target=https%3A//github.com/GGapa/ZhiHuArchiver\" class=\" external\" target=\"_blank\" rel=\"nofollow noreferrer\"><span class=\"invisible\">https://</span><span class=\"visible\">github.com/GGapa/ZhiHuA</span><span class=\"invisible\">rchiver</span><span class=\"ellipsis\"></span></a>。</p><p data-pid=\"S4Fueeuq\">成果展示：<a href=\"https://link.zhihu.com/?target=https%3A//ggapa.github.io/ZhiHuArchive/\" class=\" external\" target=\"_blank\" rel=\"nofollow noreferrer\"><span class=\"invisible\">https://</span><span class=\"visible\">ggapa.github.io/ZhiHuAr</span><span class=\"invisible\">chive/</span><span class=\"ellipsis\"></span></a>。</p><h2><b>教程</b></h2><p data-pid=\"5BZ2EVcO\">首先你需要在你的电脑上拥有 Python 环境和 Git。</p><p data-pid=\"NqIJhivQ\">Fork <a href=\"https://link.zhihu.com/?target=https%3A//github.com/GGapa/ZhiHuArchiver/\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">此仓库</a>至你的账户下，将仓库名更改为你喜欢的名字，当然保持不变也是没有问题的。</p><p data-pid=\"zunrBdA9\">接着，获取你的知乎 Cookie，并根据<code>./.env.example</code> 配置你自己的 <code>.env</code> 文件，然后根据提示修改并配置 <code>./.github/workflows/build-and-deploy.yml</code>。获取 Cookie 见下文。</p><p data-pid=\"TeU4CxkH\">配置好后，在终端中运行 <code>update.py</code>。</p><div class=\"highlight\"><pre><code class=\"language-bash\">python update.py</code></pre></div><p data-pid=\"nUgob9R-\">等待下载。在下载结束后，push 至 Github 上，启用 Github Action 即可，稍等片刻，你便可以在 <code>[你的用户名].github.io/[你的仓库名]</code> 中看到你的知乎备份了。</p><p data-pid=\"CjcLCGvq\">后续更新再次运行 <a href=\"https://link.zhihu.com/?target=http%3A//update.py\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">update.py</a> 即可。</p><h3><b>获取知乎 Cookie</b></h3><p data-pid=\"Wq2SpyGJ\">登录知乎，在浏览器中按 F12 进入开发者模式，切换至 Network 选项，刷新页面，搜索 <code>API</code>，然后寻找一个包含 Request Headers 的请求即可获取 Cookie，如下图所示： </p><figure data-size=\"normal\"><img src=\"https://pica.zhimg.com/v2-23d09fe4a861f4c13ce6bb2223d261dc_1440w.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"898\" data-rawheight=\"1099\" data-original-token=\"v2-54b3ea0e0ed00dd5f91bf9535b560e79\" class=\"origin_image zh-lightbox-thumb\" width=\"898\" data-original=\"https://pica.zhimg.com/v2-23d09fe4a861f4c13ce6bb2223d261dc_r.jpg\"/></figure>",
+  "contentNeedTruncated": false,
+  "forceLoginWhenClickReadMore": false,
+  "adminClosedComment": false,
+  "topics": [],
+  "voteupCount": 0,
+  "voting": 0,
+  "heavyUpStatus": "allow_heavy_up",
+  "commentCount": 4,
+  "contributions": [],
+  "isTitleImageFullScreen": false,
+  "upvotedFollowees": [],
+  "commercialInfo": {
+    "isCommercial": false,
+    "plugin": {}
+  },
+  "suggestEdit": {
+    "status": false,
+    "reason": "",
+    "tip": "",
+    "url": "",
+    "title": ""
+  },
+  "reason": "",
+  "annotationAction": [],
+  "canTip": false,
+  "canOpenTipjar": true,
+  "tipjarorsCount": 0,
+  "isLabeled": false,
+  "hasPublishingDraft": false,
+  "isFavorited": false,
+  "favlistsCount": 6,
+  "isNormal": true,
+  "status": 0,
+  "activityToppingInfo": {
+    "state": "untopped"
+  },
+  "shareText": "零成本创建属于自己的知乎备份网站/下载自己的所有回答和文章 - 来自知乎专栏，作者: GGapa https://zhuanlan.zhihu.com/p/2034589842202477546 （想看更多？下载 @知乎 App：http://weibo.com/p/100404711598 ）",
+  "canComment": {
+    "status": true,
+    "reason": ""
+  },
+  "mcnFpShow": -1,
+  "isVisible": true,
+  "isLiked": false,
+  "likedCount": 0,
+  "hasColumn": false,
+  "republishers": [],
+  "isNewLinkCard": true,
+  "emojiReaction": {
+    "likeCount": 0,
+    "likeHasSet": false
+  },
+  "abParam": {
+    "qaHiddenVoteup": "",
+    "rsInterest1": "",
+    "zpZhiStyle": ""
+  },
+  "attachedInfo": "kgIuCgkyNzQyMTU1OTcSEzIwMzQ1ODk4NDIyMDI0Nzc1NDYYByIKSU1BR0VfVEVYVA==",
+  "shareGuide": {
+    "hasPositiveBubble": false,
+    "hasTimeBubble": false,
+    "hitShareGuideCluster": false
+  },
+  "settings": {
+    "tableOfContents": {
+      "enabled": false
+    }
+  },
+  "canReference": false,
+  "reactionInstruction": {},
+  "reaction": {
+    "statistics": {
+      "upVoteCount": 0,
+      "downVoteCount": 0,
+      "likeCount": 0,
+      "commentCount": 4,
+      "shareCount": 0,
+      "playCount": 0,
+      "interestPlayCount": 0,
+      "favorites": 6,
+      "pvCount": 0,
+      "bulletCount": 0,
+      "applaudCount": 0,
+      "questionFollowerCount": 0,
+      "questionAnswerCount": 0,
+      "plaincontentVoteUpCount": 0,
+      "plaincontentLikeCount": 0,
+      "imgLikeCount": {
+        "v254b3ea0e0ed00dd5f91bf9535b560e79": 0,
+        "v258ad9a3fa6ea66651144ff0de0491b53": 0
+      },
+      "subscribeCount": 0,
+      "republishers": []
+    },
+    "relation": {
+      "isAuthor": true,
+      "vote": "Neutral",
+      "liked": false,
+      "imgLiked": {
+        "v254b3ea0e0ed00dd5f91bf9535b560e79": false,
+        "v258ad9a3fa6ea66651144ff0de0491b53": false
+      },
+      "faved": false,
+      "following": false,
+      "subcribed": false,
+      "isNavigatorVote": false,
+      "currentUserIsNavigator": false,
+      "voteNextStep": ""
+    },
+    "imageReactions": {
+      "v254b3ea0e0ed00dd5f91bf9535b560e79": {
+        "likeCount": 0,
+        "isLiked": false
+      },
+      "v258ad9a3fa6ea66651144ff0de0491b53": {
+        "likeCount": 0,
+        "isLiked": false
+      }
+    }
+  },
+  "interactionBarPlugins": [
+    {
+      "type": "comment",
+      "comment": {
+        "enable": true,
+        "placeholder": "发条带图评论"
+      }
+    }
+  ],
+  "barPluginsFlipTime": 3000,
+  "podcastAudioEnter": {
+    "text": "听内容",
+    "textColor": "MapBrand",
+    "textSize": 13,
+    "actionUrl": "zhihu://podcast/audio_player/0?contentId=2034589842202477546&contentType=article"
+  },
+  "allowSegmentInteraction": 1,
+  "isNavigator": false,
+  "navigatorVote": false,
+  "voteNextStep": "vote",
+  "image_url": "https://picx.zhimg.com/v2-58ad9a3fa6ea66651144ff0de0491b53_720w.jpg?source=172ae18b",
+  "voteup_count": 0,
+  "comment_count": 4
+}

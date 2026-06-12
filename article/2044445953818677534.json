@@ -1,0 +1,210 @@
+{
+  "trackUrl": [
+    "https://sugar.zhihu.com/plutus_adreaper/content_monitor_log?si=__SESSIONID__&ti=__ATOKEN__&at=view&pf=__OS__&ed=BiBUKF0xBSkqGGNXBmN0AVJ1CH2xkCtVpil58A==&idfa=__IDFA__&imei=__IMEI__&androidid=__ANDROIDID__&oaid=__OAID__&ci=__CREATIVEID__&zid=__ZONEID__"
+  ],
+  "entityWords": [
+    {
+      "name": "Node.js",
+      "mention": "Node.js",
+      "matchorder": 1,
+      "begin": 779,
+      "end": 786,
+      "entityid": -994259246411015200,
+      "isBookMark": false,
+      "link": {
+        "linkType": 10,
+        "linkUrl": "https://zhida.zhihu.com/search?content_id=275940383&content_type=Article&match_order=1&q=Node.js&zhida_source=entity",
+        "docType": "",
+        "topicToken": ""
+      },
+      "entityClass": "Unknown",
+      "score": 0.0162378684419906,
+      "attachedInfoBytes": "sgJbCgdOb2RlLmpzEgdVbmtub3duGIsGIJIGKAE1RwWFPDoHYXJ0aWNsZUDrt5iYu8/rmfIBSApSJGE4NDk1ZTQyLTM3N2UtNDI5OC04ZWJhLTE1NTcwYzkxMGJhOPICygEKJGE4NDk1ZTQyLTM3N2UtNDI5OC04ZWJhLTE1NTcwYzkxMGJhOBoHYXJ0aWNsZSIJMjc1OTQwMzgzOgdOb2RlLmpzQOu3mJi7z+uZ8gFIAFIWYWlfZW50aXR5X2xsbV9yZWNhbGxlcl1HBYU8YlsKB05vZGUuanMSB1Vua25vd24YiwYgkgYoATVHBYU8OgdhcnRpY2xlQOu3mJi7z+uZ8gFIClIkYTg0OTVlNDItMzc3ZS00Mjk4LThlYmEtMTU1NzBjOTEwYmE4",
+      "isOnAB": false,
+      "isNatural": 1,
+      "isDelete": false,
+      "contentType": "",
+      "contentId": "",
+      "contentToken": ""
+    }
+  ],
+  "id": "2044445953818677534",
+  "title": "使用 yt-dlp 下载视频",
+  "type": "article",
+  "articleType": "normal",
+  "excerptTitle": "",
+  "url": "https://zhuanlan.zhihu.com/p/2044445953818677534",
+  "imageUrl": "",
+  "titleImage": "",
+  "excerpt": ".\\yt-dlp --js-runtimes node --cookies cookies.txt --write-thumbnail --embed-thumbnail &#34;video_url&#34;参数 作用说明 .\\yt-dlp 执行当前目录下的 yt-dlp 程序。 --js-runtimes node 指定 JavaScript 运行环境为 Node.js。某些网站（如 YouTube）使用加密的…",
+  "created": 1780213977,
+  "updated": 1780213977,
+  "author": {
+    "isFollowed": false,
+    "avatarUrlTemplate": "https://picx.zhimg.com/v2-b3a4dcfac9d6fd77cf585196c612d5c8.jpg?source=172ae18b",
+    "uid": "1572195336499671040",
+    "userType": "people",
+    "isFollowing": false,
+    "urlToken": "ggapa",
+    "id": "bd3c16f69cb9175e344a40454ebd171f",
+    "description": "ggapa.net",
+    "name": "GGapa",
+    "isAdvertiser": false,
+    "headline": "ヾ(≧▽≦*)o",
+    "gender": 0,
+    "url": "https://www.zhihu.com/people/bd3c16f69cb9175e344a40454ebd171f",
+    "avatarUrl": "https://picx.zhimg.com/v2-b3a4dcfac9d6fd77cf585196c612d5c8_l.jpg?source=172ae18b",
+    "isOrg": false,
+    "type": "people",
+    "badge": [],
+    "badgeV2": {
+      "title": "ヾ(≧▽≦*)o",
+      "mergedBadges": [],
+      "detailBadges": [],
+      "icon": "",
+      "nightIcon": ""
+    },
+    "exposedMedal": {
+      "medalId": "1104437667143585792",
+      "medalName": "众裁官",
+      "avatarUrl": "https://pic1.zhimg.com/v2-19e523c65c7aa4074fb5430daaad295d_r.png?source=172ae18b",
+      "miniAvatarUrl": "https://pic1.zhimg.com/v2-19e523c65c7aa4074fb5430daaad295d_l.png?source=172ae18b",
+      "description": "完成 20 个众裁",
+      "medalAvatarFrame": ""
+    },
+    "avatar_url": "https://picx.zhimg.com/v2-b3a4dcfac9d6fd77cf585196c612d5c8_l.jpg?source=172ae18b"
+  },
+  "commentPermission": "all",
+  "copyrightPermission": "need_review",
+  "state": "published",
+  "ipInfo": "四川",
+  "imageWidth": 0,
+  "imageHeight": 0,
+  "content": "<div class=\"highlight\"><pre><code class=\"language-powershell\"><span class=\"p\">.\\</span><span class=\"n\">yt-dlp</span> <span class=\"p\">-</span><span class=\"n\">-js-runtimes</span> <span class=\"n\">node</span> <span class=\"p\">-</span><span class=\"n\">-cookies</span> <span class=\"n\">cookies</span><span class=\"p\">.</span><span class=\"n\">txt</span> <span class=\"p\">-</span><span class=\"n\">-write-thumbnail</span> <span class=\"p\">-</span><span class=\"n\">-embed-thumbnail</span> <span class=\"s2\">&#34;video_url&#34;</span></code></pre></div><table data-draft-node=\"block\" data-draft-type=\"table\" data-size=\"normal\" data-row-style=\"normal\"><tbody><tr><th>参数</th><th>作用说明</th></tr><tr><td>.\\yt-dlp</td><td>执行当前目录下的 yt-dlp 程序。</td></tr><tr><td>--js-runtimes node</td><td>指定 JavaScript 运行环境为 Node.js。某些网站（如 YouTube）使用加密的 JS 脚本来限制下载，yt-dlp 需要调用外部 JS 环境来解析这些算法。</td></tr><tr><td>--cookies cookies.txt</td><td>读取同目录下的 cookies.txt 文件。这通常用于下载需要登录才能查看的视频（如会员内容、高画质限制内容或私人视频）。</td></tr><tr><td>--write-thumbnail</td><td>下载视频的同时，额外保存一份封面图片文件到本地。</td></tr><tr><td>--embed-thumbnail</td><td>将下载的封面图直接写入视频文件的元数据中。这样你打开视频时，文件图标就会显示为视频封面。</td></tr><tr><td>&#34;video_url&#34;</td><td>占位符，执行时需要替换成真实的视频网址。</td></tr></tbody></table>",
+  "contentNeedTruncated": false,
+  "forceLoginWhenClickReadMore": false,
+  "adminClosedComment": false,
+  "topics": [],
+  "voteupCount": 0,
+  "voting": 0,
+  "heavyUpStatus": "allow_heavy_up",
+  "commentCount": 0,
+  "contributions": [],
+  "isTitleImageFullScreen": false,
+  "upvotedFollowees": [],
+  "commercialInfo": {
+    "isCommercial": false,
+    "plugin": {}
+  },
+  "suggestEdit": {
+    "status": false,
+    "reason": "",
+    "tip": "",
+    "url": "",
+    "title": ""
+  },
+  "reason": "",
+  "annotationAction": [],
+  "canTip": false,
+  "canOpenTipjar": true,
+  "tipjarorsCount": 0,
+  "isLabeled": false,
+  "hasPublishingDraft": false,
+  "isFavorited": false,
+  "favlistsCount": 1,
+  "isNormal": true,
+  "status": 0,
+  "activityToppingInfo": {
+    "state": "untopped"
+  },
+  "shareText": "使用 yt-dlp 下载视频 - 来自知乎专栏，作者: GGapa https://zhuanlan.zhihu.com/p/2044445953818677534 （想看更多？下载 @知乎 App：http://weibo.com/p/100404711598 ）",
+  "canComment": {
+    "status": true,
+    "reason": ""
+  },
+  "mcnFpShow": -1,
+  "isVisible": true,
+  "isLiked": false,
+  "likedCount": 0,
+  "hasColumn": false,
+  "republishers": [],
+  "isNewLinkCard": true,
+  "emojiReaction": {
+    "likeCount": 0,
+    "likeHasSet": false
+  },
+  "abParam": {
+    "qaHiddenVoteup": "",
+    "rsInterest1": "",
+    "zpZhiStyle": ""
+  },
+  "attachedInfo": "kgIuCgkyNzU5NDAzODMSEzIwNDQ0NDU5NTM4MTg2Nzc1MzQYByIKSU1BR0VfVEVYVA==",
+  "shareGuide": {
+    "hasPositiveBubble": false,
+    "hasTimeBubble": false,
+    "hitShareGuideCluster": false
+  },
+  "settings": {
+    "tableOfContents": {
+      "enabled": false
+    }
+  },
+  "canReference": false,
+  "reactionInstruction": {},
+  "reaction": {
+    "statistics": {
+      "upVoteCount": 0,
+      "downVoteCount": 0,
+      "likeCount": 0,
+      "commentCount": 0,
+      "shareCount": 0,
+      "playCount": 0,
+      "interestPlayCount": 0,
+      "favorites": 1,
+      "pvCount": 0,
+      "bulletCount": 0,
+      "applaudCount": 0,
+      "questionFollowerCount": 0,
+      "questionAnswerCount": 0,
+      "plaincontentVoteUpCount": 0,
+      "plaincontentLikeCount": 0,
+      "subscribeCount": 0,
+      "republishers": []
+    },
+    "relation": {
+      "isAuthor": true,
+      "vote": "Neutral",
+      "liked": false,
+      "faved": false,
+      "following": false,
+      "subcribed": false,
+      "isNavigatorVote": false,
+      "currentUserIsNavigator": false,
+      "voteNextStep": ""
+    },
+    "imageReactions": {}
+  },
+  "interactionBarPlugins": [
+    {
+      "type": "comment",
+      "comment": {
+        "enable": true,
+        "placeholder": "发条带图评论"
+      }
+    }
+  ],
+  "barPluginsFlipTime": 3000,
+  "podcastAudioEnter": {
+    "text": "听内容",
+    "textColor": "MapBrand",
+    "textSize": 13,
+    "actionUrl": "zhihu://podcast/audio_player/0?contentId=2044445953818677534&contentType=article"
+  },
+  "allowSegmentInteraction": 1,
+  "isNavigator": false,
+  "navigatorVote": false,
+  "voteNextStep": "vote",
+  "image_url": "",
+  "voteup_count": 0,
+  "comment_count": 0
+}

@@ -1,0 +1,68 @@
+{
+  "allow_segment_interaction": 1,
+  "answer_type": "normal",
+  "author": {
+    "avatar_url": "https://picx.zhimg.com/v2-b3a4dcfac9d6fd77cf585196c612d5c8_l.jpg?source=2c26e567",
+    "avatar_url_template": "https://pic1.zhimg.com/v2-b3a4dcfac9d6fd77cf585196c612d5c8.jpg?source=2c26e567",
+    "badge": [],
+    "badge_v2": {
+      "detail_badges": [],
+      "icon": "",
+      "merged_badges": [],
+      "night_icon": "",
+      "title": "ヾ(≧▽≦*)o"
+    },
+    "gender": 0,
+    "headline": "ヾ(≧▽≦*)o",
+    "id": "bd3c16f69cb9175e344a40454ebd171f",
+    "is_advertiser": false,
+    "is_org": false,
+    "is_privacy": false,
+    "name": "GGapa",
+    "type": "people",
+    "url": "https://www.zhihu.com/api/v4/people/bd3c16f69cb9175e344a40454ebd171f",
+    "url_token": "ggapa",
+    "user_type": "people"
+  },
+  "biz_ext": {
+    "share_guide": {
+      "has_positive_bubble": false,
+      "has_time_bubble": false,
+      "hit_share_guide_cluster": false
+    }
+  },
+  "comment_count": 2,
+  "content": "<h2><b>一、阳极：谁先失电子（发生氧化反应）</b></h2><h3><b>情况A：阳极是活性电极（除Au、Pt以外的金属）</b></h3><p data-pid=\"K6hCNxeh\">比如Cu、Fe、Ag做阳极。</p><p data-pid=\"FSqs9Kvb\">规则极其简单：活性电极本身直接溶解，不管溶液中有什么阴离子。</p><p data-pid=\"B5sB4tbR\">比如用铜做电极电解稀硫酸，阳极不是 OH⁻ 放电出 O₂，而是铜本身溶解。</p><h3><b>情况B：阳极是惰性电极（石墨、Pt、Au等）</b></h3><p data-pid=\"QOJqmLNj\"><b>S²⁻ &gt; I⁻ &gt; Br⁻ &gt; Cl⁻ &gt; OH⁻ &gt; 含氧酸根(SO₄²⁻/NO₃⁻/CO₃²⁻等)</b></p><p data-pid=\"B78VzSa_\">首先，S²⁻最积极，第一个放电出S单质。</p><p data-pid=\"3AN-BXFS\">接着是，卤素离子按F⁻到I⁻的规律，还原性递增，所以I⁻ &gt; Br⁻ &gt; Cl⁻。F⁻在水溶液中完全不放电。</p><p data-pid=\"pP4P4eHa\">注意 Cl⁻ 是要先于氢氧根离子的。</p><p data-pid=\"GpVpPVlY\">最后才是含氧酸根，他们最懒，在水溶液中不用考虑。</p><h2><b>二、阴极：谁先得电子（发生还原反应）</b></h2><p data-pid=\"a8N3K16c\">阴极不区分材料（因为阴极是被保护的一方），永远是溶液中的阳离子排队抢着得电子。</p><p data-pid=\"trVYF5vA\"><b>Ag⁺ &gt; Fe³⁺ &gt; Cu²⁺ &gt; H⁺(酸) &gt; Pb²⁺ &gt; Fe²⁺ &gt; Zn²⁺ &gt; H⁺(水) &gt; Al³⁺ &gt; Mg²⁺ &gt; Na⁺ &gt; Ca²⁺ &gt; K⁺</b></p><p data-pid=\"JeWejxM5\">实际上就是金属活动顺序表倒着来，只需要注意一下二价铁和三价铁的位置。由于单质铁在普通酸性环境下产生二价铁离子，所以说在这里对应的是 Pb²⁺ &gt; Fe²⁺ &gt; Zn²⁺。</p><p data-pid=\"nI49747G\">可以分组记忆：</p><p data-pid=\"urqZwL39\">地头蛇：Ag⁺、Fe³⁺、Cu²⁺ 这三个抢电子最猛，只要有它们在，肯定是它们先放电。</p><p data-pid=\"116DjPhM\">绝对不放电组：Al³⁺、Mg²⁺、Na⁺、Ca²⁺、K⁺ 在水溶液中永远不会在阴极得电子。永远是它们身后的H⁺(水)在放电。</p><p data-pid=\"kglgH_UW\"><b>总的来说只需要背下来金属活动性顺序表，然后记下来 Ag⁺ &gt; Fe³⁺ &gt; Cu²⁺，再记下来 Zn²⁺ &gt; H⁺(水) &gt; Al³⁺ 即可。</b></p><p></p><p></p>",
+  "content_need_truncated": false,
+  "created_time": 1780926196,
+  "extras": "",
+  "force_login_when_click_read_more": false,
+  "id": "2047433545069622338",
+  "is_collapsed": false,
+  "is_copyable": true,
+  "is_jump_native": false,
+  "podcast_audio_enter": {
+    "action_url": "zhihu://podcast/audio_player/0?contentId=2047433545069622338&contentType=answer&subType=&entrance=detail_page",
+    "sub_type": "",
+    "text": "听内容",
+    "text_color": "MapBrand",
+    "text_size": 13
+  },
+  "question": {
+    "created": 1581992575,
+    "id": "372701109",
+    "question_type": "normal",
+    "relationship": {},
+    "title": "化学放电顺序怎么记？记不住，有什么口诀吗？",
+    "type": "question",
+    "updated_time": 1582090141,
+    "url": "https://www.zhihu.com/api/v4/questions/372701109"
+  },
+  "relationship": {
+    "upvoted_followees": []
+  },
+  "type": "answer",
+  "updated_time": 1780926216,
+  "url": "https://www.zhihu.com/api/v4/answers/2047433545069622338",
+  "voteup_count": 4
+}

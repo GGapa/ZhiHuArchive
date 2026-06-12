@@ -1,0 +1,68 @@
+{
+  "allow_segment_interaction": 1,
+  "answer_type": "normal",
+  "author": {
+    "avatar_url": "https://pic1.zhimg.com/v2-b3a4dcfac9d6fd77cf585196c612d5c8_l.jpg?source=2c26e567",
+    "avatar_url_template": "https://picx.zhimg.com/v2-b3a4dcfac9d6fd77cf585196c612d5c8.jpg?source=2c26e567",
+    "badge": [],
+    "badge_v2": {
+      "detail_badges": [],
+      "icon": "",
+      "merged_badges": [],
+      "night_icon": "",
+      "title": "ヾ(≧▽≦*)o"
+    },
+    "gender": 0,
+    "headline": "ヾ(≧▽≦*)o",
+    "id": "bd3c16f69cb9175e344a40454ebd171f",
+    "is_advertiser": false,
+    "is_org": false,
+    "is_privacy": false,
+    "name": "GGapa",
+    "type": "people",
+    "url": "https://www.zhihu.com/api/v4/people/bd3c16f69cb9175e344a40454ebd171f",
+    "url_token": "ggapa",
+    "user_type": "people"
+  },
+  "biz_ext": {
+    "share_guide": {
+      "has_positive_bubble": false,
+      "has_time_bubble": false,
+      "hit_share_guide_cluster": false
+    }
+  },
+  "comment_count": 8,
+  "content": "<p data-pid=\"9DA7zrhY\">今年四月份刚注册的 bgm，前几天偶然发现不使用魔法就上不去了，我还以为是我自己的问题嘞。</p><p data-pid=\"amY3iP7I\">bgm 上面也没有 18+ 内容哦，被封存粹就是因为有着全站动态这个东西吧，用户想发啥就发啥，而且所有人都还看得见。</p><p data-pid=\"tdRdQgFG\">歪个题，之前洛谷不就是全站犇犇都看得到，后面只能看被关注的人了；之前个人主页也是全部可见，完全可以自定义的，后面 kkk 被约谈了之后就看不了啦。</p><p data-pid=\"sZuoqc_P\">bgm 似乎本身服务器就在国外，也没有备案什么的，没有什么好办法去约束他，所以就只能墙掉啰。</p><p data-pid=\"LmxaQuj6\">反正 bgm 又不是商业平台，不转这份钱的，被制裁了就这样吧，也没必要阉割什么东西去迎合某些人，想上的人总有办法上去。</p><p data-pid=\"xQlmAb2t\">也不知道 bgm 创始人在哪个国家，如果不是匿名的话，感觉有概率会被针对啊，希望一切安好qwq。</p><p></p>",
+  "content_need_truncated": false,
+  "created_time": 1780237592,
+  "extras": "",
+  "force_login_when_click_read_more": false,
+  "id": "2044545328049821161",
+  "is_collapsed": false,
+  "is_copyable": true,
+  "is_jump_native": false,
+  "podcast_audio_enter": {
+    "action_url": "zhihu://podcast/audio_player/0?contentId=2044545328049821161&contentType=answer&subType=&entrance=detail_page",
+    "sub_type": "",
+    "text": "听内容",
+    "text_color": "MapBrand",
+    "text_size": 13
+  },
+  "question": {
+    "created": 1779943683,
+    "id": "2043312587534759829",
+    "question_type": "normal",
+    "relationship": {},
+    "title": "bangumi番组计划网站被封锁的原因是什么？下一步会如何发展？",
+    "type": "question",
+    "updated_time": 1779943683,
+    "url": "https://www.zhihu.com/api/v4/questions/2043312587534759829"
+  },
+  "relationship": {
+    "upvoted_followees": []
+  },
+  "type": "answer",
+  "updated_time": 1780237592,
+  "url": "https://www.zhihu.com/api/v4/answers/2044545328049821161",
+  "voteup_count": 9
+}

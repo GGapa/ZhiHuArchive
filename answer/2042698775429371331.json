@@ -1,0 +1,68 @@
+{
+  "allow_segment_interaction": 1,
+  "answer_type": "normal",
+  "author": {
+    "avatar_url": "https://picx.zhimg.com/v2-b3a4dcfac9d6fd77cf585196c612d5c8_l.jpg?source=2c26e567",
+    "avatar_url_template": "https://picx.zhimg.com/v2-b3a4dcfac9d6fd77cf585196c612d5c8.jpg?source=2c26e567",
+    "badge": [],
+    "badge_v2": {
+      "detail_badges": [],
+      "icon": "",
+      "merged_badges": [],
+      "night_icon": "",
+      "title": "ヾ(≧▽≦*)o"
+    },
+    "gender": 0,
+    "headline": "ヾ(≧▽≦*)o",
+    "id": "bd3c16f69cb9175e344a40454ebd171f",
+    "is_advertiser": false,
+    "is_org": false,
+    "is_privacy": false,
+    "name": "GGapa",
+    "type": "people",
+    "url": "https://www.zhihu.com/api/v4/people/bd3c16f69cb9175e344a40454ebd171f",
+    "url_token": "ggapa",
+    "user_type": "people"
+  },
+  "biz_ext": {
+    "share_guide": {
+      "has_positive_bubble": false,
+      "has_time_bubble": false,
+      "hit_share_guide_cluster": false
+    }
+  },
+  "comment_count": 0,
+  "content": "<p data-pid=\"StjHRNKD\">虚拟歌手是乐器，要比较也应该拿 AI 制曲来比较。</p><p data-pid=\"CPZDw4q0\">实际上人们厌恶的是拿劣质的 AI 图来偷懒骗人，用成本低的 AI 来赚取高价值的回报。</p><p data-pid=\"J0iPQNaK\">之前我记得，有个游戏就是那 AI 生成的图来糊弄玩家，手指都是畸形的，然后被拿来用作活动的宣传图，骗取玩家的情感。所以大家非常厌恶。</p><p data-pid=\"yVqQToqX\">虚拟歌手背后是 P 主幸苦的付出，所以人们不讨厌。</p><p data-pid=\"M672W84R\"> 技术都是为了解放人类而服务的，这样省时省力的绘画工具谁不爱？有的画师天天嚷嚷着要被取代了，都不愿意想一想自己该如何使用 AI 来让自己的绘画过程变得更加便捷。</p><p data-pid=\"TEjbv5s1\">现在 AI 是让写小说的作家更加方便了，也让更多人实现了创造属于自己小说的梦想，我也没看见有什么人在讨厌 AI 创作的小说啊。</p><p data-pid=\"XuTd1l0Z\">有些人对 AI 没有正确的认知，对于新技术有着盲目的恐怖。</p>",
+  "content_need_truncated": false,
+  "created_time": 1779797339,
+  "extras": "",
+  "force_login_when_click_read_more": false,
+  "id": "2042698775429371331",
+  "is_collapsed": false,
+  "is_copyable": true,
+  "is_jump_native": false,
+  "podcast_audio_enter": {
+    "action_url": "zhihu://podcast/audio_player/0?contentId=2042698775429371331&contentType=answer&subType=&entrance=detail_page",
+    "sub_type": "",
+    "text": "听内容",
+    "text_color": "MapBrand",
+    "text_size": 13
+  },
+  "question": {
+    "created": 1742044076,
+    "id": "15050607631",
+    "question_type": "normal",
+    "relationship": {},
+    "title": "为什么人们厌恶ai制图，却喜欢虚拟歌手?",
+    "type": "question",
+    "updated_time": 1742101416,
+    "url": "https://www.zhihu.com/api/v4/questions/15050607631"
+  },
+  "relationship": {
+    "upvoted_followees": []
+  },
+  "type": "answer",
+  "updated_time": 1779873731,
+  "url": "https://www.zhihu.com/api/v4/answers/2042698775429371331",
+  "voteup_count": 2
+}
