@@ -1,0 +1,68 @@
+{
+  "allow_segment_interaction": 1,
+  "answer_type": "normal",
+  "author": {
+    "avatar_url": "https://pica.zhimg.com/v2-b3a4dcfac9d6fd77cf585196c612d5c8_l.jpg?source=2c26e567",
+    "avatar_url_template": "https://pica.zhimg.com/v2-b3a4dcfac9d6fd77cf585196c612d5c8.jpg?source=2c26e567",
+    "badge": [],
+    "badge_v2": {
+      "detail_badges": [],
+      "icon": "",
+      "merged_badges": [],
+      "night_icon": "",
+      "title": "ヾ(≧▽≦*)o"
+    },
+    "gender": 0,
+    "headline": "ヾ(≧▽≦*)o",
+    "id": "bd3c16f69cb9175e344a40454ebd171f",
+    "is_advertiser": false,
+    "is_org": false,
+    "is_privacy": false,
+    "name": "GGapa",
+    "type": "people",
+    "url": "https://www.zhihu.com/api/v4/people/bd3c16f69cb9175e344a40454ebd171f",
+    "url_token": "ggapa",
+    "user_type": "people"
+  },
+  "biz_ext": {
+    "share_guide": {
+      "has_positive_bubble": false,
+      "has_time_bubble": false,
+      "hit_share_guide_cluster": false
+    }
+  },
+  "comment_count": 0,
+  "content": "<p data-pid=\"TvsqdrvP\">可能是因为你没有同伴吧。</p><p data-pid=\"pVQvJbIz\">有同伴的话 MC 就不会显得那么悲伤（至少我是这么认为的），不管那个同伴你是否认识，哪怕是服务器里的陌生人也行，MC 就能够瞬间的从一个可能会带来悲伤的游戏，变为一个供你实现万千奇妙想法的地方。</p><p data-pid=\"K2B174A2\">虽然一个人也能够享受游玩 Minecraft 的时光，但是过于孤独了，没有人会来欣赏你的成果。它就静静的呆在那里，躺在你电脑里的一块硬盘里。整个偌大的世界啊，就只有你一个人，你死了没有人会为你伤心，没有人会嘲笑你；你达成了某个成就，你也不会收到来自于他人的鲜花和掌声，所以悲伤就袭来了。</p><p data-pid=\"Mcsx32Yl\">我承认确实有类似的事情类似于单人 MC，都是需要忍受孤独的，比如说弹钢琴或者说钓鱼。这两个事情都是发生在现实中的，而你在 Minecraft 里的操作却总是隔着一层屏幕，你永远触摸不到，你在游戏里完成了无与伦比的作品，但是当你关掉游戏，这伟大的作品便与你没有关系了，你依然要回到这个现实当中，不像弹钢琴和钓鱼本身就是在现实中进行的，所以失落感便来了。</p><p data-pid=\"5Qn6coLX\">但是当你和你的朋友玩 MC 时，你们的友谊正在加强，你享受的是和朋友相处的时光，而友谊是现实的，它不会随着你关掉游戏就消散，自然而然不会造成被伤感。</p><p data-pid=\"iKHHxGOB\">所以我要说被伤感是来源于孤独。</p>",
+  "content_need_truncated": false,
+  "created_time": 1783178589,
+  "extras": "",
+  "force_login_when_click_read_more": false,
+  "id": "2056880764948583120",
+  "is_collapsed": false,
+  "is_copyable": true,
+  "is_jump_native": false,
+  "podcast_audio_enter": {
+    "action_url": "zhihu://podcast/audio_player/0?contentId=2056880764948583120&contentType=answer&subType=&entrance=detail_page",
+    "sub_type": "",
+    "text": "听内容",
+    "text_color": "MapBrand",
+    "text_size": 13
+  },
+  "question": {
+    "created": 1608602487,
+    "id": "435941371",
+    "question_type": "normal",
+    "relationship": {},
+    "title": "为什么我会觉得《Minecraft》有一种悲伤感？",
+    "type": "question",
+    "updated_time": 1612336171,
+    "url": "https://www.zhihu.com/api/v4/questions/435941371"
+  },
+  "relationship": {
+    "upvoted_followees": []
+  },
+  "type": "answer",
+  "updated_time": 1783178589,
+  "url": "https://www.zhihu.com/api/v4/answers/2056880764948583120",
+  "voteup_count": 2
+}

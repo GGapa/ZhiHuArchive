@@ -1,0 +1,68 @@
+{
+  "allow_segment_interaction": 1,
+  "answer_type": "normal",
+  "author": {
+    "avatar_url": "https://pic1.zhimg.com/v2-b3a4dcfac9d6fd77cf585196c612d5c8_l.jpg?source=2c26e567",
+    "avatar_url_template": "https://picx.zhimg.com/v2-b3a4dcfac9d6fd77cf585196c612d5c8.jpg?source=2c26e567",
+    "badge": [],
+    "badge_v2": {
+      "detail_badges": [],
+      "icon": "",
+      "merged_badges": [],
+      "night_icon": "",
+      "title": "ヾ(≧▽≦*)o"
+    },
+    "gender": 0,
+    "headline": "ヾ(≧▽≦*)o",
+    "id": "bd3c16f69cb9175e344a40454ebd171f",
+    "is_advertiser": false,
+    "is_org": false,
+    "is_privacy": false,
+    "name": "GGapa",
+    "type": "people",
+    "url": "https://www.zhihu.com/api/v4/people/bd3c16f69cb9175e344a40454ebd171f",
+    "url_token": "ggapa",
+    "user_type": "people"
+  },
+  "biz_ext": {
+    "share_guide": {
+      "has_positive_bubble": false,
+      "has_time_bubble": false,
+      "hit_share_guide_cluster": false
+    }
+  },
+  "comment_count": 0,
+  "content": "<p data-pid=\"q_vVvQA5\">主要是想记录我在当下的想法，然后在未来等我功成名就的时候，别人就回来分析我很久以前写的回答，然后来衡量判断我究竟是怎么做到这一点的。</p><p data-pid=\"f4qomsjd\">光是想到这样，我就觉得兴奋，然后我就有非常足的动力在知乎上留下我个人的踪迹。</p><p data-pid=\"Z5-L2gAn\">这样随着时间的推移，我所积累的回答和文章就越来越多，我所积累的经验也就越来越多，我的谈吐和表达也会变得更加得体。到时候知乎社区上到处都会有我自己的踪迹，说不定我还能够拥有我自己的粉丝群体。</p><p data-pid=\"F89PbHHG\">写作本身就是才气的体现，不写白不写，更何况时间拉长了之后，还能够看出来不同时间段自己的不同之处，相当于是一个自己的个人发展档案馆，所以才会这么喜欢在知乎上回答问题。</p>",
+  "content_need_truncated": false,
+  "created_time": 1783821117,
+  "extras": "",
+  "force_login_when_click_read_more": false,
+  "id": "2059575722746946995",
+  "is_collapsed": false,
+  "is_copyable": true,
+  "is_jump_native": false,
+  "podcast_audio_enter": {
+    "action_url": "zhihu://podcast/audio_player/0?contentId=2059575722746946995&contentType=answer&subType=&entrance=detail_page",
+    "sub_type": "",
+    "text": "听内容",
+    "text_color": "MapBrand",
+    "text_size": 13
+  },
+  "question": {
+    "created": 1737482932,
+    "id": "10225247472",
+    "question_type": "normal",
+    "relationship": {},
+    "title": "为什么那么多人愿意花时间在知乎写回答？",
+    "type": "question",
+    "updated_time": 1737482932,
+    "url": "https://www.zhihu.com/api/v4/questions/10225247472"
+  },
+  "relationship": {
+    "upvoted_followees": []
+  },
+  "type": "answer",
+  "updated_time": 1783821117,
+  "url": "https://www.zhihu.com/api/v4/answers/2059575722746946995",
+  "voteup_count": 1
+}

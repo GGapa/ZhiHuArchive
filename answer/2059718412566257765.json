@@ -1,0 +1,68 @@
+{
+  "allow_segment_interaction": 1,
+  "answer_type": "normal",
+  "author": {
+    "avatar_url": "https://picx.zhimg.com/v2-b3a4dcfac9d6fd77cf585196c612d5c8_l.jpg?source=2c26e567",
+    "avatar_url_template": "https://picx.zhimg.com/v2-b3a4dcfac9d6fd77cf585196c612d5c8.jpg?source=2c26e567",
+    "badge": [],
+    "badge_v2": {
+      "detail_badges": [],
+      "icon": "",
+      "merged_badges": [],
+      "night_icon": "",
+      "title": "ヾ(≧▽≦*)o"
+    },
+    "gender": 0,
+    "headline": "ヾ(≧▽≦*)o",
+    "id": "bd3c16f69cb9175e344a40454ebd171f",
+    "is_advertiser": false,
+    "is_org": false,
+    "is_privacy": false,
+    "name": "GGapa",
+    "type": "people",
+    "url": "https://www.zhihu.com/api/v4/people/bd3c16f69cb9175e344a40454ebd171f",
+    "url_token": "ggapa",
+    "user_type": "people"
+  },
+  "biz_ext": {
+    "share_guide": {
+      "has_positive_bubble": false,
+      "has_time_bubble": false,
+      "hit_share_guide_cluster": false
+    }
+  },
+  "comment_count": 0,
+  "content": "<p data-pid=\"-w2G-jio\">当笔者还在读高中的时候，就已经很少有人因为防沉迷而困不能玩游戏了。所以受影响的人只能是那些父母不支持打游戏的人。</p><p data-pid=\"uSFavpN0\">那对于这种人，上了大学也有自己的电脑和手机了，找点国外的游戏玩也不是什么难事，所以想玩游戏的人总能玩到的游戏。</p><p data-pid=\"J7zPh_xo\">评价为对现实影响不大的改变，所以没必要变。</p><p data-pid=\"AhjEJJBC\">那如果变了的话，成年的限制是不是该改为 22 岁了？？</p>",
+  "content_need_truncated": false,
+  "created_time": 1783855137,
+  "extras": "",
+  "force_login_when_click_read_more": false,
+  "id": "2059718412566257765",
+  "is_collapsed": false,
+  "is_copyable": true,
+  "is_jump_native": false,
+  "podcast_audio_enter": {
+    "action_url": "zhihu://podcast/audio_player/86913013716?contentId=2059718412566257765&contentType=answer&subType=&entrance=detail_page",
+    "sub_type": "",
+    "text": "听内容",
+    "text_color": "MapBrand",
+    "text_size": 13
+  },
+  "question": {
+    "created": 1783853216,
+    "id": "2059710354775609589",
+    "question_type": "normal",
+    "relationship": {},
+    "title": "贴吧讨论防沉迷或将延至22岁，你怎么看？",
+    "type": "question",
+    "updated_time": 1784017822,
+    "url": "https://www.zhihu.com/api/v4/questions/2059710354775609589"
+  },
+  "relationship": {
+    "upvoted_followees": []
+  },
+  "type": "answer",
+  "updated_time": 1783855137,
+  "url": "https://www.zhihu.com/api/v4/answers/2059718412566257765",
+  "voteup_count": 21
+}

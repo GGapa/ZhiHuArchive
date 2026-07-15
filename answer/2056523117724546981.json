@@ -1,0 +1,68 @@
+{
+  "allow_segment_interaction": 1,
+  "answer_type": "normal",
+  "author": {
+    "avatar_url": "https://picx.zhimg.com/v2-b3a4dcfac9d6fd77cf585196c612d5c8_l.jpg?source=2c26e567",
+    "avatar_url_template": "https://pic1.zhimg.com/v2-b3a4dcfac9d6fd77cf585196c612d5c8.jpg?source=2c26e567",
+    "badge": [],
+    "badge_v2": {
+      "detail_badges": [],
+      "icon": "",
+      "merged_badges": [],
+      "night_icon": "",
+      "title": "ヾ(≧▽≦*)o"
+    },
+    "gender": 0,
+    "headline": "ヾ(≧▽≦*)o",
+    "id": "bd3c16f69cb9175e344a40454ebd171f",
+    "is_advertiser": false,
+    "is_org": false,
+    "is_privacy": false,
+    "name": "GGapa",
+    "type": "people",
+    "url": "https://www.zhihu.com/api/v4/people/bd3c16f69cb9175e344a40454ebd171f",
+    "url_token": "ggapa",
+    "user_type": "people"
+  },
+  "biz_ext": {
+    "share_guide": {
+      "has_positive_bubble": false,
+      "has_time_bubble": false,
+      "hit_share_guide_cluster": false
+    }
+  },
+  "comment_count": 1,
+  "content": "<p data-pid=\"XlEv4bNF\">不只是网文，现在有很多知乎回答也是长成这样子的。判断一个知乎文章是否值得阅读的重要标准就是其分段是否正常。</p><p data-pid=\"d-dysMFf\">一篇文章可以多分段，但段落之间都应当或多或少的都有一些联系，且段内的语义是有关联的。如果一句话需要表示强调，或者其足够的精炼确实可以承担一个段落的作用，那么我们便可以使用读句成段。</p><p data-pid=\"1V-24r5I\">虽然我不喜欢这样的分段模式，但是我们也不能就说明这个一句一段就是应当被禁止的。这一现象现在能够如此的流行，是因为有着足够多的受众群体。对于一个长段落，比如说鲁迅的随笔，不是所有的人（包括我），都能够耐下性子去阅读这么长一大串有着内在逻辑但是层次不明显的段落，所以较为短并且精练的段落就出现了。</p><p data-pid=\"j-lXP4rL\">而现在互联网发达了，纸笔玩具不再是文人墨客的专属，每个人都有上网的自由和权力，所以总有的人需要一句一段的文章来消遣娱乐，这也便是当今网文流行这种形式的原因吧。</p><p data-pid=\"HoslKaP7\">但并不是所有的网文都是一句一段吧，譬如 SCP 基金会的相关创作。因为该题材本身就要求作者以一个较为严谨的方式去撰写文章，为了贯彻这个道理，作者必须使用更加严谨的话语和逻辑来写文。又想看网文又厌恶一句一段的朋友们可以试一下。</p><p data-pid=\"nS7XcCox\">又讨厌短段落的人就自然会有喜欢长段落的人，把喜欢看这种小说的人扩大到整个群体，那么还是没有必要了。</p>",
+  "content_need_truncated": false,
+  "created_time": 1783093319,
+  "extras": "",
+  "force_login_when_click_read_more": false,
+  "id": "2056523117724546981",
+  "is_collapsed": false,
+  "is_copyable": true,
+  "is_jump_native": false,
+  "podcast_audio_enter": {
+    "action_url": "zhihu://podcast/audio_player/0?contentId=2056523117724546981&contentType=answer&subType=&entrance=detail_page",
+    "sub_type": "",
+    "text": "听内容",
+    "text_color": "MapBrand",
+    "text_size": 13
+  },
+  "question": {
+    "created": 1782966613,
+    "id": "2055991672425689944",
+    "question_type": "normal",
+    "relationship": {},
+    "title": "如今的网文为什么会发展为“一句一段”的阅读格式？",
+    "type": "question",
+    "updated_time": 1782966613,
+    "url": "https://www.zhihu.com/api/v4/questions/2055991672425689944"
+  },
+  "relationship": {
+    "upvoted_followees": []
+  },
+  "type": "answer",
+  "updated_time": 1783093319,
+  "url": "https://www.zhihu.com/api/v4/answers/2056523117724546981",
+  "voteup_count": 2
+}

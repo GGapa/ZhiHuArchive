@@ -1,0 +1,68 @@
+{
+  "allow_segment_interaction": 1,
+  "answer_type": "normal",
+  "author": {
+    "avatar_url": "https://picx.zhimg.com/v2-b3a4dcfac9d6fd77cf585196c612d5c8_l.jpg?source=2c26e567",
+    "avatar_url_template": "https://picx.zhimg.com/v2-b3a4dcfac9d6fd77cf585196c612d5c8.jpg?source=2c26e567",
+    "badge": [],
+    "badge_v2": {
+      "detail_badges": [],
+      "icon": "",
+      "merged_badges": [],
+      "night_icon": "",
+      "title": "ヾ(≧▽≦*)o"
+    },
+    "gender": 0,
+    "headline": "ヾ(≧▽≦*)o",
+    "id": "bd3c16f69cb9175e344a40454ebd171f",
+    "is_advertiser": false,
+    "is_org": false,
+    "is_privacy": false,
+    "name": "GGapa",
+    "type": "people",
+    "url": "https://www.zhihu.com/api/v4/people/bd3c16f69cb9175e344a40454ebd171f",
+    "url_token": "ggapa",
+    "user_type": "people"
+  },
+  "biz_ext": {
+    "share_guide": {
+      "has_positive_bubble": false,
+      "has_time_bubble": false,
+      "hit_share_guide_cluster": false
+    }
+  },
+  "comment_count": 0,
+  "content": "<p data-pid=\"gQqMchTE\">发现假努力了，那么就不要努力了。</p><p data-pid=\"qIAGyNQL\">反正假努力也并没有真正的努力，不会对你的成绩有任何帮助，唯一起作用的就是给你一个安慰的作用。</p><p data-pid=\"Re2sGs_U\">想要自己不假努力，有两种方法，自己选。</p><p data-pid=\"UQ71IkOS\">要么就端正自己的心态，认真的研究学习方法，搞明白什么是真正的努力，以及努力的作用目的是什么。</p><p data-pid=\"u2NzpqVA\">要么就放平自己的心态，直接不努力，并且也不会因为自己不努力而感到内疚和自责。你要知道这个世界是多样的，想要活下去并不是只有学习唯一一种方法。虽然你的同学们都在努力，你的老师肯定也会强调努力的重要性，但是我觉得这是有一种毒害作用的。他们从来不会告诉你为什么要努力，却只以压迫和焦虑来迫使着你前进，这对身心发展不利。你需要放松心态。</p><p data-pid=\"tmDDKF-K\">我推荐能问出这个问题的人选择<b>第二种</b>方法。</p><p></p>",
+  "content_need_truncated": false,
+  "created_time": 1782089546,
+  "extras": "",
+  "force_login_when_click_read_more": false,
+  "id": "2052312987952846122",
+  "is_collapsed": false,
+  "is_copyable": true,
+  "is_jump_native": false,
+  "podcast_audio_enter": {
+    "action_url": "zhihu://podcast/audio_player/0?contentId=2052312987952846122&contentType=answer&subType=&entrance=detail_page",
+    "sub_type": "",
+    "text": "听内容",
+    "text_color": "MapBrand",
+    "text_size": 13
+  },
+  "question": {
+    "created": 1782028442,
+    "id": "2052056698148349095",
+    "question_type": "normal",
+    "relationship": {},
+    "title": "发现假努力怎么办？",
+    "type": "question",
+    "updated_time": 1782028442,
+    "url": "https://www.zhihu.com/api/v4/questions/2052056698148349095"
+  },
+  "relationship": {
+    "upvoted_followees": []
+  },
+  "type": "answer",
+  "updated_time": 1782089546,
+  "url": "https://www.zhihu.com/api/v4/answers/2052312987952846122",
+  "voteup_count": 1
+}

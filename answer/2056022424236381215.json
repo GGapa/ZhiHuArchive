@@ -1,0 +1,68 @@
+{
+  "allow_segment_interaction": 1,
+  "answer_type": "normal",
+  "author": {
+    "avatar_url": "https://pic1.zhimg.com/v2-b3a4dcfac9d6fd77cf585196c612d5c8_l.jpg?source=2c26e567",
+    "avatar_url_template": "https://pic1.zhimg.com/v2-b3a4dcfac9d6fd77cf585196c612d5c8.jpg?source=2c26e567",
+    "badge": [],
+    "badge_v2": {
+      "detail_badges": [],
+      "icon": "",
+      "merged_badges": [],
+      "night_icon": "",
+      "title": "ヾ(≧▽≦*)o"
+    },
+    "gender": 0,
+    "headline": "ヾ(≧▽≦*)o",
+    "id": "bd3c16f69cb9175e344a40454ebd171f",
+    "is_advertiser": false,
+    "is_org": false,
+    "is_privacy": false,
+    "name": "GGapa",
+    "type": "people",
+    "url": "https://www.zhihu.com/api/v4/people/bd3c16f69cb9175e344a40454ebd171f",
+    "url_token": "ggapa",
+    "user_type": "people"
+  },
+  "biz_ext": {
+    "share_guide": {
+      "has_positive_bubble": false,
+      "has_time_bubble": false,
+      "hit_share_guide_cluster": false
+    }
+  },
+  "comment_count": 0,
+  "content": "<p data-pid=\"7Qzs-4xA\">我。</p><p data-pid=\"H7kmHyGR\">其实我是没有什么资格评价应试教育，毕竟我都没有走到这个体系的巅峰，也提不出来一个更好的解决方案。</p><p data-pid=\"5uOH6wyv\">放屁！凭什么只有巅峰的人才有资格评价别人呢？一个普普通通的人怎么就没有资格发出普通人的声音了啊。</p><p data-pid=\"nG7S_Wj0\">高考完后我做过测算，普通状况下我九点半睡才能够做到六点半起床，但是学校里十点才放晚自习，这是违反生物节律并且反人类的增时降效。</p><p data-pid=\"6josY00y\">但是学校会给你洗脑，让你觉得这就是对的，可是我很早之前便意识到了这一点，所以我尝试了一切方法让我自己脱离脱离中国学校的教育。</p><p data-pid=\"2xxnIQjG\">可是从结果上看，我是失败的。来自环境的阻力太大了，我承受不住来自环境的巨大压力，有着来自办主任不准请假的威胁，受到了拥有脑抽价值观谭中文的攻击。</p><p data-pid=\"e0szd0cw\">当独行者太难，会被扣上不合群的帽子，然后就会被压迫。我不知道社会上是什么样的，但是从我们中学接受的教育来看，是好不到哪里去的。所以我的身体使用了终极绝招 —— 抑郁症，来让我摆脱了这个环境，并杜绝了再次回到类似环境的可能。</p><p data-pid=\"KePzyxhO\">这意味着在未来我有可能因为找不到工作，或者是被社会排挤成为一个乞丐被饿死（其实不至于），我也不会曲腰事人；哪怕会被打上奇怪的标签或者是被人疏远，我也无所畏惧。</p><p data-pid=\"3Rj1iaGC\">但是伴随着重度抑郁的是浑浑噩噩的生活，我每天几乎什么都不想做，不想吃饭、不想洗澡、不想喝水，当然也不想学习。所以我的高考成功的爆掉了，彻底的爆掉了。</p><p data-pid=\"YEzWQVVx\">那你说这样值得吗？我不知道，但是似乎思考值不值是一件没有意义的事情。但至少我知道了学校的恶，未来如果我找得到老婆并且有孩子的话，如果他想，我会近一切办法让他在家自学，而不是去学校。</p><p data-pid=\"SpUq4_tA\">我不知道老师们会如何包装我的故事。这大概率会变成他们去压迫其他学生来完成自己 KPI 的又一有力工具。虽然没人看，但是我还是希望那些想知道我身上发生了什么的人能知道发生了什么。</p><p data-pid=\"6lfrGXgH\">至于去或是留，还是由读者自行决定罢。</p>",
+  "content_need_truncated": false,
+  "created_time": 1782973945,
+  "extras": "",
+  "force_login_when_click_read_more": false,
+  "id": "2056022424236381215",
+  "is_collapsed": false,
+  "is_copyable": true,
+  "is_jump_native": false,
+  "podcast_audio_enter": {
+    "action_url": "zhihu://podcast/audio_player/0?contentId=2056022424236381215&contentType=answer&subType=&entrance=detail_page",
+    "sub_type": "",
+    "text": "听内容",
+    "text_color": "MapBrand",
+    "text_size": 13
+  },
+  "question": {
+    "created": 1587227282,
+    "id": "388887069",
+    "question_type": "normal",
+    "relationship": {},
+    "title": "有没有人真的不适合应试教育？",
+    "type": "question",
+    "updated_time": 1738758439,
+    "url": "https://www.zhihu.com/api/v4/questions/388887069"
+  },
+  "relationship": {
+    "upvoted_followees": []
+  },
+  "type": "answer",
+  "updated_time": 1782974250,
+  "url": "https://www.zhihu.com/api/v4/answers/2056022424236381215",
+  "voteup_count": 4
+}

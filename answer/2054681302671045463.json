@@ -1,0 +1,68 @@
+{
+  "allow_segment_interaction": 1,
+  "answer_type": "normal",
+  "author": {
+    "avatar_url": "https://picx.zhimg.com/v2-b3a4dcfac9d6fd77cf585196c612d5c8_l.jpg?source=2c26e567",
+    "avatar_url_template": "https://picx.zhimg.com/v2-b3a4dcfac9d6fd77cf585196c612d5c8.jpg?source=2c26e567",
+    "badge": [],
+    "badge_v2": {
+      "detail_badges": [],
+      "icon": "",
+      "merged_badges": [],
+      "night_icon": "",
+      "title": "ヾ(≧▽≦*)o"
+    },
+    "gender": 0,
+    "headline": "ヾ(≧▽≦*)o",
+    "id": "bd3c16f69cb9175e344a40454ebd171f",
+    "is_advertiser": false,
+    "is_org": false,
+    "is_privacy": false,
+    "name": "GGapa",
+    "type": "people",
+    "url": "https://www.zhihu.com/api/v4/people/bd3c16f69cb9175e344a40454ebd171f",
+    "url_token": "ggapa",
+    "user_type": "people"
+  },
+  "biz_ext": {
+    "share_guide": {
+      "has_positive_bubble": false,
+      "has_time_bubble": false,
+      "hit_share_guide_cluster": false
+    }
+  },
+  "comment_count": 0,
+  "content": "<p data-pid=\"UqHVM4OL\">你可以讨厌别人发语音消息给你，但是你不应该因此否定语音消息。</p><p data-pid=\"-nAqpa-d\">你本质上是在讨厌那个，不顾及他人体验，浪费了你时间的人。他发了一条难以让人理解的语音，口齿不清，声音难听；转文字转出来是错的，你也听不懂。</p><p data-pid=\"s1JxbGgp\">明明可以使用语音输入，但是他就不，他要给你发语音，然后让你来费神费力的“解析”，或者说“破译”他发给你的消息。那这样的人确实值得你讨厌，但你若要因此便讨厌所有发语音消息的人，那便有些过了，<b>甚至可以说有些可悲。</b></p><p data-pid=\"DCvvI8kC\">不妨让我们来考虑一下语音消息和普通的文字消息有什么区别？暂且不考虑语音消息单位时间内传达效率的影响（虽然这是它最大的劣势），语音消息中涵盖的语气语调能够传达出独特的情感，就足以让其在聊天软件的消息类型中稳固根基了。</p><p data-pid=\"K06jHLLs\">假设现在有一个非常爱你的人，可能是你的伴侣，也可能是你的家人，单纯的发文字消息并不能使你感受和体会到他们对你的爱和温暖，这时候语音消息的作用就来了。</p><p data-pid=\"XPtYe-Sf\">假设你是男性，你劳累工作或者是学习的闲暇之余，你的未婚妻用温柔细腻，还带一点俏皮的声音，给你发来了一条语音消息，分享者她今天遇到的趣事。那这可多比文字消息要动人心弦的多啊。</p><p data-pid=\"ngOl4ZfE\">你不为此感到欣喜，反而要厌恶语音消息，那我只能再次强调你很可悲了，这世上没有一个人，让你听到声音就觉得很安心和幸福。</p><p data-pid=\"8v1MDrYS\">什么?你要说满屏的语音懒得听浪费你时间，难道满屏的文字就没有浪费你的时间吗?</p><p data-pid=\"pqifD4eZ\">啥?发语音不如打电话，难道你时时刻刻都有空接电话吗?</p><p data-pid=\"oypAmc4U\">所以你应该对给你发语音消息<b>这一行为</b>持有一个平淡的中立的态度，而你不应该对语音消息持有负面的观点。</p><p></p>",
+  "content_need_truncated": false,
+  "created_time": 1782654196,
+  "extras": "",
+  "force_login_when_click_read_more": false,
+  "id": "2054681302671045463",
+  "is_collapsed": false,
+  "is_copyable": true,
+  "is_jump_native": false,
+  "podcast_audio_enter": {
+    "action_url": "zhihu://podcast/audio_player/0?contentId=2054681302671045463&contentType=answer&subType=&entrance=detail_page",
+    "sub_type": "",
+    "text": "听内容",
+    "text_color": "MapBrand",
+    "text_size": 13
+  },
+  "question": {
+    "created": 1657957383,
+    "id": "543628014",
+    "question_type": "normal",
+    "relationship": {},
+    "title": "我很讨厌别人发语音消息给我，这正常吗？",
+    "type": "question",
+    "updated_time": 1657957383,
+    "url": "https://www.zhihu.com/api/v4/questions/543628014"
+  },
+  "relationship": {
+    "upvoted_followees": []
+  },
+  "type": "answer",
+  "updated_time": 1782654196,
+  "url": "https://www.zhihu.com/api/v4/answers/2054681302671045463",
+  "voteup_count": 1
+}

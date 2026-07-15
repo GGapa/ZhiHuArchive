@@ -1,0 +1,68 @@
+{
+  "allow_segment_interaction": 1,
+  "answer_type": "normal",
+  "author": {
+    "avatar_url": "https://pic1.zhimg.com/v2-b3a4dcfac9d6fd77cf585196c612d5c8_l.jpg?source=2c26e567",
+    "avatar_url_template": "https://pic1.zhimg.com/v2-b3a4dcfac9d6fd77cf585196c612d5c8.jpg?source=2c26e567",
+    "badge": [],
+    "badge_v2": {
+      "detail_badges": [],
+      "icon": "",
+      "merged_badges": [],
+      "night_icon": "",
+      "title": "ヾ(≧▽≦*)o"
+    },
+    "gender": 0,
+    "headline": "ヾ(≧▽≦*)o",
+    "id": "bd3c16f69cb9175e344a40454ebd171f",
+    "is_advertiser": false,
+    "is_org": false,
+    "is_privacy": false,
+    "name": "GGapa",
+    "type": "people",
+    "url": "https://www.zhihu.com/api/v4/people/bd3c16f69cb9175e344a40454ebd171f",
+    "url_token": "ggapa",
+    "user_type": "people"
+  },
+  "biz_ext": {
+    "share_guide": {
+      "has_positive_bubble": false,
+      "has_time_bubble": false,
+      "hit_share_guide_cluster": false
+    }
+  },
+  "comment_count": 0,
+  "content": "<p data-pid=\"TVY-xyw5\">我曾经也是总是背不住东西，试了好多好多方法都没有用，后来就被确诊为了 ADHD。</p><p data-pid=\"bv_U4G32\">在我看来，一味的寻求方法是不如直接上手开始背诵的，背的越多一般来说记忆力就会越好（至少我同学表达是这样的）。如果你发现，你无论怎么背都背不住，用什么方法也没用，请你考虑天赋的因素。</p><p data-pid=\"OUZilqYb\">当然记忆力差如果使用 Anki 这种符合遗忘规律的记忆软件，那么还是会轻松许多的，可以尝试一下。</p>",
+  "content_need_truncated": false,
+  "created_time": 1784094483,
+  "extras": "",
+  "force_login_when_click_read_more": false,
+  "id": "2060722304418591053",
+  "is_collapsed": false,
+  "is_copyable": true,
+  "is_jump_native": false,
+  "podcast_audio_enter": {
+    "action_url": "zhihu://podcast/audio_player/0?contentId=2060722304418591053&contentType=answer&subType=&entrance=detail_page",
+    "sub_type": "",
+    "text": "听内容",
+    "text_color": "MapBrand",
+    "text_size": 13
+  },
+  "question": {
+    "created": 1784075116,
+    "id": "2060641072984888772",
+    "question_type": "normal",
+    "relationship": {},
+    "title": "怎么有效提升自己的记忆力？",
+    "type": "question",
+    "updated_time": 1784075116,
+    "url": "https://www.zhihu.com/api/v4/questions/2060641072984888772"
+  },
+  "relationship": {
+    "upvoted_followees": []
+  },
+  "type": "answer",
+  "updated_time": 1784094483,
+  "url": "https://www.zhihu.com/api/v4/answers/2060722304418591053",
+  "voteup_count": 0
+}

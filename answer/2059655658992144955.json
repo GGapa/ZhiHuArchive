@@ -1,0 +1,68 @@
+{
+  "allow_segment_interaction": 1,
+  "answer_type": "normal",
+  "author": {
+    "avatar_url": "https://picx.zhimg.com/v2-b3a4dcfac9d6fd77cf585196c612d5c8_l.jpg?source=2c26e567",
+    "avatar_url_template": "https://picx.zhimg.com/v2-b3a4dcfac9d6fd77cf585196c612d5c8.jpg?source=2c26e567",
+    "badge": [],
+    "badge_v2": {
+      "detail_badges": [],
+      "icon": "",
+      "merged_badges": [],
+      "night_icon": "",
+      "title": "ヾ(≧▽≦*)o"
+    },
+    "gender": 0,
+    "headline": "ヾ(≧▽≦*)o",
+    "id": "bd3c16f69cb9175e344a40454ebd171f",
+    "is_advertiser": false,
+    "is_org": false,
+    "is_privacy": false,
+    "name": "GGapa",
+    "type": "people",
+    "url": "https://www.zhihu.com/api/v4/people/bd3c16f69cb9175e344a40454ebd171f",
+    "url_token": "ggapa",
+    "user_type": "people"
+  },
+  "biz_ext": {
+    "share_guide": {
+      "has_positive_bubble": false,
+      "has_time_bubble": false,
+      "hit_share_guide_cluster": false
+    }
+  },
+  "comment_count": 0,
+  "content": "<p data-pid=\"pgIFUFyM\">其实并非，我们学校的老师就会给我们上英语课文。</p><p data-pid=\"hL0zGQt1\">我不知道为什么有的学校会不教英语课文，虽然学习英语课文比直接讲述语法知识点要慢得多，但是在具体的语境下学习培养的是英语的语感。语感是属于直觉思维，<b>直觉思维是不准确但是快速的。</b></p><p data-pid=\"Pqs_xC8_\">与直觉思维相对的是逻辑思维，<b>逻辑思维是缓慢但又是准确的</b>。如果你只是在机械的学习语法，而不在具体的情境中尝试使用，就是能够培养和英语有关的逻辑思维，而不能像一个真正的外国人一样，做到脱口而出一个句子。</p><p data-pid=\"Kdmjwcxc\">不妨考虑当你看到一个中文句子的时候，你并不会先分析一下中文语法然后再根据词语的含义来构建出句子的意义，你会直接读取每个词语的意思，然后根据自己的直觉，直接将词语按照你喜欢的顺序排列成特定的含义，从而理解句子。</p><p data-pid=\"UGvAHPrS\">这也是为何词语以及个别字的顺序调换并不会影响句子的理解。</p><p data-pid=\"H2958PWW\">对于英文也是这样，但是这样的一种直觉思维难以从机械的语法学习中习得，它需要真实的情景和使用来滋养，而学习课文就是起到这样的作用，这也是为什么学习课文是有意义的。</p><p data-pid=\"5X3dXWS8\">但是只靠课文的那点东西还不足以培养英语的语感，在平时还要多接触英语环境，比方说将操作系统换成英文，或者是多读英语作品，才能够更好的培养出英语的语感。</p>",
+  "content_need_truncated": false,
+  "created_time": 1783840175,
+  "extras": "",
+  "force_login_when_click_read_more": false,
+  "id": "2059655658992144955",
+  "is_collapsed": false,
+  "is_copyable": true,
+  "is_jump_native": false,
+  "podcast_audio_enter": {
+    "action_url": "zhihu://podcast/audio_player/0?contentId=2059655658992144955&contentType=answer&subType=&entrance=detail_page",
+    "sub_type": "",
+    "text": "听内容",
+    "text_color": "MapBrand",
+    "text_size": 13
+  },
+  "question": {
+    "created": 1767188979,
+    "id": "1989815481876649173",
+    "question_type": "normal",
+    "relationship": {},
+    "title": "高中生很少上英语课文，那么英语课文意义何在?",
+    "type": "question",
+    "updated_time": 1767188979,
+    "url": "https://www.zhihu.com/api/v4/questions/1989815481876649173"
+  },
+  "relationship": {
+    "upvoted_followees": []
+  },
+  "type": "answer",
+  "updated_time": 1783840175,
+  "url": "https://www.zhihu.com/api/v4/answers/2059655658992144955",
+  "voteup_count": 0
+}

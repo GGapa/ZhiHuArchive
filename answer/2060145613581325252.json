@@ -1,0 +1,68 @@
+{
+  "allow_segment_interaction": 1,
+  "answer_type": "normal",
+  "author": {
+    "avatar_url": "https://picx.zhimg.com/v2-b3a4dcfac9d6fd77cf585196c612d5c8_l.jpg?source=2c26e567",
+    "avatar_url_template": "https://picx.zhimg.com/v2-b3a4dcfac9d6fd77cf585196c612d5c8.jpg?source=2c26e567",
+    "badge": [],
+    "badge_v2": {
+      "detail_badges": [],
+      "icon": "",
+      "merged_badges": [],
+      "night_icon": "",
+      "title": "ヾ(≧▽≦*)o"
+    },
+    "gender": 0,
+    "headline": "ヾ(≧▽≦*)o",
+    "id": "bd3c16f69cb9175e344a40454ebd171f",
+    "is_advertiser": false,
+    "is_org": false,
+    "is_privacy": false,
+    "name": "GGapa",
+    "type": "people",
+    "url": "https://www.zhihu.com/api/v4/people/bd3c16f69cb9175e344a40454ebd171f",
+    "url_token": "ggapa",
+    "user_type": "people"
+  },
+  "biz_ext": {
+    "share_guide": {
+      "has_positive_bubble": false,
+      "has_time_bubble": false,
+      "hit_share_guide_cluster": false
+    }
+  },
+  "comment_count": 2,
+  "content": "<p data-pid=\"sCUE6XEK\">注意心态。</p><p data-pid=\"FaJeWuQ7\">主包高中刚刚毕业，积累的学识和经验还不够多，就第一次尝试用真金白银总共 4 美刀去跑了量化，然后发现自己的心态根本遭不住。</p><p data-pid=\"ufqGQbkF\">bot 是中午跑起来的，心态是晚上崩的。心态为什么崩？对自己写的一坨大粪太没有信心了，就像一颗炸弹一样埋我心里，不得安宁，没事就想去围着趋势图看，恨不得时间加快让结果快点出来。</p><p data-pid=\"pJXy2rOl\">受不了了，全卖了，大概亏了半美刀，就充当学费了。</p><p data-pid=\"F0wwPIbe\">我还是那这四美刀犒劳一下自己，买买游戏什么的放松一下，真的累死了；有这时间研究这个不如多学学高数，我还没学明白呢……</p><p data-pid=\"60Pky2cM\">附一张回测图（看起来好看是因为忽略了某个现实因素的影响，这里就不再赘述了）</p><figure data-size=\"normal\"><noscript><img src=\"https://picx.zhimg.com/50/v2-78a0ebf09ce190e490c1317439c7e0f5_720w.jpg?source=2c26e567\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"2683\" data-rawheight=\"1684\" data-original-token=\"v2-42cc60f65127d733acf21b61c9667564\" class=\"origin_image zh-lightbox-thumb\" width=\"2683\" data-original=\"https://pica.zhimg.com/v2-78a0ebf09ce190e490c1317439c7e0f5_r.jpg?source=2c26e567\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;2683&#39; height=&#39;1684&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"2683\" data-rawheight=\"1684\" data-original-token=\"v2-42cc60f65127d733acf21b61c9667564\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"2683\" data-original=\"https://pica.zhimg.com/v2-78a0ebf09ce190e490c1317439c7e0f5_r.jpg?source=2c26e567\" data-actualsrc=\"https://picx.zhimg.com/50/v2-78a0ebf09ce190e490c1317439c7e0f5_720w.jpg?source=2c26e567\"/></figure><p></p>",
+  "content_need_truncated": false,
+  "created_time": 1783956989,
+  "extras": "",
+  "force_login_when_click_read_more": false,
+  "id": "2060145613581325252",
+  "is_collapsed": false,
+  "is_copyable": true,
+  "is_jump_native": false,
+  "podcast_audio_enter": {
+    "action_url": "zhihu://podcast/audio_player/0?contentId=2060145613581325252&contentType=answer&subType=&entrance=detail_page",
+    "sub_type": "",
+    "text": "听内容",
+    "text_color": "MapBrand",
+    "text_size": 13
+  },
+  "question": {
+    "created": 1760495130,
+    "id": "1961739443590399925",
+    "question_type": "normal",
+    "relationship": {},
+    "title": "第一次做量化交易，应该注意什么？",
+    "type": "question",
+    "updated_time": 1760495130,
+    "url": "https://www.zhihu.com/api/v4/questions/1961739443590399925"
+  },
+  "relationship": {
+    "upvoted_followees": []
+  },
+  "type": "answer",
+  "updated_time": 1783998861,
+  "url": "https://www.zhihu.com/api/v4/answers/2060145613581325252",
+  "voteup_count": 1
+}

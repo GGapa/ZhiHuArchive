@@ -1,0 +1,68 @@
+{
+  "allow_segment_interaction": 1,
+  "answer_type": "normal",
+  "author": {
+    "avatar_url": "https://picx.zhimg.com/v2-b3a4dcfac9d6fd77cf585196c612d5c8_l.jpg?source=2c26e567",
+    "avatar_url_template": "https://picx.zhimg.com/v2-b3a4dcfac9d6fd77cf585196c612d5c8.jpg?source=2c26e567",
+    "badge": [],
+    "badge_v2": {
+      "detail_badges": [],
+      "icon": "",
+      "merged_badges": [],
+      "night_icon": "",
+      "title": "ヾ(≧▽≦*)o"
+    },
+    "gender": 0,
+    "headline": "ヾ(≧▽≦*)o",
+    "id": "bd3c16f69cb9175e344a40454ebd171f",
+    "is_advertiser": false,
+    "is_org": false,
+    "is_privacy": false,
+    "name": "GGapa",
+    "type": "people",
+    "url": "https://www.zhihu.com/api/v4/people/bd3c16f69cb9175e344a40454ebd171f",
+    "url_token": "ggapa",
+    "user_type": "people"
+  },
+  "biz_ext": {
+    "share_guide": {
+      "has_positive_bubble": false,
+      "has_time_bubble": false,
+      "hit_share_guide_cluster": false
+    }
+  },
+  "comment_count": 0,
+  "content": "<p data-pid=\"mHRD_uoz\">泯然众人？</p><p data-pid=\"HyNpYA9l\">你学钢琴是为了什么？为什么一定要鹤立鸡群呢？</p><p data-pid=\"AfUn0Gz3\">考过钢琴十级的人想都想得到有两条路可以走，一条路就是走专业道路，另一条路就是当成一个兴趣爱好。当成专业道路不用说，肯定就是去教学、演奏相关的工作，甚至有可能被挤出这条赛道，被迫去从事不想关的行业。</p><p data-pid=\"dbuM90Zf\">而另一种就是当成一个兴趣爱好来培养，那么知道别人去干了什么就是更加没有意义的事情了。但是如果钢琴能够学到十级，可以说明其大概率不是很笨的，往往可以在应试教育里脱颖而出。值得一提的是，如果你本身没有钢琴十级证书，那么你去学钢琴是没有任何用的，你专门去为了证明自己有实力而去完成一个事情是没有任何意义的。</p><p data-pid=\"6_Ws0ItY\">所以不用让自己去对齐其他人，其他人去做了什么对你没有任何的直接参考价值，最多的就是去为自己发现新的东西，新的方面去探索。反正就是，学了钢琴并不等于自己的未来直接就和钢琴挂钩了，钢琴可能只是你人生中的小插曲而已。</p>",
+  "content_need_truncated": false,
+  "created_time": 1781855724,
+  "extras": "",
+  "force_login_when_click_read_more": false,
+  "id": "2051332266987631033",
+  "is_collapsed": false,
+  "is_copyable": true,
+  "is_jump_native": false,
+  "podcast_audio_enter": {
+    "action_url": "zhihu://podcast/audio_player/0?contentId=2051332266987631033&contentType=answer&subType=&entrance=detail_page",
+    "sub_type": "",
+    "text": "听内容",
+    "text_color": "MapBrand",
+    "text_size": 13
+  },
+  "question": {
+    "created": 1778263255,
+    "id": "2036264358888649881",
+    "question_type": "normal",
+    "relationship": {},
+    "title": "考过钢琴10级的人都去干了什么？",
+    "type": "question",
+    "updated_time": 1778263255,
+    "url": "https://www.zhihu.com/api/v4/questions/2036264358888649881"
+  },
+  "relationship": {
+    "upvoted_followees": []
+  },
+  "type": "answer",
+  "updated_time": 1781855724,
+  "url": "https://www.zhihu.com/api/v4/answers/2051332266987631033",
+  "voteup_count": 2
+}

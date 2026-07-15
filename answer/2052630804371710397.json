@@ -1,0 +1,68 @@
+{
+  "allow_segment_interaction": 1,
+  "answer_type": "normal",
+  "author": {
+    "avatar_url": "https://pic1.zhimg.com/v2-b3a4dcfac9d6fd77cf585196c612d5c8_l.jpg?source=2c26e567",
+    "avatar_url_template": "https://picx.zhimg.com/v2-b3a4dcfac9d6fd77cf585196c612d5c8.jpg?source=2c26e567",
+    "badge": [],
+    "badge_v2": {
+      "detail_badges": [],
+      "icon": "",
+      "merged_badges": [],
+      "night_icon": "",
+      "title": "ヾ(≧▽≦*)o"
+    },
+    "gender": 0,
+    "headline": "ヾ(≧▽≦*)o",
+    "id": "bd3c16f69cb9175e344a40454ebd171f",
+    "is_advertiser": false,
+    "is_org": false,
+    "is_privacy": false,
+    "name": "GGapa",
+    "type": "people",
+    "url": "https://www.zhihu.com/api/v4/people/bd3c16f69cb9175e344a40454ebd171f",
+    "url_token": "ggapa",
+    "user_type": "people"
+  },
+  "biz_ext": {
+    "share_guide": {
+      "has_positive_bubble": false,
+      "has_time_bubble": false,
+      "hit_share_guide_cluster": false
+    }
+  },
+  "comment_count": 1,
+  "content": "<p data-pid=\"KR4_eKpe\">我以前总是不明白为什么长回答得到的赞同数量总是远小于短回答，现在我终于明白了。</p><p data-pid=\"67kHpfEN\">一个回答越长，信息量越大，观点越具体，思维越严谨，那么他留给读者臆想的空间就越少。如果你写的是观点类型回答，那么一个回答若越长，那么便越难与读者脑中的观点重合，自然而然难以收获赞同。</p><p data-pid=\"MTE8xSB8\">所以这并不是一件奇怪的事情，当然这还和个人风格以及含金量还有认知水平相关，不要当成回答没有人看的借口。</p>",
+  "content_need_truncated": false,
+  "created_time": 1782165319,
+  "extras": "",
+  "force_login_when_click_read_more": false,
+  "id": "2052630804371710397",
+  "is_collapsed": false,
+  "is_copyable": true,
+  "is_jump_native": false,
+  "podcast_audio_enter": {
+    "action_url": "zhihu://podcast/audio_player/0?contentId=2052630804371710397&contentType=answer&subType=&entrance=detail_page",
+    "sub_type": "",
+    "text": "听内容",
+    "text_color": "MapBrand",
+    "text_size": 13
+  },
+  "question": {
+    "created": 1383494208,
+    "id": "21951329",
+    "question_type": "normal",
+    "relationship": {},
+    "title": "在知乎当你回答的很长，但却没得到任何赞，你是怎么想的？",
+    "type": "question",
+    "updated_time": 1383494208,
+    "url": "https://www.zhihu.com/api/v4/questions/21951329"
+  },
+  "relationship": {
+    "upvoted_followees": []
+  },
+  "type": "answer",
+  "updated_time": 1782165319,
+  "url": "https://www.zhihu.com/api/v4/answers/2052630804371710397",
+  "voteup_count": 5
+}

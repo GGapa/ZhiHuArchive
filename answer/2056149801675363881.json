@@ -1,0 +1,68 @@
+{
+  "allow_segment_interaction": 1,
+  "answer_type": "normal",
+  "author": {
+    "avatar_url": "https://pic1.zhimg.com/v2-b3a4dcfac9d6fd77cf585196c612d5c8_l.jpg?source=2c26e567",
+    "avatar_url_template": "https://picx.zhimg.com/v2-b3a4dcfac9d6fd77cf585196c612d5c8.jpg?source=2c26e567",
+    "badge": [],
+    "badge_v2": {
+      "detail_badges": [],
+      "icon": "",
+      "merged_badges": [],
+      "night_icon": "",
+      "title": "ヾ(≧▽≦*)o"
+    },
+    "gender": 0,
+    "headline": "ヾ(≧▽≦*)o",
+    "id": "bd3c16f69cb9175e344a40454ebd171f",
+    "is_advertiser": false,
+    "is_org": false,
+    "is_privacy": false,
+    "name": "GGapa",
+    "type": "people",
+    "url": "https://www.zhihu.com/api/v4/people/bd3c16f69cb9175e344a40454ebd171f",
+    "url_token": "ggapa",
+    "user_type": "people"
+  },
+  "biz_ext": {
+    "share_guide": {
+      "has_positive_bubble": false,
+      "has_time_bubble": false,
+      "hit_share_guide_cluster": false
+    }
+  },
+  "comment_count": 0,
+  "content": "<p data-pid=\"vHJGfrph\">经常看动画片的友友们肯定都有发现，与其他的作品不同，这部作品没有那么多的巧合（虽然有），也没有那么多的奇迹（虽然也有）；整部作品都给人一种淡淡的无力和真实感，它描述的就是日常，两个或多或少都有一点心理疾病的人互相救赎的日常。</p><p data-pid=\"IVAjRJra\">男主或多或少都是有一点躯体化症状，或者说抑郁症的；女主不太好通过故事直接下判断，但是耳朵不好确实也给她带来了很大的影响。而两个有病的人碰到了一起，在点滴的相处过程中，互相救赎了对方。</p><p data-pid=\"RkUbIlta\">在观看的途中，我真的是为男主和女主感到着急，想着“你怎么能这样这样呢”、“你怎么还不好呢”、“你怎么还要说对不起呢”，等一系列问题。但是我觉得这两个人如果处在现实当中，他们的发展可能确实就是这样的，这部作品使用真人来拍没有任何问题，在现实中相比我也会为两个这样的人着急吧。</p><p data-pid=\"ZH0g3aw-\">当时女主想要跳楼，我是千万没有想到落下去的会是男主，但是男主落下去最后居然安然无恙还是令我有点意外，这就是属于这部动画作品的奇迹吧。当然男主还因为取相机的巧合能够看到准备一跃而下的女主，这便是这部作品的巧合。有了这一巧合和这一奇迹才构成了她们两个的故事。</p><p data-pid=\"0HL2dOof\">整部作品可以使用压抑来形容，这一个巧合和一个奇迹只保证了这个故事没有滑向最差的结局——故事直接结束，但是两个人的生活依然可以用不幸来形容，令人感慨万千。</p><p data-pid=\"k5Wc8qhG\">能够做到这一点的很大原因就是音乐。这部作品的背景音乐多用三拍子，并且大多时候高音域饱满并且重复，足以给人一种飘渺的神圣之感，更加强调了这是个故事本身，也同样营造了一种光明饱满但是又有点压得人喘不过气来的感觉。</p><p data-pid=\"sjXwKIyY\">可能是因为现实总是无聊的，而这部作品在我看来又太过于真实，所以整体的观感对我来说略显缓慢，总的来说还是挺不错的。</p>",
+  "content_need_truncated": false,
+  "created_time": 1783004314,
+  "extras": "",
+  "force_login_when_click_read_more": false,
+  "id": "2056149801675363881",
+  "is_collapsed": false,
+  "is_copyable": true,
+  "is_jump_native": false,
+  "podcast_audio_enter": {
+    "action_url": "zhihu://podcast/audio_player/0?contentId=2056149801675363881&contentType=answer&subType=&entrance=detail_page",
+    "sub_type": "",
+    "text": "听内容",
+    "text_color": "MapBrand",
+    "text_size": 13
+  },
+  "question": {
+    "created": 1474086807,
+    "id": "50716218",
+    "question_type": "normal",
+    "relationship": {},
+    "title": "如何评价动画电影《声之形》？",
+    "type": "question",
+    "updated_time": 1474172339,
+    "url": "https://www.zhihu.com/api/v4/questions/50716218"
+  },
+  "relationship": {
+    "upvoted_followees": []
+  },
+  "type": "answer",
+  "updated_time": 1783004314,
+  "url": "https://www.zhihu.com/api/v4/answers/2056149801675363881",
+  "voteup_count": 2
+}

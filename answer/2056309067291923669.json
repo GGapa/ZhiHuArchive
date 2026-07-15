@@ -1,0 +1,69 @@
+{
+  "allow_segment_interaction": 1,
+  "answer_type": "normal",
+  "author": {
+    "avatar_url": "https://picx.zhimg.com/v2-b3a4dcfac9d6fd77cf585196c612d5c8_l.jpg?source=2c26e567",
+    "avatar_url_template": "https://pica.zhimg.com/v2-b3a4dcfac9d6fd77cf585196c612d5c8.jpg?source=2c26e567",
+    "badge": [],
+    "badge_v2": {
+      "detail_badges": [],
+      "icon": "",
+      "merged_badges": [],
+      "night_icon": "",
+      "title": "ヾ(≧▽≦*)o"
+    },
+    "gender": 0,
+    "headline": "ヾ(≧▽≦*)o",
+    "id": "bd3c16f69cb9175e344a40454ebd171f",
+    "is_advertiser": false,
+    "is_org": false,
+    "is_privacy": false,
+    "name": "GGapa",
+    "type": "people",
+    "url": "https://www.zhihu.com/api/v4/people/bd3c16f69cb9175e344a40454ebd171f",
+    "url_token": "ggapa",
+    "user_type": "people"
+  },
+  "biz_ext": {
+    "share_guide": {
+      "has_positive_bubble": false,
+      "has_time_bubble": false,
+      "hit_share_guide_cluster": false
+    }
+  },
+  "comment_count": 0,
+  "content": "<p data-pid=\"Yi-Kp7RC\">如果考试或题目里直接问 <img eeimg=\"1\" src=\"https://www.zhihu.com/equation?tex=%5Clim_%7Bx+%5Cto+0%7D+%5Csqrt%7Bx%7D\" alt=\"\\lim_{x \\to 0} \\sqrt{x}\"/> 是否存在，且没有特殊说明，严格的标准答案通常是<b>不存在</b>，因为左极限无意义。但在讨论函数的连续性时，因为 <img eeimg=\"1\" src=\"https://www.zhihu.com/equation?tex=0\" alt=\"0\"/> 是定义域的端点，我们通常默认只要<b>右极限等于该点的函数值</b>（即 <img eeimg=\"1\" src=\"https://www.zhihu.com/equation?tex=0\" alt=\"0\"/>），就认为函数在 <img eeimg=\"1\" src=\"https://www.zhihu.com/equation?tex=x%3D0\" alt=\"x=0\"/> 处是<b>右连续</b>的。</p><hr/><p data-pid=\"Xc6FpxKg\">根据极限的 <img eeimg=\"1\" src=\"https://www.zhihu.com/equation?tex=%5Cvarepsilon-%5Cdelta\" alt=\"\\varepsilon-\\delta\"/> 定义，对于任意给定的 <img eeimg=\"1\" src=\"https://www.zhihu.com/equation?tex=%5Cvarepsilon+%3E+0\" alt=\"\\varepsilon &gt; 0\"/>，必然存在一个 <img eeimg=\"1\" src=\"https://www.zhihu.com/equation?tex=%5Cdelta+%3E+0\" alt=\"\\delta &gt; 0\"/>，使得当 <img eeimg=\"1\" src=\"https://www.zhihu.com/equation?tex=x\" alt=\"x\"/> 满足： </p><p data-pid=\"BMvnE5Ff\"><img eeimg=\"2\" src=\"https://www.zhihu.com/equation?tex=+0+%3C+%7Cx+-+0%7C+%3C+%5Cdelta+\" alt=\" 0 &lt; |x - 0| &lt; \\delta \"/></p><p data-pid=\"Wii3QX5a\"> 时，恒有 <img eeimg=\"1\" src=\"https://www.zhihu.com/equation?tex=%7C%5Csqrt%7Bx%7D+-+L%7C+%3C+%5Cvarepsilon\" alt=\"|\\sqrt{x} - L| &lt; \\varepsilon\"/> 成立。现在，我们取一个符合上述条件的负数，例如 <img eeimg=\"1\" src=\"https://www.zhihu.com/equation?tex=x_1+%3D+-%5Cfrac%7B%5Cdelta%7D%7B2%7D\" alt=\"x_1 = -\\frac{\\delta}{2}\"/>：</p><ol><li data-pid=\"0ZVjwAIR\"><b>检查自变量条件</b>：<img eeimg=\"1\" src=\"https://www.zhihu.com/equation?tex=%7Cx_1%7C+%3D+%7C-%5Cfrac%7B%5Cdelta%7D%7B2%7D%7C+%3D+%5Cfrac%7B%5Cdelta%7D%7B2%7D\" alt=\"|x_1| = |-\\frac{\\delta}{2}| = \\frac{\\delta}{2}\"/>，这显然满足 <img eeimg=\"1\" src=\"https://www.zhihu.com/equation?tex=0+%3C+%7Cx_1%7C+%3C+%5Cdelta\" alt=\"0 &lt; |x_1| &lt; \\delta\"/>。</li><li data-pid=\"haImQotb\"><b>检查函数值</b>：既然 <img eeimg=\"1\" src=\"https://www.zhihu.com/equation?tex=x_1\" alt=\"x_1\"/> 在该区间内，那么根据定义，此时它的函数值应该满足 <img eeimg=\"1\" src=\"https://www.zhihu.com/equation?tex=%7C%5Csqrt%7Bx_1%7D+-+L%7C+%3C+%5Cvarepsilon\" alt=\"|\\sqrt{x_1} - L| &lt; \\varepsilon\"/>。</li></ol><p data-pid=\"zakVreKi\"><b>导致矛盾：</b> 然而，当 <img eeimg=\"1\" src=\"https://www.zhihu.com/equation?tex=x_1+%3D+-%5Cfrac%7B%5Cdelta%7D%7B2%7D\" alt=\"x_1 = -\\frac{\\delta}{2}\"/> 时，<img eeimg=\"1\" src=\"https://www.zhihu.com/equation?tex=%5Csqrt%7Bx_1%7D+%3D+%5Csqrt%7B-%5Cfrac%7B%5Cdelta%7D%7B2%7D%7D\" alt=\"\\sqrt{x_1} = \\sqrt{-\\frac{\\delta}{2}}\"/> 在实数范围内<b>根本没有定义</b>。一个没有定义、不存在的表达式，是无法参与大小比较（<img eeimg=\"1\" src=\"https://www.zhihu.com/equation?tex=%7C%5Csqrt%7Bx_1%7D+-+L%7C+%3C+%5Cvarepsilon\" alt=\"|\\sqrt{x_1} - L| &lt; \\varepsilon\"/>）的。</p><p data-pid=\"Pnv_m8g_\"><b>结论</b> 假设不成立。因为在 <img eeimg=\"1\" src=\"https://www.zhihu.com/equation?tex=0\" alt=\"0\"/> 的左侧去心邻域内函数无定义，导致极限定义中的不等式直接失效，所以通过定义可以严格证明：<img eeimg=\"1\" src=\"https://www.zhihu.com/equation?tex=%5Clim_%7Bx+%5Cto+0%7D+%5Csqrt%7Bx%7D\" alt=\"\\lim_{x \\to 0} \\sqrt{x}\"/> 不存在。</p>",
+  "content_need_truncated": false,
+  "created_time": 1783042286,
+  "creation_disclaimer": "包含 AI 辅助创作 作者对内容负责",
+  "extras": "",
+  "force_login_when_click_read_more": false,
+  "id": "2056309067291923669",
+  "is_collapsed": false,
+  "is_copyable": true,
+  "is_jump_native": false,
+  "podcast_audio_enter": {
+    "action_url": "zhihu://podcast/audio_player/0?contentId=2056309067291923669&contentType=answer&subType=&entrance=detail_page",
+    "sub_type": "",
+    "text": "听内容",
+    "text_color": "MapBrand",
+    "text_size": 13
+  },
+  "question": {
+    "created": 1603272171,
+    "id": "426702405",
+    "question_type": "normal",
+    "relationship": {},
+    "title": "y＝根号x在x等于0处存在极限吗？如果不存在的话y＝根号x怎么能是连续的呢？",
+    "type": "question",
+    "updated_time": 1603272171,
+    "url": "https://www.zhihu.com/api/v4/questions/426702405"
+  },
+  "relationship": {
+    "upvoted_followees": []
+  },
+  "type": "answer",
+  "updated_time": 1783042296,
+  "url": "https://www.zhihu.com/api/v4/answers/2056309067291923669",
+  "voteup_count": 0
+}

@@ -1,0 +1,68 @@
+{
+  "allow_segment_interaction": 1,
+  "answer_type": "normal",
+  "author": {
+    "avatar_url": "https://pica.zhimg.com/v2-b3a4dcfac9d6fd77cf585196c612d5c8_l.jpg?source=2c26e567",
+    "avatar_url_template": "https://pic1.zhimg.com/v2-b3a4dcfac9d6fd77cf585196c612d5c8.jpg?source=2c26e567",
+    "badge": [],
+    "badge_v2": {
+      "detail_badges": [],
+      "icon": "",
+      "merged_badges": [],
+      "night_icon": "",
+      "title": "ヾ(≧▽≦*)o"
+    },
+    "gender": 0,
+    "headline": "ヾ(≧▽≦*)o",
+    "id": "bd3c16f69cb9175e344a40454ebd171f",
+    "is_advertiser": false,
+    "is_org": false,
+    "is_privacy": false,
+    "name": "GGapa",
+    "type": "people",
+    "url": "https://www.zhihu.com/api/v4/people/bd3c16f69cb9175e344a40454ebd171f",
+    "url_token": "ggapa",
+    "user_type": "people"
+  },
+  "biz_ext": {
+    "share_guide": {
+      "has_positive_bubble": false,
+      "has_time_bubble": false,
+      "hit_share_guide_cluster": false
+    }
+  },
+  "comment_count": 0,
+  "content": "<p data-pid=\"7nGKtcjl\">如果是兴趣所在，那么你可以自由自在地，想什么时候学高数就什么时候学高数。</p><p data-pid=\"5UBM6SGo\">但是你能够问的出来这个问题，就说明你并不是从内心深处喜欢学习高数的，那么我的答案就是：<b>高中生没有必要专门学习高数。</b>在课内的知识完成的差不多了之后，尽自己一切可能追随自己的爱好就行了。</p><p data-pid=\"v-ifNys4\">我知道有些基础比较差的同学，看着大佬们都在研究高数，自己心生羡慕，觉得自己学习了高数也能够像他们一样。但是事实并非如此，那些高手们并不是因为学了高数才厉害，而是因为足够厉害才学的懂高数，并且能够把学习高数当成自己的爱好。</p><p data-pid=\"9Vdzw4qS\">现在的高中当中有着太多的空心人了，没有自己的热爱。笔者以及笔者的同学刚刚高考完，而这些没有爱好的人，就只知道打发时间。通过玩游戏啊，刷视频啊等等的行为来打发时间。</p><p data-pid=\"xyBDrwgf\">但是我并不是在说打游戏不好，也没有说刷视频不好。但是打游戏刷视频可以建立在自己的爱好之上，或者是基于放松的目的，而不是用来单纯的<b>打发</b>时间。我们定义这样的行为为打发时间：你在进行某件事情，你体会不到某件事的意义以及乐趣，那么我们就定义你正在做的事情是打发时间。</p><p data-pid=\"EghfIJbh\">从长远来看，能够找到自己乐趣的价值远大于学习高数的价值，哪怕这个乐趣是钻研游戏，或者是刷视频也可以。据我所知，这样的人也有很多。</p><p></p><p></p>",
+  "content_need_truncated": false,
+  "created_time": 1783416505,
+  "extras": "",
+  "force_login_when_click_read_more": false,
+  "id": "2057878656744273703",
+  "is_collapsed": false,
+  "is_copyable": true,
+  "is_jump_native": false,
+  "podcast_audio_enter": {
+    "action_url": "zhihu://podcast/audio_player/0?contentId=2057878656744273703&contentType=answer&subType=&entrance=detail_page",
+    "sub_type": "",
+    "text": "听内容",
+    "text_color": "MapBrand",
+    "text_size": 13
+  },
+  "question": {
+    "created": 1767278601,
+    "id": "1990191383965890527",
+    "question_type": "normal",
+    "relationship": {},
+    "title": "高中生，高中数学学到什么程度可以开始自学高数？",
+    "type": "question",
+    "updated_time": 1767278601,
+    "url": "https://www.zhihu.com/api/v4/questions/1990191383965890527"
+  },
+  "relationship": {
+    "upvoted_followees": []
+  },
+  "type": "answer",
+  "updated_time": 1783416505,
+  "url": "https://www.zhihu.com/api/v4/answers/2057878656744273703",
+  "voteup_count": 1
+}

@@ -1,0 +1,68 @@
+{
+  "allow_segment_interaction": 1,
+  "answer_type": "normal",
+  "author": {
+    "avatar_url": "https://picx.zhimg.com/v2-b3a4dcfac9d6fd77cf585196c612d5c8_l.jpg?source=2c26e567",
+    "avatar_url_template": "https://pic1.zhimg.com/v2-b3a4dcfac9d6fd77cf585196c612d5c8.jpg?source=2c26e567",
+    "badge": [],
+    "badge_v2": {
+      "detail_badges": [],
+      "icon": "",
+      "merged_badges": [],
+      "night_icon": "",
+      "title": "ヾ(≧▽≦*)o"
+    },
+    "gender": 0,
+    "headline": "ヾ(≧▽≦*)o",
+    "id": "bd3c16f69cb9175e344a40454ebd171f",
+    "is_advertiser": false,
+    "is_org": false,
+    "is_privacy": false,
+    "name": "GGapa",
+    "type": "people",
+    "url": "https://www.zhihu.com/api/v4/people/bd3c16f69cb9175e344a40454ebd171f",
+    "url_token": "ggapa",
+    "user_type": "people"
+  },
+  "biz_ext": {
+    "share_guide": {
+      "has_positive_bubble": false,
+      "has_time_bubble": false,
+      "hit_share_guide_cluster": false
+    }
+  },
+  "comment_count": 1,
+  "content": "<p data-pid=\"idNDe9VA\">因为没有用过 Gemini 付费 API，就不评价了。但是 Gemini 网页端的使用体验是真的很好呀。</p><p data-pid=\"1BvBgsGJ\">不像 Grok、ChatGPT 或者是 Claude，他们的免费限额太少了，用一下就不能用高级版了，限额高的又太过弱智了一些，伪人感很重。而且在平时处理不复杂的问题上，Gemini 的综合使用体验是最好的一个。</p><p data-pid=\"k-iwS8CM\">首先就是在快的同时正确率还有较高的保证，而且用词还比较的生动，没有太过于乱七八糟的 emoji 和太多的标题行分段让人感到生理不适。</p><p data-pid=\"1p3C4Sbb\">而且在遇见烦心事的时候 Gemini 所提供的宽慰感也大于了其他几家 AI，其次是 Grok。而 GPT 和 Claude 的免费版给人的安慰还是有点太假了些。</p><p data-pid=\"yIPfGv3y\">我平时经常在 <a href=\"https://link.zhihu.com/?target=http%3A//arena.ai/\" data-icon-name=\"zhicon_icon_24_link\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">http://arena.ai</a> 比较各种大模型，虽然其他 AI 解决问难题这一方面的能力确实很强，但是就综合体验而言还是 Gemini 舒服的多。</p>",
+  "content_need_truncated": false,
+  "created_time": 1783496393,
+  "extras": "",
+  "force_login_when_click_read_more": false,
+  "id": "2058213731952334635",
+  "is_collapsed": false,
+  "is_copyable": true,
+  "is_jump_native": false,
+  "podcast_audio_enter": {
+    "action_url": "zhihu://podcast/audio_player/0?contentId=2058213731952334635&contentType=answer&subType=&entrance=detail_page",
+    "sub_type": "",
+    "text": "听内容",
+    "text_color": "MapBrand",
+    "text_size": 13
+  },
+  "question": {
+    "created": 1781663803,
+    "id": "2050527290925248637",
+    "question_type": "normal",
+    "relationship": {},
+    "title": "Gemini的模型是不是已经快被淘汰了？",
+    "type": "question",
+    "updated_time": 1781663803,
+    "url": "https://www.zhihu.com/api/v4/questions/2050527290925248637"
+  },
+  "relationship": {
+    "upvoted_followees": []
+  },
+  "type": "answer",
+  "updated_time": 1783496393,
+  "url": "https://www.zhihu.com/api/v4/answers/2058213731952334635",
+  "voteup_count": 3
+}

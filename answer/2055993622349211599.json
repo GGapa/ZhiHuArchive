@@ -1,0 +1,68 @@
+{
+  "allow_segment_interaction": 1,
+  "answer_type": "normal",
+  "author": {
+    "avatar_url": "https://pica.zhimg.com/v2-b3a4dcfac9d6fd77cf585196c612d5c8_l.jpg?source=2c26e567",
+    "avatar_url_template": "https://picx.zhimg.com/v2-b3a4dcfac9d6fd77cf585196c612d5c8.jpg?source=2c26e567",
+    "badge": [],
+    "badge_v2": {
+      "detail_badges": [],
+      "icon": "",
+      "merged_badges": [],
+      "night_icon": "",
+      "title": "ヾ(≧▽≦*)o"
+    },
+    "gender": 0,
+    "headline": "ヾ(≧▽≦*)o",
+    "id": "bd3c16f69cb9175e344a40454ebd171f",
+    "is_advertiser": false,
+    "is_org": false,
+    "is_privacy": false,
+    "name": "GGapa",
+    "type": "people",
+    "url": "https://www.zhihu.com/api/v4/people/bd3c16f69cb9175e344a40454ebd171f",
+    "url_token": "ggapa",
+    "user_type": "people"
+  },
+  "biz_ext": {
+    "share_guide": {
+      "has_positive_bubble": false,
+      "has_time_bubble": false,
+      "hit_share_guide_cluster": false
+    }
+  },
+  "comment_count": 0,
+  "content": "<p data-pid=\"ovCKRhDW\">啊，我看的时候也产生了一毛一样的问题呢。</p><p data-pid=\"WWOxglY5\">感觉就是很难理解她为为什么会喜欢上男主，从我个人的感觉来说，童年创伤对人造成的阴影是十分浓郁的，女主再次见到男主应该是避着避着走才对，但动画中所呈现出来的剧情却并非如此。</p><p data-pid=\"Rr5xKBXf\">那么我就只能够猜测，女主因为耳朵不好，配合上家庭的影响，其在小学的时候都没有意识到自己是在被霸凌。她的理解应该是自己做了什么不好的事情，做错了什么才导致大家这么对待她，所以在女主的意识里，男主根本就不是一个霸凌者，而是一个评判自己做的够不够好的参照物，这也是为什么她要一直说“对不起”的原因。</p><p data-pid=\"tBCWtAT-\">到了后来，男主去找她，才让她意识到自己现在可能并没有那么差了，而男主又是如此的关心女主让女主觉得自己被别人需要，减轻了自卑和内疚的心态，因此女主喜欢上了男主。</p>",
+  "content_need_truncated": false,
+  "created_time": 1782967078,
+  "extras": "",
+  "force_login_when_click_read_more": false,
+  "id": "2055993622349211599",
+  "is_collapsed": false,
+  "is_copyable": true,
+  "is_jump_native": false,
+  "podcast_audio_enter": {
+    "action_url": "zhihu://podcast/audio_player/0?contentId=2055993622349211599&contentType=answer&subType=&entrance=detail_page",
+    "sub_type": "",
+    "text": "听内容",
+    "text_color": "MapBrand",
+    "text_size": 13
+  },
+  "question": {
+    "created": 1564674644,
+    "id": "338238535",
+    "question_type": "normal",
+    "relationship": {},
+    "title": "为什么《声之形》女主后来喜欢上曾霸凌过自己的男主呢，虽然男主也忏悔了，但太不现实了啊？",
+    "type": "question",
+    "updated_time": 1564674644,
+    "url": "https://www.zhihu.com/api/v4/questions/338238535"
+  },
+  "relationship": {
+    "upvoted_followees": []
+  },
+  "type": "answer",
+  "updated_time": 1782967078,
+  "url": "https://www.zhihu.com/api/v4/answers/2055993622349211599",
+  "voteup_count": 1
+}
