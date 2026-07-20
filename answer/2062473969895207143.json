@@ -1,0 +1,90 @@
+{
+  "allow_segment_interaction": 1,
+  "answer_type": "normal",
+  "author": {
+    "avatar_url": "https://picx.zhimg.com/v2-b3a4dcfac9d6fd77cf585196c612d5c8_l.jpg?source=2c26e567",
+    "avatar_url_template": "https://pic1.zhimg.com/v2-b3a4dcfac9d6fd77cf585196c612d5c8.jpg?source=2c26e567",
+    "badge": [],
+    "badge_v2": {
+      "detail_badges": [],
+      "icon": "",
+      "merged_badges": [],
+      "night_icon": "",
+      "title": "ヾ(≧▽≦*)o"
+    },
+    "gender": 0,
+    "headline": "ヾ(≧▽≦*)o",
+    "id": "bd3c16f69cb9175e344a40454ebd171f",
+    "is_advertiser": false,
+    "is_org": false,
+    "is_privacy": false,
+    "name": "GGapa",
+    "type": "people",
+    "url": "https://www.zhihu.com/api/v4/people/bd3c16f69cb9175e344a40454ebd171f",
+    "url_token": "ggapa",
+    "user_type": "people"
+  },
+  "biz_ext": {
+    "share_guide": {
+      "has_positive_bubble": false,
+      "has_time_bubble": false,
+      "hit_share_guide_cluster": false
+    }
+  },
+  "comment_count": 3,
+  "content": "<p data-pid=\"ZLIgAptl\">我觉得李新野对满蒙价值观的定义非常的精妙：<b>以诚信、劳动、生产为耻，以背叛、欺骗、掠夺为荣。</b></p><p data-pid=\"t5yqEu3a\">我对这种人深恶痛绝。只要一个集体里出现了一个这样的人，那么这个人就如同一颗老鼠屎一般，能够坏了一锅好粥。</p><p data-pid=\"bRRmh2c-\">高一时我们班是中考班，里面全是参加过中考的人。大家都通过自己初中三年的努力，通过考试证明了自己后被学校招入。彼时氛围其乐融融，大家都认可“一分耕耘一分收获”的朴素道理，班里的风气清亮且坦荡</p><p data-pid=\"t2oO5cvO\">然而到了到了后来文理分科的时候，班里来了一批直升的同学，他们大部分也很勤劳，乐于学习明洁侍人，出于对自己实力和前途的综合考量，选择了直升，这本没有问题，但是同这部分人进来的，还有不敢参加中考的人。</p><p data-pid=\"leh1s-_0\">这些人在初中就没有养成良好的价值道德体系，以偷懒混日子为荣；又或者是时时刻刻都对自己抱有不切实际的幻想，总是想要当上人上人，恨不得把所有成绩比他好的人往死里整，然后这样才能使自己登上“第一”的宝座。</p><p data-pid=\"485T8DjK\">是的，这样的人想的不是勤奋学习努力提升自己，而是使用腹黑的方式，广泛收集着其他人的学习方式，但从未又向他人分享，成为了一个只进不出的黑洞。做什么事都要蹑手蹑脚，幻想着有人要来偷窃他的知识，害怕别人发现了他的学习方法，甚至在考试前故意散播焦虑，用尽各种不见光的手段去干扰他人。</p><p data-pid=\"22wnoxoR\">原本融洽清亮的班级氛围，因这几个“老鼠屎”的搅动而日渐浑浊。大家开始彼此戒备，信任被一点点蚕食，曾经那种“一分耕耘一分收获”的纯粹信念，也变得摇摇欲坠。这恰恰印证了那种掠夺与虚伪价值观的毒性，腐蚀着个人，还悄无声息的拉低了整体的道德底线，让每一个本想踏实耕耘的人都不得不时刻提防暗处的冷箭。</p><hr/><p data-pid=\"9jUisaGB\">在百日誓师的时候，我就疑惑——为什么其他班的人总能够自发的结合在一起，共同娱乐，欢声笑语，而我们班却是小团体扎堆呢？就是因为有着这样的人，导致所有人彼此之间互不信任，互相散播对方的槽点，大家只敢和自己最为亲近的人一起游玩，而不敢和稍微不熟的人建立联系。</p><p data-pid=\"9GEPPHnc\">我们班有一群勤勤恳恳的人，他们努力学习为班争光，可就只是因为极个别的极端案例，就给这篇美轮美奂的作文，添加了几大段的黑疤。这种人不仅对不起你自己，还对不起我们班上的所有人，你在无形之中伤害着大家，可是你却认为理固宜然，不以为耻，反以为荣，你真的配这样做吗？</p>",
+  "content_need_truncated": false,
+  "created_time": 1784512113,
+  "extras": "",
+  "force_login_when_click_read_more": false,
+  "id": "2062473969895207143",
+  "is_collapsed": false,
+  "is_copyable": true,
+  "is_jump_native": false,
+  "podcast_audio_enter": {
+    "action_url": "zhihu://podcast/audio_player/87992959911?contentId=2062473969895207143&contentType=answer&subType=&entrance=detail_page",
+    "sub_type": "",
+    "text": "5 人听过",
+    "text_color": "MapBrand",
+    "text_size": 13
+  },
+  "question": {
+    "created": 1784482265,
+    "id": "2062348777638343449",
+    "question_type": "normal",
+    "relationship": {},
+    "title": "如何评价李新野的《关于“满蒙价值观”》？",
+    "type": "question",
+    "updated_time": 1784482265,
+    "url": "https://www.zhihu.com/api/v4/questions/2062348777638343449"
+  },
+  "relationship": {
+    "upvoted_followees": []
+  },
+  "segment_infos": [
+    {
+      "marks": [
+        {
+          "end_index": 52,
+          "seg_info": {
+            "comment_count": 0,
+            "is_like": false,
+            "is_span": false,
+            "like_count": 7,
+            "my_comment_count": 0,
+            "seg_ids": [
+              "2062491919113050062"
+            ]
+          },
+          "start_index": 0
+        }
+      ],
+      "pid": "t5yqEu3a",
+      "text": "我对这种人深恶痛绝。只要一个集体里出现了一个这样的人，那么这个人就如同一颗老鼠屎一般，能够坏了一锅好粥。"
+    }
+  ],
+  "type": "answer",
+  "updated_time": 1784512292,
+  "url": "https://www.zhihu.com/api/v4/answers/2062473969895207143",
+  "voteup_count": 300
+}

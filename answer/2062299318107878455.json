@@ -1,0 +1,68 @@
+{
+  "allow_segment_interaction": 1,
+  "answer_type": "normal",
+  "author": {
+    "avatar_url": "https://pica.zhimg.com/v2-b3a4dcfac9d6fd77cf585196c612d5c8_l.jpg?source=2c26e567",
+    "avatar_url_template": "https://picx.zhimg.com/v2-b3a4dcfac9d6fd77cf585196c612d5c8.jpg?source=2c26e567",
+    "badge": [],
+    "badge_v2": {
+      "detail_badges": [],
+      "icon": "",
+      "merged_badges": [],
+      "night_icon": "",
+      "title": "ヾ(≧▽≦*)o"
+    },
+    "gender": 0,
+    "headline": "ヾ(≧▽≦*)o",
+    "id": "bd3c16f69cb9175e344a40454ebd171f",
+    "is_advertiser": false,
+    "is_org": false,
+    "is_privacy": false,
+    "name": "GGapa",
+    "type": "people",
+    "url": "https://www.zhihu.com/api/v4/people/bd3c16f69cb9175e344a40454ebd171f",
+    "url_token": "ggapa",
+    "user_type": "people"
+  },
+  "biz_ext": {
+    "share_guide": {
+      "has_positive_bubble": false,
+      "has_time_bubble": false,
+      "hit_share_guide_cluster": false
+    }
+  },
+  "comment_count": 0,
+  "content": "<p data-pid=\"K1nIf7_q\">不会。</p><p data-pid=\"AqTJ2FlA\">我来知乎就是为了看大家经历了什么，有着怎样的生活。AI 并不是一个独立的个体，它更像人类知识和经验的总和，是抽象于个体之外的。</p><p data-pid=\"2NH8Q7nA\">既然它不是个体，就没法拥有个体独特的体验，自然无法讲述出独特并且有新意的故事和想法。</p><p data-pid=\"BS6DkiCp\">现在的知乎还是有很多答主愿意结合自己以及自己身边的故事来回答问题，这样是很好的。能够让我学习不同的人所对应的不同的活法。</p><p data-pid=\"yFquV3QT\">知乎上有很多人是非常优秀的，虽然我还年少，但他们的生活可能是我一辈子都达不成的。但是至少让我较为真实的知道了这个世界上原来还有这样的一种人，并且这种人居然过的这么精彩和出色。</p><p data-pid=\"s0pplBOJ\">又有的人是没有那么出色的，但是他们的经历依然很充实。有的可能比我好些，有的又要更加困难些，但这有助于我摸清我的定位，至少不会杞人忧天或是骄傲自满。</p><p data-pid=\"qjEud-hs\">而这是 AI 无法达成的，AI 提供的内容总是高度概括并且有一定失真的，他总会提供这类人的最大公约数，而不是一个活生生具体的。甚至还会不断发展的个人形象。</p><p data-pid=\"77LIou6u\">所以如果有一天没有真人创作者还会在知乎上创作，那我想我也不会再使用知乎了吧。</p>",
+  "content_need_truncated": false,
+  "created_time": 1784470473,
+  "extras": "",
+  "force_login_when_click_read_more": false,
+  "id": "2062299318107878455",
+  "is_collapsed": false,
+  "is_copyable": true,
+  "is_jump_native": false,
+  "podcast_audio_enter": {
+    "action_url": "zhihu://podcast/audio_player/0?contentId=2062299318107878455&contentType=answer&subType=&entrance=detail_page",
+    "sub_type": "",
+    "text": "听内容",
+    "text_color": "MapBrand",
+    "text_size": 13
+  },
+  "question": {
+    "created": 1738312110,
+    "id": "10962022454",
+    "question_type": "normal",
+    "relationship": {},
+    "title": "如果未来的知乎充满着由 DeepSeek 这种 AI 生成的答案，你还愿意逛知乎吗？",
+    "type": "question",
+    "updated_time": 1740888719,
+    "url": "https://www.zhihu.com/api/v4/questions/10962022454"
+  },
+  "relationship": {
+    "upvoted_followees": []
+  },
+  "type": "answer",
+  "updated_time": 1784470473,
+  "url": "https://www.zhihu.com/api/v4/answers/2062299318107878455",
+  "voteup_count": 0
+}
